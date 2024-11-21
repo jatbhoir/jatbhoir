@@ -1,20 +1,27 @@
 <div align="center">
- <!--- ![A1](https://github.com/user-attachments/assets/e8a2404d-07b5-4396-a1aa-3cc741defe5b) --->
 
- <a href=""><img src="Assets/A1.jpg" width="100%" height="auto"/></a>
-  <!--- <h1 style="font-family: 'Comic Neue', cursive; color: #FF6FB5;">🌌 Welcome to Jat Bhoir's Universe 🌌</h1> --->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6FB5&center=true&vCenter=true&width=435&lines=✨ Anime-Inspired Coder;🌟 Crafting Code and Dreams;🛠️ Exploring New Frontiers ✨" alt="Typing SVG" />
-  
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <!-- Top Banner --->
+ <a href=""><img src="Assets/A1.jpg" width="100%" height="auto"/></a> 
+   <!--- ![A1](https://github.com/user-attachments/assets/e8a2404d-07b5-4396-a1aa-3cc741defe5b) --->
+   
+ <!--- Typing SVG --->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6FB5&center=true&vCenter=true&width=550&lines=🛠️ Anime-Inspired Developer by Day ✨; 🌟 Anime Enthusiast by Night, Exploring New Frontiers ✨" alt="Typing SVG" />
 
-<a href="https://linkedin.com/in/jatinbhoir" target="blank"><img align="center" src="" alt="jatinbhoir" height="30" width="40" /></a>
-
-<a href="https://instagram.com/jatbhoir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatbhoir" height="30" width="40" /></a>
-<a href="/https://ijatinbhoir.home.blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ijatinbhoir.home.blog/" height="30" width="40" /></a>
+  <!--- Let's Connect on --->
+ <p align="center">
+   <a href="https://ijatinbhoir.home.blog/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=brJbevcksfl1&format=png&color=000000" alt="https://ijatinbhoir.home.blog/" height="42" width="42" /></a>  
+   &#8287;&#8287;&#8287;
+   <a href="https://linkedin.com/in/jatinbhoir" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="jatinbhoir" height="50" width="50" /></a>
+   &#8287;&#8287;&#8287;
+   <a href="https://instagram.com/jatbhoir" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bh8L0hocH1mA&format=png&color=000000" alt="jatbhoir" height="50" width="50" /></a>
+  &#8287;&#8287;&#8287;
+  <a href="jatbhoir" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LIGCjf5dKGrN&format=png&color=000000" alt="jatbhoir" height="50" width="50" /></a>
+ </p>
+ 
 </div>
 
 
----
+<!---
 
 <div align="center" style="padding: 1rem; position: relative;">
   <div style="background: rgba(255, 255, 255, 0.2); border-radius: 15px; backdrop-filter: blur(10px); padding: 1rem; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
@@ -24,16 +31,15 @@
   </div>
 </div>
 
----
+--->
 
 ### 🎌 Anime Universe
-<div align="center">
-  <img src="https://s4.anilist.co/file/anilistcdn/media/anime/banner/101922-kgUQo8swilAO.jpg" alt="Steins;Gate Banner" style="width: 100%; border-radius: 15px;" />
-  <p align="center"><strong>✨ Favorite Anime: Steins;Gate</strong></p>
-  <img src="https://s4.anilist.co/file/anilistcdn/media/anime/banner/20692-TDQ7KqoykUvR.jpg" alt="Fullmetal Alchemist: Brotherhood Banner" style="width: 100%; border-radius: 15px;" />
-  <p align="center"><strong>⚙️ Favorite Anime: Fullmetal Alchemist: Brotherhood</strong></p>
-  <img src="https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-EfmE0MniUuXL.jpg" alt="Attack on Titan Banner" style="width: 100%; border-radius: 15px;" />
-  <p align="center"><strong>🔱 Favorite Anime: Attack on Titan</strong></p>
+<div align="left">
+  # 🌸 My recent AniList activity
+ 
+ <!-- ANILIST_ACTIVITY:start -->
+ 
+ <!-- ANILIST_ACTIVITY:end -->
 </div>
 
 ---
@@ -47,20 +53,16 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
----
+<!---
+--- 
 
-### 🚀 Highlighted Projects
-<div align="center">
-  <a href="https://github.com/jatbhoir/YourCoolRepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatbhoir&repo=YourCoolRepo&theme=radical" alt="Project 1" />
-  </a>
-</div>
-
----
-
-### 💬 Let's Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/jatbhoir"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jatbhoir@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/jatbhoir"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+### Stats
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatbhoir&show_icons=true&locale=en&layout=compact" alt="jatbhoir" width="45%"/>
 </p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatbhoir&show_icons=true&locale=en" alt="jatbhoir" /></p> ---.>
+<p>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jatbhoir&" alt="jatbhoir" width="45%" />
+</p>
+
+--->
