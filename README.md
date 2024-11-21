@@ -1,7 +1,16 @@
 <div align="center">
-  <a href=""><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
-  <h1 style="font-family: 'Comic Neue', cursive; color: #FF6FB5;">🌌 Welcome to Jat Bhoir's Universe 🌌</h1>
+ <!--- ![A1](https://github.com/user-attachments/assets/e8a2404d-07b5-4396-a1aa-3cc741defe5b) --->
+
+ <a href=""><img src="A1.jpg" width="100%" height="auto"/></a>
+  <!--- <h1 style="font-family: 'Comic Neue', cursive; color: #FF6FB5;">🌌 Welcome to Jat Bhoir's Universe 🌌</h1> --->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6FB5&center=true&vCenter=true&width=435&lines=✨ Anime-Inspired Coder;🌟 Crafting Code and Dreams;🛠️ Exploring New Frontiers ✨" alt="Typing SVG" />
+  
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+<a href="https://linkedin.com/in/jatinbhoir" target="blank"><img align="center" src="" alt="jatinbhoir" height="30" width="40" /></a>
+
+<a href="https://instagram.com/jatbhoir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatbhoir" height="30" width="40" /></a>
+<a href="/https://ijatinbhoir.home.blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ijatinbhoir.home.blog/" height="30" width="40" /></a>
 </div>
 
 
