@@ -1,0 +1,17 @@
+name: AniList WorkFlow
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch: # for manual debuging
+
+jobs:
+  Live-Anilist:
+    name: README w/ Latest AniList activites
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: AniList readme workflow
+        uses: pxseu/anilist-readme@senpai # latest version
+        with:
+          user_name: jatbhoir
