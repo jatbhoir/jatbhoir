@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 18 of [Omniscient Reader](https://anilist.co/manga/119257) (20:40 11 December 2024)
+-   📖 Read chapter 2 - 23 of [Omniscient Reader](https://anilist.co/manga/119257) (07:11 12 December 2024)
 -   📺 Watched episode 11 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:17 11 December 2024)
 -   📖 Read chapter 1 of [Omniscient Reader](https://anilist.co/manga/119257) (05:44 11 December 2024)
 -   📖 Read chapter 1 - 123 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (04:33 11 December 2024)
