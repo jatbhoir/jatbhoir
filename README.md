@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:05 12 December 2024)
+-   📺 Watched episode 11 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (16:39 12 December 2024)
 -   📖 Read chapter 2 - 26 of [Omniscient Reader](https://anilist.co/manga/119257) (07:39 12 December 2024)
 -   📺 Watched episode 11 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:17 11 December 2024)
 -   📖 Read chapter 1 of [Omniscient Reader](https://anilist.co/manga/119257) (05:44 11 December 2024)
--   📖 Read chapter 1 - 123 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (04:33 11 December 2024)
--   📖 Completed [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (04:33 11 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
