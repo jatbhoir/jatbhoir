@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 36 of [Omniscient Reader](https://anilist.co/manga/119257) (19:03 12 December 2024)
+-   📖 Read chapter 2 - 41 of [Omniscient Reader](https://anilist.co/manga/119257) (19:34 12 December 2024)
 -   📖 Read chapter 210 of [March Comes in Like a Lion](https://anilist.co/manga/31224) (17:44 12 December 2024)
 -   📺 Completed [Loner Life in Another World](https://anilist.co/anime/173693) (17:28 12 December 2024)
 -   📺 Watched episode 10 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:05 12 December 2024)
