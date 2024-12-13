@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 of [Omniscient Reader](https://anilist.co/manga/119257) (09:07 13 December 2024)
+-   📺 Watched episode 11 of [DAN DA DAN](https://anilist.co/anime/171018) (08:53 13 December 2024)
+-   📺 Watched episode 11 of [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (08:29 13 December 2024)
 -   📖 Read chapter 2 - 41 of [Omniscient Reader](https://anilist.co/manga/119257) (19:34 12 December 2024)
 -   📖 Read chapter 210 of [March Comes in Like a Lion](https://anilist.co/manga/31224) (17:44 12 December 2024)
--   📺 Completed [Loner Life in Another World](https://anilist.co/anime/173693) (17:28 12 December 2024)
--   📺 Watched episode 10 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:05 12 December 2024)
--   📺 Watched episode 11 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (16:39 12 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
