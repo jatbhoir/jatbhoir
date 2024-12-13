@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 of [Omniscient Reader](https://anilist.co/manga/119257) (09:07 13 December 2024)
+-   📖 Read chapter 42 - 46 of [Omniscient Reader](https://anilist.co/manga/119257) (10:05 13 December 2024)
 -   📺 Watched episode 11 of [DAN DA DAN](https://anilist.co/anime/171018) (08:53 13 December 2024)
 -   📺 Watched episode 11 of [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (08:29 13 December 2024)
 -   📖 Read chapter 2 - 41 of [Omniscient Reader](https://anilist.co/manga/119257) (19:34 12 December 2024)
