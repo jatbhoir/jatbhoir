@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 - 164 of [Omniscient Reader](https://anilist.co/manga/119257) (19:07 15 December 2024)
+-   📖 Read chapter 42 - 171 of [Omniscient Reader](https://anilist.co/manga/119257) (20:07 15 December 2024)
 -   📺 Watched episode 11 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (16:45 15 December 2024)
 -   📺 Watched episode 10 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:24 15 December 2024)
 -   📺 Watched episode 11 of [365 Days to the Wedding](https://anilist.co/anime/165790) (13:04 15 December 2024)
