@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 176 - 197 of [Omniscient Reader](https://anilist.co/manga/119257) (15:11 16 December 2024)
+-   📖 Read chapter 176 - 206 of [Omniscient Reader](https://anilist.co/manga/119257) (16:10 16 December 2024)
 -   📺 Watched episode 1 - 6 of [You are Ms. Servant](https://anilist.co/anime/172190) (10:41 16 December 2024)
 -   📺 Plans to watch [You are Ms. Servant](https://anilist.co/anime/172190) (08:19 16 December 2024)
 -   📖 Read chapter 42 - 175 of [Omniscient Reader](https://anilist.co/manga/119257) (20:36 15 December 2024)
