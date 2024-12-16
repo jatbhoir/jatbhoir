@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [You are Ms. Servant](https://anilist.co/anime/172190) (09:02 16 December 2024)
+-   📺 Plans to watch [You are Ms. Servant](https://anilist.co/anime/172190) (08:19 16 December 2024)
 -   📖 Read chapter 42 - 175 of [Omniscient Reader](https://anilist.co/manga/119257) (20:36 15 December 2024)
 -   📺 Watched episode 11 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (16:45 15 December 2024)
 -   📺 Watched episode 10 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:24 15 December 2024)
--   📺 Watched episode 11 of [365 Days to the Wedding](https://anilist.co/anime/165790) (13:04 15 December 2024)
--   📺 Watched episode 11 of [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (12:45 15 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
