@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 139 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (07:09 18 December 2024)
 -   📖 Read chapter 176 - 240 of [Omniscient Reader](https://anilist.co/manga/119257) (19:57 16 December 2024)
 -   📺 Watched episode 1 - 6 of [You are Ms. Servant](https://anilist.co/anime/172190) (10:41 16 December 2024)
 -   📺 Plans to watch [You are Ms. Servant](https://anilist.co/anime/172190) (08:19 16 December 2024)
 -   📖 Read chapter 42 - 175 of [Omniscient Reader](https://anilist.co/manga/119257) (20:36 15 December 2024)
--   📺 Watched episode 11 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (16:45 15 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
