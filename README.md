@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (09:55 19 December 2024)
+-   📺 Plans to watch [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (09:26 19 December 2024)
 -   📺 Watched episode 7 - 11 of [You are Ms. Servant](https://anilist.co/anime/172190) (17:30 18 December 2024)
 -   📺 Watched episode 11 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (15:38 18 December 2024)
 -   📺 Watched episode 12 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (14:18 18 December 2024)
--   📺 Watched episode 12 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (07:45 18 December 2024)
--   📖 Read chapter 139 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (07:09 18 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
