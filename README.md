@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [365 Days to the Wedding](https://anilist.co/anime/165790) (08:49 21 December 2024)
+-   📺 Completed [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (08:24 21 December 2024)
 -   📺 Completed [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (07:58 21 December 2024)
 -   📺 Watched episode 11 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (14:41 19 December 2024)
 -   📺 Watched episode 1 - 11 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (14:15 19 December 2024)
--   📺 Plans to watch [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (09:26 19 December 2024)
--   📺 Watched episode 7 - 11 of [You are Ms. Servant](https://anilist.co/anime/172190) (17:30 18 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
