@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [I Stole the First Ranker’s Soul](https://anilist.co/manga/156477) (13:54 21 December 2024)
+-   📖 Read chapter 2 - 99 of [I Stole the First Ranker’s Soul](https://anilist.co/manga/156477) (13:46 21 December 2024)
 -   📺 Completed [365 Days to the Wedding](https://anilist.co/anime/165790) (08:49 21 December 2024)
 -   📺 Completed [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (08:24 21 December 2024)
 -   📺 Completed [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (07:58 21 December 2024)
--   📺 Watched episode 11 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (14:41 19 December 2024)
--   📺 Watched episode 1 - 11 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (14:15 19 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
