@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (07:58 21 December 2024)
 -   📺 Watched episode 11 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (14:41 19 December 2024)
 -   📺 Watched episode 1 - 11 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (14:15 19 December 2024)
 -   📺 Plans to watch [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (09:26 19 December 2024)
 -   📺 Watched episode 7 - 11 of [You are Ms. Servant](https://anilist.co/anime/172190) (17:30 18 December 2024)
--   📺 Watched episode 11 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (15:38 18 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
