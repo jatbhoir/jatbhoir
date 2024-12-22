@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (08:59 22 December 2024)
 -   📖 Completed [I Stole the First Ranker’s Soul](https://anilist.co/manga/156477) (13:54 21 December 2024)
 -   📖 Read chapter 2 - 99 of [I Stole the First Ranker’s Soul](https://anilist.co/manga/156477) (13:46 21 December 2024)
 -   📺 Completed [365 Days to the Wedding](https://anilist.co/anime/165790) (08:49 21 December 2024)
 -   📺 Completed [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (08:24 21 December 2024)
--   📺 Completed [Sword Art Online Alternative: Gun Gale Online II](https://anilist.co/anime/167141) (07:58 21 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
