@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [You are Ms. Servant](https://anilist.co/anime/172190) (17:02 22 December 2024)
+-   📺 Watched episode 11 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:31 22 December 2024)
 -   📖 Read chapter 5 - 9 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (11:01 22 December 2024)
 -   📺 Watched episode 12 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:23 22 December 2024)
 -   📺 Watched episode 12 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (08:59 22 December 2024)
--   📖 Completed [I Stole the First Ranker’s Soul](https://anilist.co/manga/156477) (13:54 21 December 2024)
--   📖 Read chapter 2 - 99 of [I Stole the First Ranker’s Soul](https://anilist.co/manga/156477) (13:46 21 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
