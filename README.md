@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 17 - 18 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (10:41 24 December 2024)
+-   📖 Read chapter 17 - 19 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (12:19 24 December 2024)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (09:00 24 December 2024)
 -   📖 Read chapter 10 - 16 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (18:49 23 December 2024)
 -   📺 Completed [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (11:46 23 December 2024)
