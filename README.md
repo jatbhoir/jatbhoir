@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 17 - 98 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (23:05 24 December 2024)
+-   📖 Read chapter 17 - 100 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (23:20 24 December 2024)
 -   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (12:59 24 December 2024)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (09:00 24 December 2024)
 -   📖 Read chapter 10 - 16 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (18:49 23 December 2024)
