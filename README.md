@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 13 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (16:52 25 December 2024)
--   📖 Completed [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (11:21 25 December 2024)
--   📖 Read chapter 17 - 104 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (08:32 25 December 2024)
--   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (12:59 24 December 2024)
--   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (09:00 24 December 2024)
+-   📖 Read chapter 119 of [Kaiju No.8](https://anilist.co/manga/120760) (18:12 25 December 2024)
+-   📖 Read chapter 112 of [My Dress-Up Darling](https://anilist.co/manga/101583) (18:07 25 December 2024)
+-   📖 Completed [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (17:56 25 December 2024)
+-   📺 Completed [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:38 25 December 2024)
+-   📺 Completed [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:15 25 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
