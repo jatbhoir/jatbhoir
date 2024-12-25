@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (11:21 25 December 2024)
 -   📖 Read chapter 17 - 104 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (08:32 25 December 2024)
 -   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (12:59 24 December 2024)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (09:00 24 December 2024)
 -   📖 Read chapter 10 - 16 of [The Villainess Turns the Hourglass](https://anilist.co/manga/116382) (18:49 23 December 2024)
--   📺 Completed [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (11:46 23 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
