@@ -39,8 +39,8 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Nina the Starry Bride](https://anilist.co/anime/171038) (07:54 26 December 2024)
--   📖 Read chapter 23 - 80 of [Iris: The Lady and Her Smartphone](https://anilist.co/manga/109252) (01:52 26 December 2024)
+-   📖 Read chapter 23 - 85 of [Iris: The Lady and Her Smartphone](https://anilist.co/manga/109252) (09:08 26 December 2024)
+-   📺 Watched episode 1 - 4 of [Nina the Starry Bride](https://anilist.co/anime/171038) (08:37 26 December 2024)
 -   📖 Read chapter 65 of [Chronicles of an Aristocrat Reborn in Another World](https://anilist.co/manga/103238) (18:27 25 December 2024)
 -   📖 Read chapter 119 of [Kaiju No.8](https://anilist.co/manga/120760) (18:12 25 December 2024)
 -   📖 Read chapter 112 of [My Dress-Up Darling](https://anilist.co/manga/101583) (18:07 25 December 2024)
