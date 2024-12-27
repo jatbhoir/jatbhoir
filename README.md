@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 7 of [Nina the Starry Bride](https://anilist.co/anime/171038) (16:10 27 December 2024)
+-   📺 Watched episode 5 - 9 of [Nina the Starry Bride](https://anilist.co/anime/171038) (16:52 27 December 2024)
 -   📖 Completed [Iris: The Lady and Her Smartphone](https://anilist.co/manga/109252) (17:36 26 December 2024)
 -   📖 Read chapter 23 - 140 of [Iris: The Lady and Her Smartphone](https://anilist.co/manga/109252) (16:44 26 December 2024)
 -   📺 Watched episode 1 - 4 of [Nina the Starry Bride](https://anilist.co/anime/171038) (08:37 26 December 2024)
