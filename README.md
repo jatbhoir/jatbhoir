@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 28 of [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (21:07 28 December 2024)
+-   📖 Completed [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (22:01 28 December 2024)
+-   📖 Read chapter 1 - 46 of [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (21:59 28 December 2024)
 -   📖 Read chapter 245 - 258 of [Loner Life in Another World](https://anilist.co/manga/107540) (18:49 28 December 2024)
 -   📖 Read chapter 241 - 242 of [Omniscient Reader](https://anilist.co/manga/119257) (17:26 28 December 2024)
 -   📖 Read chapter 211 of [March Comes in Like a Lion](https://anilist.co/manga/31224) (17:08 28 December 2024)
--   📖 Read chapter 32 of [I Got Married to the Girl I Hate Most in Class](https://anilist.co/manga/134166) (17:04 28 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
