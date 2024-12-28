@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 23 - 55 of [Nina the Starry Bride](https://anilist.co/manga/112234) (16:04 28 December 2024)
+-   📖 Read chapter 211 of [March Comes in Like a Lion](https://anilist.co/manga/31224) (17:08 28 December 2024)
+-   📖 Read chapter 32 of [I Got Married to the Girl I Hate Most in Class](https://anilist.co/manga/134166) (17:04 28 December 2024)
+-   📖 Read chapter 23 - 60 of [Nina the Starry Bride](https://anilist.co/manga/112234) (16:54 28 December 2024)
 -   📺 Completed [Nina the Starry Bride](https://anilist.co/anime/171038) (17:56 27 December 2024)
 -   📺 Watched episode 5 - 11 of [Nina the Starry Bride](https://anilist.co/anime/171038) (17:35 27 December 2024)
--   📖 Completed [Iris: The Lady and Her Smartphone](https://anilist.co/manga/109252) (17:36 26 December 2024)
--   📖 Read chapter 23 - 140 of [Iris: The Lady and Her Smartphone](https://anilist.co/manga/109252) (16:44 26 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
