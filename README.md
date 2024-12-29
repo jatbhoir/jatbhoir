@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (17:16 29 December 2024)
 -   📺 Completed [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (13:38 29 December 2024)
 -   📺 Watched episode 13 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (13:18 29 December 2024)
 -   📺 Completed [BLUE LOCK Season 2](https://anilist.co/anime/163146) (12:28 29 December 2024)
 -   📺 Watched episode 13 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (12:07 29 December 2024)
--   📖 Completed [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (22:01 28 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
