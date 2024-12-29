@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [BLUE LOCK Season 2](https://anilist.co/anime/163146) (12:28 29 December 2024)
 -   📺 Watched episode 13 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (12:07 29 December 2024)
 -   📖 Completed [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (22:01 28 December 2024)
 -   📖 Read chapter 1 - 46 of [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (21:59 28 December 2024)
 -   📖 Read chapter 245 - 258 of [Loner Life in Another World](https://anilist.co/manga/107540) (18:49 28 December 2024)
--   📖 Read chapter 241 - 242 of [Omniscient Reader](https://anilist.co/manga/119257) (17:26 28 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
