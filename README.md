@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 13 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (12:49 05 January 2025)
+-   📺 Watched episode 1 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (12:29 05 January 2025)
 -   📺 Watched episode 1 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (06:50 05 January 2025)
 -   📺 Plans to watch [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (06:27 05 January 2025)
 -   📖 Read chapter 243 of [Omniscient Reader](https://anilist.co/manga/119257) (18:47 01 January 2025)
--   📖 Read chapter 259 of [Loner Life in Another World](https://anilist.co/manga/107540) (18:37 01 January 2025)
--   📺 Paused watching [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (19:39 29 December 2024)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
