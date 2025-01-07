@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [The Ancient Magus' Bride Season 2 Part 2](https://anilist.co/anime/166452) (19:43 07 January 2025)
+-   📺 Watched episode 1 - 9 of [The Ancient Magus' Bride Season 2 Part 2](https://anilist.co/anime/166452) (21:03 07 January 2025)
 -   📺 Plans to watch [The Ancient Magus' Bride Season 2 Part 2](https://anilist.co/anime/166452) (16:54 07 January 2025)
 -   📺 Completed [The Ancient Magus' Bride Season 2](https://anilist.co/anime/154364) (16:53 07 January 2025)
 -   📖 Read chapter 164 - 166 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (09:28 06 January 2025)
