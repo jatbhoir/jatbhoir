@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Ancient Magus' Bride Season 2 Part 2](https://anilist.co/anime/166452) (16:54 07 January 2025)
+-   📺 Completed [The Ancient Magus' Bride Season 2](https://anilist.co/anime/154364) (16:53 07 January 2025)
 -   📖 Read chapter 164 - 166 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (09:28 06 January 2025)
 -   📺 Watched episode 13 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (12:49 05 January 2025)
 -   📺 Watched episode 1 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (12:29 05 January 2025)
--   📺 Watched episode 1 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (06:50 05 January 2025)
--   📺 Plans to watch [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (06:27 05 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
