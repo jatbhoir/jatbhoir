@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 - 12 of [Blue Box](https://anilist.co/anime/170942) (18:09 08 January 2025)
 -   📺 Watched episode 1 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (16:27 08 January 2025)
 -   📺 Plans to watch [My Happy Marriage Season 2](https://anilist.co/anime/169441) (16:17 08 January 2025)
 -   📺 Completed [The Ancient Magus' Bride Season 2 Part 2](https://anilist.co/anime/166452) (22:06 07 January 2025)
 -   📺 Watched episode 1 - 11 of [The Ancient Magus' Bride Season 2 Part 2](https://anilist.co/anime/166452) (21:46 07 January 2025)
--   📺 Plans to watch [The Ancient Magus' Bride Season 2 Part 2](https://anilist.co/anime/166452) (16:54 07 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
