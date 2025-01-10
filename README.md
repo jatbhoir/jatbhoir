@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 11 - 12 of [The Demon King's Doll Butler](https://anilist.co/manga/182582) (13:56 10 January 2025)
+-   📖 Read chapter 11 - 15 of [The Demon King's Doll Butler](https://anilist.co/manga/182582) (14:18 10 January 2025)
 -   📺 Watched episode 13 - 14 of [Blue Box](https://anilist.co/anime/170942) (08:03 09 January 2025)
 -   📺 Watched episode 10 - 12 of [Blue Box](https://anilist.co/anime/170942) (18:09 08 January 2025)
 -   📺 Watched episode 1 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (16:27 08 January 2025)
