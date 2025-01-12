@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (10:50 12 January 2025)
 -   📺 Completed [The Ancient Magus' Bride Season 2](https://anilist.co/anime/154364) (06:51 12 January 2025)
 -   📺 Watched episode 1 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:41 11 January 2025)
 -   📺 Plans to watch [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:21 11 January 2025)
 -   📖 Read chapter 11 - 15 of [The Demon King's Doll Butler](https://anilist.co/manga/182582) (14:18 10 January 2025)
--   📺 Watched episode 13 - 14 of [Blue Box](https://anilist.co/anime/170942) (08:03 09 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
