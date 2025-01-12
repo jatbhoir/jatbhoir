@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 18 of [The Demon King's Doll Butler](https://anilist.co/manga/182582) (13:12 12 January 2025)
+-   📺 Watched episode 2 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (12:36 12 January 2025)
 -   📺 Plans to watch [SAKAMOTO DAYS](https://anilist.co/anime/177709) (11:53 12 January 2025)
 -   📖 Read chapter 87 - 93 of [Shangri-La Frontier](https://anilist.co/manga/122063) (11:44 12 January 2025)
 -   📺 Watched episode 14 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:14 12 January 2025)
--   📺 Watched episode 2 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (10:50 12 January 2025)
--   📺 Completed [The Ancient Magus' Bride Season 2](https://anilist.co/anime/154364) (06:51 12 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
