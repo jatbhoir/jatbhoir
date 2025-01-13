@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (18:30 13 January 2025)
 -   📖 Completed [The Demon King's Doll Butler](https://anilist.co/manga/182582) (19:19 12 January 2025)
 -   📖 Paused reading [The Demon King's Doll Butler](https://anilist.co/manga/182582) (19:19 12 January 2025)
 -   📖 Read chapter 16 - 50 of [The Demon King's Doll Butler](https://anilist.co/manga/182582) (19:19 12 January 2025)
 -   📺 Watched episode 1 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (16:25 12 January 2025)
--   📺 Plans to watch [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (16:06 12 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
