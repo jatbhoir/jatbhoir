@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (10:13 14 January 2025)
 -   📖 Read chapter 244 of [Omniscient Reader](https://anilist.co/manga/119257) (09:47 14 January 2025)
 -   📺 Watched episode 1 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (18:30 13 January 2025)
 -   📖 Completed [The Demon King's Doll Butler](https://anilist.co/manga/182582) (19:19 12 January 2025)
 -   📖 Paused reading [The Demon King's Doll Butler](https://anilist.co/manga/182582) (19:19 12 January 2025)
--   📖 Read chapter 16 - 50 of [The Demon King's Doll Butler](https://anilist.co/manga/182582) (19:19 12 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
