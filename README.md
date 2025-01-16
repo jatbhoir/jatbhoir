@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 245 of [Omniscient Reader](https://anilist.co/manga/119257) (18:25 16 January 2025)
 -   📺 Watched episode 2 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (18:04 16 January 2025)
 -   📺 Watched episode 14 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (06:07 15 January 2025)
 -   📺 Watched episode 2 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (05:38 15 January 2025)
 -   📺 Watched episode 2 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (10:13 14 January 2025)
--   📖 Read chapter 244 of [Omniscient Reader](https://anilist.co/manga/119257) (09:47 14 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
