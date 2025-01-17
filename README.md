@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 33 of [Aekanaru](https://anilist.co/manga/120675) (06:28 17 January 2025)
+-   📖 Read chapter 1 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:12 17 January 2025)
+-   📖 Plans to read [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:50 17 January 2025)
+-   📖 Completed [Aekanaru](https://anilist.co/manga/120675) (07:44 17 January 2025)
+-   📖 Read chapter 16 - 40 of [Aekanaru](https://anilist.co/manga/120675) (07:39 17 January 2025)
 -   📖 Read chapter 245 of [Omniscient Reader](https://anilist.co/manga/119257) (18:25 16 January 2025)
--   📺 Watched episode 2 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (18:04 16 January 2025)
--   📺 Watched episode 14 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (06:07 15 January 2025)
--   📺 Watched episode 2 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (05:38 15 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
