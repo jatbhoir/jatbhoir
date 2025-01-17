@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 29 of [Aekanaru](https://anilist.co/manga/120675) (20:36 16 January 2025)
+-   📖 Read chapter 16 - 31 of [Aekanaru](https://anilist.co/manga/120675) (05:58 17 January 2025)
 -   📖 Read chapter 245 of [Omniscient Reader](https://anilist.co/manga/119257) (18:25 16 January 2025)
 -   📺 Watched episode 2 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (18:04 16 January 2025)
 -   📺 Watched episode 14 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (06:07 15 January 2025)
