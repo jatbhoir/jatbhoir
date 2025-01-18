@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 10 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:52 18 January 2025)
 -   📖 Read chapter 1 - 3 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:26 17 January 2025)
 -   📖 Plans to read [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:50 17 January 2025)
 -   📖 Completed [Aekanaru](https://anilist.co/manga/120675) (07:44 17 January 2025)
 -   📖 Read chapter 16 - 40 of [Aekanaru](https://anilist.co/manga/120675) (07:39 17 January 2025)
--   📖 Read chapter 245 of [Omniscient Reader](https://anilist.co/manga/119257) (18:25 16 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
