@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 - 92 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (20:10 18 January 2025)
+-   📖 Read chapter 4 - 99 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (20:48 18 January 2025)
 -   📖 Read chapter 1 - 3 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:26 17 January 2025)
 -   📖 Plans to read [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:50 17 January 2025)
 -   📖 Completed [Aekanaru](https://anilist.co/manga/120675) (07:44 17 January 2025)
