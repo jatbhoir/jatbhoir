@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (12:06 19 January 2025)
+-   📺 Watched episode 15 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:42 19 January 2025)
 -   📖 Read chapter 4 - 106 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (04:40 19 January 2025)
 -   📖 Read chapter 1 - 3 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:26 17 January 2025)
 -   📖 Plans to read [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:50 17 January 2025)
--   📖 Completed [Aekanaru](https://anilist.co/manga/120675) (07:44 17 January 2025)
--   📖 Read chapter 16 - 40 of [Aekanaru](https://anilist.co/manga/120675) (07:39 17 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
