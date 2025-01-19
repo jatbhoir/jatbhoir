@@ -39,10 +39,10 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 110 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (18:34 19 January 2025)
 -   📺 Watched episode 2 - 3 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (18:10 19 January 2025)
 -   📺 Watched episode 3 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (17:31 19 January 2025)
 -   📺 Watched episode 2 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (17:06 19 January 2025)
--   📖 Read chapter 4 - 107 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (15:47 19 January 2025)
 -   📺 Watched episode 3 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (12:06 19 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
