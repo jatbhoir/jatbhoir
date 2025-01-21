@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 111 - 130 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (21:06 21 January 2025)
+-   📖 Read chapter 111 - 143 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (22:06 21 January 2025)
 -   📺 Watched episode 3 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (09:08 21 January 2025)
 -   📺 Watched episode 3 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:31 21 January 2025)
 -   📖 Read chapter 4 - 110 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (18:34 19 January 2025)
