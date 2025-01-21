@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 111 - 119 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (20:09 21 January 2025)
 -   📺 Watched episode 3 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (09:08 21 January 2025)
 -   📺 Watched episode 3 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:31 21 January 2025)
 -   📖 Read chapter 4 - 110 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (18:34 19 January 2025)
 -   📺 Watched episode 2 - 3 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (18:10 19 January 2025)
--   📺 Watched episode 3 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (17:31 19 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
