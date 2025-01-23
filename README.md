@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (06:47 23 January 2025)
 -   📖 Read chapter 246 of [Omniscient Reader](https://anilist.co/manga/119257) (23:45 21 January 2025)
 -   📖 Paused reading [Villains Are Destined to Die](https://anilist.co/manga/118408) (23:35 21 January 2025)
 -   📖 Read chapter 111 - 162 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (23:32 21 January 2025)
 -   📺 Watched episode 3 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (09:08 21 January 2025)
--   📺 Watched episode 3 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:31 21 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
