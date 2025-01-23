@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (16:11 23 January 2025)
 -   📺 Completed [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (13:00 23 January 2025)
 -   📖 Plans to read [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (06:47 23 January 2025)
 -   📖 Read chapter 246 of [Omniscient Reader](https://anilist.co/manga/119257) (23:45 21 January 2025)
 -   📖 Paused reading [Villains Are Destined to Die](https://anilist.co/manga/118408) (23:35 21 January 2025)
--   📖 Read chapter 111 - 162 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (23:32 21 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
