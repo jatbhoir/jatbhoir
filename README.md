@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (18:05 23 January 2025)
+-   📖 Read chapter 1 - 15 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (18:58 23 January 2025)
 -   📺 Completed [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (13:00 23 January 2025)
 -   📖 Plans to read [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (06:47 23 January 2025)
 -   📖 Read chapter 246 of [Omniscient Reader](https://anilist.co/manga/119257) (23:45 21 January 2025)
