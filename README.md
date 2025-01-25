@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (08:56 25 January 2025)
 -   📺 Watched episode 15 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (08:05 25 January 2025)
 -   📖 Read chapter 1 - 25 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (16:37 24 January 2025)
 -   📺 Completed [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (13:00 23 January 2025)
 -   📖 Plans to read [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (06:47 23 January 2025)
--   📖 Read chapter 246 of [Omniscient Reader](https://anilist.co/manga/119257) (23:45 21 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
