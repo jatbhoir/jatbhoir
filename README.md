@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 28 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (19:00 25 January 2025)
+-   📖 Read chapter 26 - 31 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (19:36 25 January 2025)
 -   📺 Watched episode 1 - 4 of [Medalist](https://anilist.co/anime/165171) (18:21 25 January 2025)
 -   📖 Read chapter 140 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (14:18 25 January 2025)
 -   📺 Plans to watch [Medalist](https://anilist.co/anime/165171) (09:55 25 January 2025)
