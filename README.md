@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 140 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (14:18 25 January 2025)
 -   📺 Watched episode 1 - 3 of [Medalist](https://anilist.co/anime/165171) (12:12 25 January 2025)
 -   📺 Plans to watch [Medalist](https://anilist.co/anime/165171) (09:55 25 January 2025)
 -   📺 Watched episode 3 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (09:50 25 January 2025)
 -   📺 Watched episode 4 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (09:27 25 January 2025)
--   📺 Watched episode 1 - 3 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (08:56 25 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
