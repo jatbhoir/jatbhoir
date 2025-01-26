@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (10:37 26 January 2025)
+-   📖 Read chapter 212 of [March Comes in Like a Lion](https://anilist.co/manga/31224) (10:32 26 January 2025)
+-   📖 Read chapter 120 of [Kaiju No.8](https://anilist.co/manga/120760) (10:28 26 January 2025)
+-   📖 Read chapter 113 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:23 26 January 2025)
 -   📖 Read chapter 95 - 98 of [Shangri-La Frontier](https://anilist.co/manga/122063) (10:08 26 January 2025)
--   📺 Watched episode 16 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:03 26 January 2025)
--   📺 Watched episode 4 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (09:13 26 January 2025)
--   📖 Read chapter 26 - 31 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (19:36 25 January 2025)
--   📺 Watched episode 1 - 4 of [Medalist](https://anilist.co/anime/165171) (18:21 25 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
