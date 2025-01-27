@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 - 36 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (13:14 27 January 2025)
 -   📖 Read chapter 32 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (10:37 26 January 2025)
 -   📖 Read chapter 212 of [March Comes in Like a Lion](https://anilist.co/manga/31224) (10:32 26 January 2025)
 -   📖 Read chapter 120 of [Kaiju No.8](https://anilist.co/manga/120760) (10:28 26 January 2025)
 -   📖 Read chapter 113 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:23 26 January 2025)
--   📖 Read chapter 95 - 98 of [Shangri-La Frontier](https://anilist.co/manga/122063) (10:08 26 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
