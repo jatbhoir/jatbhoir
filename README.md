@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 247 of [Omniscient Reader](https://anilist.co/manga/119257) (12:33 29 January 2025)
+-   📖 Paused reading [Nina the Starry Bride](https://anilist.co/manga/112234) (12:25 29 January 2025)
 -   📖 Read chapter 150 - 160 of [The Dangers in My Heart](https://anilist.co/manga/101557) (11:28 29 January 2025)
 -   📺 Watched episode 16 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (10:24 29 January 2025)
 -   📺 Watched episode 4 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (09:54 29 January 2025)
--   📖 Read chapter 136 - 149 of [The Dangers in My Heart](https://anilist.co/manga/101557) (09:16 28 January 2025)
--   📖 Read chapter 33 - 91 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (17:42 27 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
