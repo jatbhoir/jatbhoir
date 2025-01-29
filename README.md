@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (09:54 29 January 2025)
 -   📖 Read chapter 136 - 149 of [The Dangers in My Heart](https://anilist.co/manga/101557) (09:16 28 January 2025)
 -   📖 Read chapter 33 - 91 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (17:42 27 January 2025)
 -   📖 Read chapter 32 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (10:37 26 January 2025)
 -   📖 Read chapter 212 of [March Comes in Like a Lion](https://anilist.co/manga/31224) (10:32 26 January 2025)
--   📖 Read chapter 120 of [Kaiju No.8](https://anilist.co/manga/120760) (10:28 26 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
