@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (17:27 30 January 2025)
 -   📖 Paused reading [Chronicles of an Aristocrat Reborn in Another World](https://anilist.co/manga/103238) (18:48 29 January 2025)
 -   📖 Read chapter 66 of [Chronicles of an Aristocrat Reborn in Another World](https://anilist.co/manga/103238) (18:48 29 January 2025)
 -   📖 Read chapter 92 - 95 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (18:30 29 January 2025)
 -   📖 Read chapter 247 of [Omniscient Reader](https://anilist.co/manga/119257) (12:33 29 January 2025)
--   📖 Paused reading [Nina the Starry Bride](https://anilist.co/manga/112234) (12:25 29 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
