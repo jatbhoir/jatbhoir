@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 99 - 100 of [Shangri-La Frontier](https://anilist.co/manga/122063) (10:10 03 February 2025)
+-   📺 Watched episode 17 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:03 03 February 2025)
 -   📺 Watched episode 5 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (08:38 03 February 2025)
 -   📺 Watched episode 5 of [Medalist](https://anilist.co/anime/165171) (08:13 03 February 2025)
 -   📺 Watched episode 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (12:56 02 February 2025)
--   📺 Watched episode 4 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (06:24 02 February 2025)
--   📺 Watched episode 4 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (17:27 30 January 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
