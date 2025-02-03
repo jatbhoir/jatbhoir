@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 99 - 142 of [Shangri-La Frontier](https://anilist.co/manga/122063) (12:19 03 February 2025)
+-   📖 Read chapter 99 - 153 of [Shangri-La Frontier](https://anilist.co/manga/122063) (13:11 03 February 2025)
 -   📺 Watched episode 17 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:03 03 February 2025)
 -   📺 Watched episode 5 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (08:38 03 February 2025)
 -   📺 Watched episode 5 of [Medalist](https://anilist.co/anime/165171) (08:13 03 February 2025)
