@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (15:56 04 February 2025)
 -   📖 Read chapter 121 of [Kaiju No.8](https://anilist.co/manga/120760) (14:46 03 February 2025)
 -   📖 Paused reading [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (14:41 03 February 2025)
 -   📖 Read chapter 96 of [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (14:39 03 February 2025)
 -   📖 Read chapter 99 - 155 of [Shangri-La Frontier](https://anilist.co/manga/122063) (13:24 03 February 2025)
--   📺 Watched episode 17 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:03 03 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
