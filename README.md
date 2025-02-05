@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 248 of [Omniscient Reader](https://anilist.co/manga/119257) (17:27 05 February 2025)
 -   📺 Watched episode 17 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (17:03 04 February 2025)
 -   📺 Watched episode 4 - 5 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (16:40 04 February 2025)
 -   📺 Watched episode 5 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (15:56 04 February 2025)
 -   📖 Read chapter 121 of [Kaiju No.8](https://anilist.co/manga/120760) (14:46 03 February 2025)
--   📖 Paused reading [The Broken Ring: This Marriage Will Fail Anyway](https://anilist.co/manga/154159) (14:41 03 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
