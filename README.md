@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (08:05 09 February 2025)
 -   📖 Read chapter 161 of [The Dangers in My Heart](https://anilist.co/manga/101557) (07:54 08 February 2025)
 -   📖 Read chapter 78 of [More Than a Married Couple, but Not Lovers.](https://anilist.co/manga/105011) (07:51 08 February 2025)
 -   📖 Paused reading [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://anilist.co/manga/104503) (05:33 08 February 2025)
 -   📺 Watched episode 4 - 5 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (11:42 07 February 2025)
--   📺 Watched episode 4 - 5 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (10:58 07 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
