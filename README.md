@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [The Infinite Mage](https://anilist.co/manga/159930) (17:08 11 February 2025)
+-   📖 Read chapter 249 of [Omniscient Reader](https://anilist.co/manga/119257) (16:43 11 February 2025)
 -   📺 Watched episode 6 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (16:04 11 February 2025)
 -   📺 Watched episode 6 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (15:42 11 February 2025)
 -   📺 Watched episode 18 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:23 10 February 2025)
--   📺 Watched episode 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (13:09 09 February 2025)
--   📺 Watched episode 5 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (08:57 09 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
