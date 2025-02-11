@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [The Infinite Mage](https://anilist.co/manga/159930) (17:08 11 February 2025)
+-   📖 Read chapter 1 - 10 of [The Infinite Mage](https://anilist.co/manga/159930) (17:57 11 February 2025)
 -   📖 Read chapter 249 of [Omniscient Reader](https://anilist.co/manga/119257) (16:43 11 February 2025)
 -   📺 Watched episode 6 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (16:04 11 February 2025)
 -   📺 Watched episode 6 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (15:42 11 February 2025)
