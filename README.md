@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (16:04 11 February 2025)
+-   📺 Watched episode 6 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (15:42 11 February 2025)
 -   📺 Watched episode 18 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:23 10 February 2025)
 -   📺 Watched episode 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (13:09 09 February 2025)
 -   📺 Watched episode 5 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (08:57 09 February 2025)
--   📺 Watched episode 9 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (08:34 09 February 2025)
--   📺 Watched episode 6 of [Medalist](https://anilist.co/anime/165171) (08:26 09 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
