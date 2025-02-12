@@ -39,9 +39,9 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 50 of [The Infinite Mage](https://anilist.co/manga/159930) (15:09 12 February 2025)
 -   📺 Watched episode 18 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (13:22 12 February 2025)
 -   📺 Watched episode 6 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (12:58 12 February 2025)
--   📖 Read chapter 1 - 47 of [The Infinite Mage](https://anilist.co/manga/159930) (09:43 12 February 2025)
 -   📖 Read chapter 249 of [Omniscient Reader](https://anilist.co/manga/119257) (16:43 11 February 2025)
 -   📺 Watched episode 6 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (16:04 11 February 2025)
 
