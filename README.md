@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Who Made Me a Princess](https://anilist.co/manga/107521) (11:06 13 February 2025)
+-   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (10:19 13 February 2025)
 -   📖 Plans to read [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (21:08 12 February 2025)
 -   📖 Read chapter 1 - 101 of [The Infinite Mage](https://anilist.co/manga/159930) (20:52 12 February 2025)
 -   📺 Watched episode 18 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (13:22 12 February 2025)
--   📺 Watched episode 6 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (12:58 12 February 2025)
--   📖 Read chapter 249 of [Omniscient Reader](https://anilist.co/manga/119257) (16:43 11 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
