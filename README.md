@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 23 of [Who Made Me a Princess](https://anilist.co/manga/107521) (13:14 13 February 2025)
+-   📖 Read chapter 1 - 33 of [Who Made Me a Princess](https://anilist.co/manga/107521) (14:09 13 February 2025)
 -   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (10:19 13 February 2025)
 -   📖 Plans to read [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (21:08 12 February 2025)
 -   📖 Read chapter 1 - 101 of [The Infinite Mage](https://anilist.co/manga/159930) (20:52 12 February 2025)
