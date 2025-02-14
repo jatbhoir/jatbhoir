@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (11:38 14 February 2025)
+-   📺 Watched episode 7 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (11:13 14 February 2025)
 -   📺 Watched episode 10 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (10:46 14 February 2025)
 -   📖 Plans to read [I Am the Real One](https://anilist.co/manga/124783) (10:17 14 February 2025)
 -   📖 Completed [Who Made Me a Princess](https://anilist.co/manga/107521) (09:44 14 February 2025)
--   📖 Read chapter 1 - 124 of [Who Made Me a Princess](https://anilist.co/manga/107521) (09:35 14 February 2025)
--   📖 Plans to read [Who Made Me a Princess](https://anilist.co/manga/107521) (10:19 13 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
