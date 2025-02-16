@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (18:55 16 February 2025)
+-   📖 Plans to read [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (18:51 16 February 2025)
 -   📺 Watched episode 7 of [Medalist](https://anilist.co/anime/165171) (08:22 16 February 2025)
 -   📺 Watched episode 7 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (07:39 16 February 2025)
 -   📺 Watched episode 6 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (11:38 14 February 2025)
--   📺 Watched episode 7 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (11:13 14 February 2025)
--   📺 Watched episode 10 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (10:46 14 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
