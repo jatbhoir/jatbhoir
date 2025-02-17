@@ -39,8 +39,8 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 63 of [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (10:09 17 February 2025)
 -   📺 Watched episode 5 - 6 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (08:23 17 February 2025)
--   📖 Read chapter 1 - 62 of [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (23:57 16 February 2025)
 -   📺 Watched episode 7 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (19:43 16 February 2025)
 -   📺 Watched episode 19 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (19:20 16 February 2025)
 -   📖 Plans to read [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (18:51 16 February 2025)
