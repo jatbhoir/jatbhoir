@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 100 - 133 of [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (20:09 19 February 2025)
+-   📖 Read chapter 100 - 150 of [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (21:09 19 February 2025)
 -   📖 Read chapter 250 of [Omniscient Reader](https://anilist.co/manga/119257) (17:28 19 February 2025)
 -   📖 Read chapter 72 - 99 of [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (20:05 18 February 2025)
 -   📺 Watched episode 7 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (18:14 18 February 2025)
