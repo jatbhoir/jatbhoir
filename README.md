@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [I Am the Real One](https://anilist.co/manga/124783) (20:09 21 February 2025)
+-   📖 Read chapter 106 of [The Infinite Mage](https://anilist.co/manga/159930) (19:48 21 February 2025)
 -   📺 Watched episode 11 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (17:21 21 February 2025)
 -   📖 Read chapter 114 of [My Dress-Up Darling](https://anilist.co/manga/101583) (02:44 21 February 2025)
 -   📖 Plans to read [This Villainess Wants a Divorce!](https://anilist.co/manga/107763) (16:15 20 February 2025)
--   📺 Watched episode 8 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (08:09 20 February 2025)
--   📖 Read chapter 100 - 163 of [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (22:09 19 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
