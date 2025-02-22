@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [I Am the Real One](https://anilist.co/manga/124783) (18:22 22 February 2025)
 -   📺 Watched episode 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:09 22 February 2025)
 -   📺 Watched episode 8 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (16:40 22 February 2025)
 -   📖 Read chapter 1 - 33 of [I Am the Real One](https://anilist.co/manga/124783) (22:10 21 February 2025)
 -   📖 Read chapter 106 of [The Infinite Mage](https://anilist.co/manga/159930) (19:48 21 February 2025)
--   📺 Watched episode 11 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (17:21 21 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
