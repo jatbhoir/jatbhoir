@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 - 122 of [I Am the Real One](https://anilist.co/manga/124783) (16:10 23 February 2025)
+-   📖 Read chapter 48 - 134 of [I Am the Real One](https://anilist.co/manga/124783) (17:05 23 February 2025)
 -   📖 Read chapter 34 - 47 of [I Am the Real One](https://anilist.co/manga/124783) (20:49 22 February 2025)
 -   📺 Watched episode 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:09 22 February 2025)
 -   📺 Watched episode 8 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (16:40 22 February 2025)
