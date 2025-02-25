@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:53 25 February 2025)
+-   📺 Watched episode 8 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (12:38 25 February 2025)
 -   📺 Watched episode 8 of [Medalist](https://anilist.co/anime/165171) (08:45 25 February 2025)
 -   📖 Read chapter 1 - 7 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:07 23 February 2025)
 -   📖 Completed [I Am the Real One](https://anilist.co/manga/124783) (18:38 23 February 2025)
--   📖 Read chapter 48 - 149 of [I Am the Real One](https://anilist.co/manga/124783) (18:33 23 February 2025)
--   📖 Read chapter 34 - 47 of [I Am the Real One](https://anilist.co/manga/124783) (20:49 22 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
