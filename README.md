@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:00 01 March 2025)
+-   📺 Watched episode 8 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:32 01 March 2025)
 -   📖 Read chapter 64 - 65 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (12:13 01 March 2025)
 -   📖 Completed [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (17:01 28 February 2025)
 -   📖 Read chapter 107 of [The Infinite Mage](https://anilist.co/manga/159930) (16:56 28 February 2025)
--   📖 Read chapter 251 of [Omniscient Reader](https://anilist.co/manga/119257) (16:40 28 February 2025)
--   📖 Read chapter 58 - 63 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (19:12 26 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
