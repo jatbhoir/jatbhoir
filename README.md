@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 20 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (15:28 01 March 2025)
 -   📖 Read chapter 64 - 66 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (14:09 01 March 2025)
 -   📺 Watched episode 20 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (13:57 01 March 2025)
 -   📺 Watched episode 9 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (13:31 01 March 2025)
 -   📺 Watched episode 12 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:00 01 March 2025)
--   📺 Watched episode 8 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:32 01 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
