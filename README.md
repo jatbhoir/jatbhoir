@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (10:57 01 March 2025)
 -   📖 Completed [What It Takes to Be a Villainess](https://anilist.co/manga/109259) (17:01 28 February 2025)
 -   📖 Read chapter 107 of [The Infinite Mage](https://anilist.co/manga/159930) (16:56 28 February 2025)
 -   📖 Read chapter 251 of [Omniscient Reader](https://anilist.co/manga/119257) (16:40 28 February 2025)
 -   📖 Read chapter 58 - 63 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (19:12 26 February 2025)
--   📖 Read chapter 8 - 57 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (05:50 26 February 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
