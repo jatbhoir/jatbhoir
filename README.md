@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (04:56 02 March 2025)
+-   📺 Watched episode 6 - 8 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (06:42 02 March 2025)
 -   📺 Watched episode 20 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (15:28 01 March 2025)
 -   📖 Read chapter 64 - 66 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (14:09 01 March 2025)
 -   📺 Watched episode 20 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (13:57 01 March 2025)
