@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 - 69 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (09:55 03 March 2025)
+-   📺 Watched episode 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (09:16 03 March 2025)
 -   📺 Watched episode 9 of [Medalist](https://anilist.co/anime/165171) (08:53 03 March 2025)
 -   📺 Watched episode 9 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (08:31 03 March 2025)
 -   📺 Watched episode 6 - 8 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (06:42 02 March 2025)
--   📺 Watched episode 20 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (15:28 01 March 2025)
--   📖 Read chapter 64 - 66 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (14:09 01 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
