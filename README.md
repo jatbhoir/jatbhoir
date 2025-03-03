@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Medalist](https://anilist.co/anime/165171) (08:53 03 March 2025)
+-   📺 Watched episode 9 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (08:31 03 March 2025)
 -   📺 Watched episode 6 - 8 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (06:42 02 March 2025)
 -   📺 Watched episode 20 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (15:28 01 March 2025)
 -   📖 Read chapter 64 - 66 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (14:09 01 March 2025)
--   📺 Watched episode 20 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (13:57 01 March 2025)
--   📺 Watched episode 9 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (13:31 01 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
