@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 108 of [The Infinite Mage](https://anilist.co/manga/159930) (17:55 04 March 2025)
+-   📖 Read chapter 252 of [Omniscient Reader](https://anilist.co/manga/119257) (17:47 04 March 2025)
 -   📖 Read chapter 67 - 69 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (09:55 03 March 2025)
 -   📺 Watched episode 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (09:16 03 March 2025)
 -   📺 Watched episode 9 of [Medalist](https://anilist.co/anime/165171) (08:53 03 March 2025)
--   📺 Watched episode 9 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (08:31 03 March 2025)
--   📺 Watched episode 6 - 8 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (06:42 02 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
