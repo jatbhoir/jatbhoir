@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 71 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (07:49 05 March 2025)
+-   📖 Read chapter 71 - 79 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (17:09 05 March 2025)
 -   📖 Read chapter 70 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (18:16 04 March 2025)
 -   📖 Read chapter 108 of [The Infinite Mage](https://anilist.co/manga/159930) (17:55 04 March 2025)
 -   📖 Read chapter 252 of [Omniscient Reader](https://anilist.co/manga/119257) (17:47 04 March 2025)
