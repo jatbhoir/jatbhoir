@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (16:48 06 March 2025)
 -   📺 Watched episode 10 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (09:27 06 March 2025)
 -   📖 Read chapter 71 - 93 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (08:00 06 March 2025)
 -   📖 Read chapter 70 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (18:16 04 March 2025)
 -   📖 Read chapter 108 of [The Infinite Mage](https://anilist.co/manga/159930) (17:55 04 March 2025)
--   📖 Read chapter 252 of [Omniscient Reader](https://anilist.co/manga/119257) (17:47 04 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
