@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 105 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (08:39 09 March 2025)
+-   📖 Read chapter 105 - 106 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (09:22 09 March 2025)
 -   📺 Watched episode 10 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (16:51 08 March 2025)
 -   📖 Read chapter 94 - 104 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (15:30 07 March 2025)
 -   📺 Watched episode 9 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (10:41 07 March 2025)
