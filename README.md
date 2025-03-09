@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 105 - 110 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (18:09 09 March 2025)
+-   📺 Watched episode 7 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (17:37 09 March 2025)
+-   📺 Watched episode 9 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (17:15 09 March 2025)
 -   📺 Watched episode 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:16 09 March 2025)
 -   📺 Watched episode 10 of [Medalist](https://anilist.co/anime/165171) (15:52 09 March 2025)
--   📖 Read chapter 105 - 106 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (09:22 09 March 2025)
--   📺 Watched episode 10 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (16:51 08 March 2025)
--   📖 Read chapter 94 - 104 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (15:30 07 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
