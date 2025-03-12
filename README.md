@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 - 9 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (11:08 12 March 2025)
+-   📺 Watched episode 10 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (10:25 12 March 2025)
 -   📺 Watched episode 22 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (08:59 12 March 2025)
 -   📖 Read chapter 122 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:06 11 March 2025)
 -   📖 Read chapter 253 of [Omniscient Reader](https://anilist.co/manga/119257) (19:36 11 March 2025)
--   📖 Read chapter 115 - 121 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (18:31 10 March 2025)
--   📖 Read chapter 105 - 114 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (18:37 09 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
