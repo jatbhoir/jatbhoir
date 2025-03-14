@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [Elissa's Whirlwind Marriage](https://anilist.co/manga/155459) (21:07 14 March 2025)
+-   📖 Plans to read [Elissa's Whirlwind Marriage](https://anilist.co/manga/155459) (20:33 14 March 2025)
+-   📖 Read chapter 109 of [The Infinite Mage](https://anilist.co/manga/159930) (20:31 14 March 2025)
+-   📖 Read chapter 130 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:21 14 March 2025)
 -   📺 Watched episode 10 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (07:45 14 March 2025)
--   📺 Watched episode 21 - 22 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:42 13 March 2025)
--   📖 Read chapter 123 - 129 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:25 12 March 2025)
--   📺 Watched episode 15 of [Blue Box](https://anilist.co/anime/170942) (19:27 12 March 2025)
--   📺 Watched episode 7 - 10 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (19:00 12 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
