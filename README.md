@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Elissa's Whirlwind Marriage](https://anilist.co/manga/155459) (21:07 14 March 2025)
+-   📖 Read chapter 1 - 8 of [Elissa's Whirlwind Marriage](https://anilist.co/manga/155459) (21:23 14 March 2025)
 -   📖 Plans to read [Elissa's Whirlwind Marriage](https://anilist.co/manga/155459) (20:33 14 March 2025)
 -   📖 Read chapter 109 of [The Infinite Mage](https://anilist.co/manga/159930) (20:31 14 March 2025)
 -   📖 Read chapter 130 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:21 14 March 2025)
