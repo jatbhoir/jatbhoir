@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 - 17 of [Medalist](https://anilist.co/manga/118371) (10:07 16 March 2025)
 -   📺 Watched episode 11 of [Medalist](https://anilist.co/anime/165171) (08:56 16 March 2025)
 -   📺 Watched episode 10 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (08:34 16 March 2025)
 -   📖 Completed [Elissa's Whirlwind Marriage](https://anilist.co/manga/155459) (23:14 15 March 2025)
 -   📖 Read chapter 9 - 109 of [Elissa's Whirlwind Marriage](https://anilist.co/manga/155459) (23:11 15 March 2025)
--   📖 Read chapter 163 - 165 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (16:05 15 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
