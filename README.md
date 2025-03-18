@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (08:45 18 March 2025)
+-   📺 Watched episode 11 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:16 18 March 2025)
 -   📺 Watched episode 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:06 17 March 2025)
 -   📖 Plans to read [How to Win My Husband Over](https://anilist.co/manga/141013) (15:53 17 March 2025)
 -   📺 Watched episode 23 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:25 16 March 2025)
--   📺 Completed [SAKAMOTO DAYS](https://anilist.co/anime/177709) (15:56 16 March 2025)
--   📖 Read chapter 14 - 22 of [Medalist](https://anilist.co/manga/118371) (12:02 16 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
