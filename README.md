@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [How to Win My Husband Over](https://anilist.co/manga/141013) (18:02 19 March 2025)
 -   📺 Completed [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:12 19 March 2025)
 -   📺 Watched episode 11 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (08:45 18 March 2025)
 -   📺 Watched episode 11 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:16 18 March 2025)
 -   📺 Watched episode 11 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:06 17 March 2025)
--   📖 Plans to read [How to Win My Husband Over](https://anilist.co/manga/141013) (15:53 17 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
