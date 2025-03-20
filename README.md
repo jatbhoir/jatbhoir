@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 73 of [How to Win My Husband Over](https://anilist.co/manga/141013) (19:07 20 March 2025)
+-   📖 Read chapter 30 - 85 of [How to Win My Husband Over](https://anilist.co/manga/141013) (20:12 20 March 2025)
 -   📖 Read chapter 1 - 29 of [How to Win My Husband Over](https://anilist.co/manga/141013) (20:53 19 March 2025)
 -   📺 Completed [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:12 19 March 2025)
 -   📺 Watched episode 11 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (08:45 18 March 2025)
