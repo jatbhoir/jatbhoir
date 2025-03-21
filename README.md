@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (06:58 21 March 2025)
+-   📖 Plans to read [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (06:34 21 March 2025)
+-   📖 Read chapter 166 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (06:26 21 March 2025)
 -   📖 Completed [My Dress-Up Darling](https://anilist.co/manga/101583) (22:17 20 March 2025)
 -   📖 Paused reading [How to Win My Husband Over](https://anilist.co/manga/141013) (22:11 20 March 2025)
--   📖 Read chapter 30 - 111 of [How to Win My Husband Over](https://anilist.co/manga/141013) (22:08 20 March 2025)
--   📖 Read chapter 1 - 29 of [How to Win My Husband Over](https://anilist.co/manga/141013) (20:53 19 March 2025)
--   📺 Completed [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:12 19 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
