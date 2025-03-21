@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 23 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (08:29 21 March 2025)
 -   📺 Watched episode 15 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (08:02 21 March 2025)
 -   📖 Read chapter 1 - 2 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (07:20 21 March 2025)
 -   📖 Plans to read [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (06:34 21 March 2025)
 -   📖 Read chapter 166 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (06:26 21 March 2025)
--   📖 Completed [My Dress-Up Darling](https://anilist.co/manga/101583) (22:17 20 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
