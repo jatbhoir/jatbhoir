@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 46 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (20:08 22 March 2025)
+-   📖 Read chapter 3 - 52 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (20:33 22 March 2025)
 -   📺 Watched episode 11 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (15:59 22 March 2025)
 -   📺 Watched episode 23 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (08:29 21 March 2025)
 -   📺 Watched episode 15 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (08:02 21 March 2025)
