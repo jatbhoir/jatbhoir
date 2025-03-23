@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 - 54 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (16:10 23 March 2025)
 -   📺 Watched episode 12 of [Medalist](https://anilist.co/anime/165171) (06:40 23 March 2025)
 -   📺 Watched episode 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:00 23 March 2025)
 -   📖 Read chapter 3 - 52 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (20:33 22 March 2025)
 -   📺 Watched episode 11 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (15:59 22 March 2025)
--   📺 Watched episode 23 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (08:29 21 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
