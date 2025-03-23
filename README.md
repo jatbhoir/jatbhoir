@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 - 73 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (18:09 23 March 2025)
+-   📖 Read chapter 53 - 90 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (19:08 23 March 2025)
 -   📺 Watched episode 12 of [Medalist](https://anilist.co/anime/165171) (06:40 23 March 2025)
 -   📺 Watched episode 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:00 23 March 2025)
 -   📖 Read chapter 3 - 52 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (20:33 22 March 2025)
