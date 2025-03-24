@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (21:05 24 March 2025)
+-   📖 Read chapter 131 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:56 24 March 2025)
+-   📖 Read chapter 254 of [Omniscient Reader](https://anilist.co/manga/119257) (20:48 24 March 2025)
+-   📖 Read chapter 110 of [The Infinite Mage](https://anilist.co/manga/159930) (20:40 24 March 2025)
 -   📖 Completed [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (12:28 24 March 2025)
--   📖 Read chapter 53 - 143 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (11:51 24 March 2025)
--   📺 Watched episode 12 of [Medalist](https://anilist.co/anime/165171) (06:40 23 March 2025)
--   📺 Watched episode 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:00 23 March 2025)
--   📖 Read chapter 3 - 52 of [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (20:33 22 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
