@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 82 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (16:12 25 March 2025)
+-   📺 Completed [Unnamed Memory Season 2](https://anilist.co/anime/178550) (17:06 25 March 2025)
+-   📺 Watched episode 11 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (16:36 25 March 2025)
+-   📖 Read chapter 82 - 83 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (16:13 25 March 2025)
 -   📺 Completed [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (16:04 25 March 2025)
 -   📺 Watched episode 11 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:21 25 March 2025)
--   📺 Completed [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (14:47 25 March 2025)
--   📖 Plans to read [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (21:05 24 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
