@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (14:47 25 March 2025)
 -   📖 Plans to read [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (21:05 24 March 2025)
 -   📖 Read chapter 131 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:56 24 March 2025)
 -   📖 Read chapter 254 of [Omniscient Reader](https://anilist.co/manga/119257) (20:48 24 March 2025)
 -   📖 Read chapter 110 of [The Infinite Mage](https://anilist.co/manga/159930) (20:40 24 March 2025)
--   📖 Completed [Doctor Elise: The Royal Lady with the Lamp](https://anilist.co/manga/107918) (12:28 24 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
