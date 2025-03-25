@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 82 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (16:12 25 March 2025)
+-   📺 Completed [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (16:04 25 March 2025)
+-   📺 Watched episode 11 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:21 25 March 2025)
 -   📺 Completed [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (14:47 25 March 2025)
 -   📖 Plans to read [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (21:05 24 March 2025)
--   📖 Read chapter 131 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:56 24 March 2025)
--   📖 Read chapter 254 of [Omniscient Reader](https://anilist.co/manga/119257) (20:48 24 March 2025)
--   📖 Read chapter 110 of [The Infinite Mage](https://anilist.co/manga/159930) (20:40 24 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
