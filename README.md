@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 255 of [Omniscient Reader](https://anilist.co/manga/119257) (22:24 26 March 2025)
+-   📖 Read chapter 111 of [The Infinite Mage](https://anilist.co/manga/159930) (22:15 26 March 2025)
 -   📺 Completed [Tower of God Season 2](https://anilist.co/anime/153406) (21:54 26 March 2025)
 -   📺 Watched episode 14 - 21 of [Tower of God Season 2](https://anilist.co/anime/153406) (18:20 26 March 2025)
 -   📺 Watched episode 24 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:28 26 March 2025)
--   📺 Completed [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (10:26 26 March 2025)
--   📺 Watched episode 12 - 14 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (10:03 26 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
