@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (10:26 26 March 2025)
 -   📺 Watched episode 12 - 14 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (10:03 26 March 2025)
 -   📺 Completed [Unnamed Memory Season 2](https://anilist.co/anime/178550) (17:06 25 March 2025)
 -   📺 Watched episode 11 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (16:36 25 March 2025)
 -   📖 Read chapter 82 - 83 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (16:13 25 March 2025)
--   📺 Completed [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (16:04 25 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
