@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 14 - 17 of [Tower of God Season 2](https://anilist.co/anime/153406) (16:38 26 March 2025)
 -   📺 Watched episode 24 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:28 26 March 2025)
 -   📺 Completed [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (10:26 26 March 2025)
 -   📺 Watched episode 12 - 14 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (10:03 26 March 2025)
 -   📺 Completed [Unnamed Memory Season 2](https://anilist.co/anime/178550) (17:06 25 March 2025)
--   📺 Watched episode 11 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (16:36 25 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
