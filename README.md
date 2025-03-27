@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 - 9 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (12:09 27 March 2025)
+-   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (11:30 27 March 2025)
 -   📖 Read chapter 255 of [Omniscient Reader](https://anilist.co/manga/119257) (22:24 26 March 2025)
 -   📖 Read chapter 111 of [The Infinite Mage](https://anilist.co/manga/159930) (22:15 26 March 2025)
 -   📺 Completed [Tower of God Season 2](https://anilist.co/anime/153406) (21:54 26 March 2025)
--   📺 Watched episode 14 - 21 of [Tower of God Season 2](https://anilist.co/anime/153406) (18:20 26 March 2025)
--   📺 Watched episode 24 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:28 26 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
