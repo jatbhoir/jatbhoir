@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 15 of [This Villainess Wants a Divorce!](https://anilist.co/manga/107763) (18:14 27 March 2025)
 -   📖 Read chapter 33 - 34 of [I Got Married to the Girl I Hate Most in Class](https://anilist.co/manga/134166) (13:17 27 March 2025)
 -   📺 Completed [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (13:10 27 March 2025)
 -   📺 Watched episode 8 - 11 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (12:50 27 March 2025)
 -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (11:30 27 March 2025)
--   📖 Read chapter 255 of [Omniscient Reader](https://anilist.co/manga/119257) (22:24 26 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
