@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Adelaide](https://anilist.co/manga/108451) (09:05 28 March 2025)
+-   📖 Read chapter 1 - 7 of [Adelaide](https://anilist.co/manga/108451) (10:08 28 March 2025)
 -   📖 Read chapter 132 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (08:29 28 March 2025)
 -   📖 Read chapter 167 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:19 28 March 2025)
 -   📖 Completed [This Villainess Wants a Divorce!](https://anilist.co/manga/107763) (08:12 28 March 2025)
