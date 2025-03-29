@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:20 29 March 2025)
 -   📺 Completed [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (14:49 29 March 2025)
 -   📖 Read chapter 1 - 18 of [Adelaide](https://anilist.co/manga/108451) (11:49 28 March 2025)
 -   📖 Read chapter 132 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (08:29 28 March 2025)
 -   📖 Read chapter 167 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:19 28 March 2025)
--   📖 Completed [This Villainess Wants a Divorce!](https://anilist.co/manga/107763) (08:12 28 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
