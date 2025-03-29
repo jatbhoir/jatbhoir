@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (14:49 29 March 2025)
 -   📖 Read chapter 1 - 18 of [Adelaide](https://anilist.co/manga/108451) (11:49 28 March 2025)
 -   📖 Read chapter 132 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (08:29 28 March 2025)
 -   📖 Read chapter 167 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:19 28 March 2025)
 -   📖 Completed [This Villainess Wants a Divorce!](https://anilist.co/manga/107763) (08:12 28 March 2025)
--   📖 Read chapter 1 - 114 of [This Villainess Wants a Divorce!](https://anilist.co/manga/107763) (07:42 28 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
