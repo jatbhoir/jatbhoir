@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (13:02 30 March 2025)
+-   📺 Watched episode 2 - 3 of [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (14:23 30 March 2025)
 -   📺 Completed [Medalist](https://anilist.co/anime/165171) (11:55 30 March 2025)
 -   📖 Read chapter 19 - 23 of [Adelaide](https://anilist.co/manga/108451) (20:46 29 March 2025)
 -   📺 Watched episode 12 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:20 29 March 2025)
