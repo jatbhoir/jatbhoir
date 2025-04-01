@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 - 62 of [Adelaide](https://anilist.co/manga/108451) (15:11 01 April 2025)
+-   📖 Read chapter 61 - 72 of [Adelaide](https://anilist.co/manga/108451) (16:13 01 April 2025)
 -   📺 Completed [Blue Box](https://anilist.co/anime/170942) (12:56 01 April 2025)
 -   📺 Watched episode 18 - 24 of [Blue Box](https://anilist.co/anime/170942) (12:33 01 April 2025)
 -   📺 Watched episode 16 - 17 of [Blue Box](https://anilist.co/anime/170942) (12:05 31 March 2025)
