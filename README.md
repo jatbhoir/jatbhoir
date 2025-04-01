@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 - 84 of [Adelaide](https://anilist.co/manga/108451) (17:10 01 April 2025)
--   📺 Completed [Blue Box](https://anilist.co/anime/170942) (12:56 01 April 2025)
--   📺 Watched episode 18 - 24 of [Blue Box](https://anilist.co/anime/170942) (12:33 01 April 2025)
--   📺 Watched episode 16 - 17 of [Blue Box](https://anilist.co/anime/170942) (12:05 31 March 2025)
--   📺 Completed [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (11:10 31 March 2025)
+-   📺 Completed [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:05 01 April 2025)
+-   📖 Paused reading [I Got Married to the Girl I Hate Most in Class](https://anilist.co/manga/134166) (17:40 01 April 2025)
+-   📖 Plans to read [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (17:24 01 April 2025)
+-   📖 Plans to read [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (17:21 01 April 2025)
+-   📖 Plans to read [My Numbered Days of Happiness](https://anilist.co/manga/180272) (17:19 01 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
