@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 18 - 23 of [Blue Box](https://anilist.co/anime/170942) (12:13 01 April 2025)
+-   📺 Completed [Blue Box](https://anilist.co/anime/170942) (12:56 01 April 2025)
+-   📺 Watched episode 18 - 24 of [Blue Box](https://anilist.co/anime/170942) (12:33 01 April 2025)
 -   📺 Watched episode 16 - 17 of [Blue Box](https://anilist.co/anime/170942) (12:05 31 March 2025)
 -   📺 Completed [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (11:10 31 March 2025)
 -   📖 Read chapter 24 - 60 of [Adelaide](https://anilist.co/manga/108451) (05:56 31 March 2025)
--   📺 Watched episode 2 - 4 of [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (18:16 30 March 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
