@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 112 of [The Infinite Mage](https://anilist.co/manga/159930) (19:08 01 April 2025)
+-   📖 Read chapter 256 of [Omniscient Reader](https://anilist.co/manga/119257) (19:00 01 April 2025)
 -   📺 Completed [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:05 01 April 2025)
 -   📖 Paused reading [I Got Married to the Girl I Hate Most in Class](https://anilist.co/manga/134166) (17:40 01 April 2025)
 -   📖 Plans to read [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (17:24 01 April 2025)
--   📖 Plans to read [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (17:21 01 April 2025)
--   📖 Plans to read [My Numbered Days of Happiness](https://anilist.co/manga/180272) (17:19 01 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
