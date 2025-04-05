@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (18:08 05 April 2025)
+-   📺 Watched episode 1 of [KOWLOON GENERIC ROMANCE](https://anilist.co/anime/182814) (17:38 05 April 2025)
+-   📺 Watched episode 1 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (17:13 05 April 2025)
 -   📖 Read chapter 1 - 3 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (19:35 01 April 2025)
 -   📖 Read chapter 112 of [The Infinite Mage](https://anilist.co/manga/159930) (19:08 01 April 2025)
--   📖 Read chapter 256 of [Omniscient Reader](https://anilist.co/manga/119257) (19:00 01 April 2025)
--   📺 Completed [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:05 01 April 2025)
--   📖 Paused reading [I Got Married to the Girl I Hate Most in Class](https://anilist.co/manga/134166) (17:40 01 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
