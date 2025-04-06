@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 13 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:44 06 April 2025)
 -   📖 Read chapter 4 - 42 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (09:56 06 April 2025)
 -   📺 Watched episode 1 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (18:08 05 April 2025)
 -   📺 Watched episode 1 of [KOWLOON GENERIC ROMANCE](https://anilist.co/anime/182814) (17:38 05 April 2025)
 -   📺 Watched episode 1 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (17:13 05 April 2025)
--   📖 Read chapter 1 - 3 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (19:35 01 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
