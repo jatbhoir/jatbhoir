@@ -5,7 +5,7 @@
    <!--- ![A1](https://github.com/user-attachments/assets/e8a2404d-07b5-4396-a1aa-3cc741defe5b) --->
    
  <!--- Typing SVG --->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6FB5&center=true&vCenter=true&width=550&lines=🛠️ Anime-Inspired Developer by Day ✨; 🌟 Anime Enthusiast by Night, Exploring New Frontiers ✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6FB5&center=true&vCenter=true&width=550&lines=🛠️ Anime-Inspired Developer by Day ✨; 🌟 Anime Enthusiast by Night ✨" alt="Typing SVG" />
 
   <!--- Let's Connect on --->
  <p align="center">
