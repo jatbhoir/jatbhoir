@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [WITCH WATCH](https://anilist.co/anime/180367) (10:10 08 April 2025)
+-   📺 Plans to watch [WITCH WATCH](https://anilist.co/anime/180367) (09:14 08 April 2025)
 -   📖 Read chapter 84 - 97 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (22:42 07 April 2025)
 -   📖 Read chapter 4 - 83 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (22:24 06 April 2025)
 -   📺 Watched episode 13 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:44 06 April 2025)
--   📺 Watched episode 1 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (18:08 05 April 2025)
--   📺 Watched episode 1 of [KOWLOON GENERIC ROMANCE](https://anilist.co/anime/182814) (17:38 05 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
