@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 98 - 110 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (21:09 09 April 2025)
+-   📖 Read chapter 98 - 120 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (22:10 09 April 2025)
 -   📺 Plans to watch [SK8 the Infinity](https://anilist.co/anime/124153) (10:15 08 April 2025)
 -   📺 Watched episode 1 of [WITCH WATCH](https://anilist.co/anime/180367) (10:10 08 April 2025)
 -   📺 Plans to watch [WITCH WATCH](https://anilist.co/anime/180367) (09:14 08 April 2025)
