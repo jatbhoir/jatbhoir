@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 257 of [Omniscient Reader](https://anilist.co/manga/119257) (15:04 11 April 2025)
+-   📖 Read chapter 113 of [The Infinite Mage](https://anilist.co/manga/159930) (14:56 11 April 2025)
+-   📖 Read chapter 168 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (14:46 11 April 2025)
 -   📖 Completed [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (22:42 09 April 2025)
 -   📖 Read chapter 98 - 127 of [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (22:37 09 April 2025)
--   📺 Plans to watch [SK8 the Infinity](https://anilist.co/anime/124153) (10:15 08 April 2025)
--   📺 Watched episode 1 of [WITCH WATCH](https://anilist.co/anime/180367) (10:10 08 April 2025)
--   📺 Plans to watch [WITCH WATCH](https://anilist.co/anime/180367) (09:14 08 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
