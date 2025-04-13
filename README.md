@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [SK8 the Infinity](https://anilist.co/anime/124153) (16:08 13 April 2025)
 -   📺 Completed [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:57 13 April 2025)
 -   📺 Watched episode 12 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:37 13 April 2025)
 -   📺 Watched episode 2 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (08:15 13 April 2025)
 -   📺 Watched episode 2 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (07:45 13 April 2025)
--   📖 Read chapter 257 of [Omniscient Reader](https://anilist.co/manga/119257) (15:04 11 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
