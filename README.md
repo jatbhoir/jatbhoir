@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:57 13 April 2025)
+-   📺 Watched episode 12 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:37 13 April 2025)
+-   📺 Watched episode 2 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (08:15 13 April 2025)
 -   📺 Watched episode 2 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (07:45 13 April 2025)
 -   📖 Read chapter 257 of [Omniscient Reader](https://anilist.co/manga/119257) (15:04 11 April 2025)
--   📖 Read chapter 113 of [The Infinite Mage](https://anilist.co/manga/159930) (14:56 11 April 2025)
--   📖 Read chapter 168 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (14:46 11 April 2025)
--   📖 Completed [Here Comes the Silver Spoon!](https://anilist.co/manga/136012) (22:42 09 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
