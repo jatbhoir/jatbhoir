@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [SK8 the Infinity](https://anilist.co/anime/124153) (18:50 13 April 2025)
+-   📺 Completed [SK8 the Infinity EXTRA PART](https://anilist.co/anime/136381) (19:52 13 April 2025)
+-   📺 Plans to watch [SK8 the Infinity EXTRA PART](https://anilist.co/anime/136381) (19:35 13 April 2025)
+-   📺 Completed [SK8 the Infinity](https://anilist.co/anime/124153) (19:30 13 April 2025)
+-   📺 Watched episode 1 - 11 of [SK8 the Infinity](https://anilist.co/anime/124153) (19:09 13 April 2025)
 -   📺 Completed [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:57 13 April 2025)
--   📺 Watched episode 12 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (08:37 13 April 2025)
--   📺 Watched episode 2 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (08:15 13 April 2025)
--   📺 Watched episode 2 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (07:45 13 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
