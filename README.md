@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (11:40 14 April 2025)
+-   📺 Watched episode 2 of [WITCH WATCH](https://anilist.co/anime/180367) (11:13 14 April 2025)
 -   📺 Watched episode 14 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (10:43 14 April 2025)
 -   📺 Completed [SK8 the Infinity EXTRA PART](https://anilist.co/anime/136381) (19:52 13 April 2025)
 -   📺 Plans to watch [SK8 the Infinity EXTRA PART](https://anilist.co/anime/136381) (19:35 13 April 2025)
--   📺 Completed [SK8 the Infinity](https://anilist.co/anime/124153) (19:30 13 April 2025)
--   📺 Watched episode 1 - 11 of [SK8 the Infinity](https://anilist.co/anime/124153) (19:09 13 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
