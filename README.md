@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 8 of [Sweet Reincarnation](https://anilist.co/anime/153339) (18:11 15 April 2025)
+-   📺 Watched episode 3 - 9 of [Sweet Reincarnation](https://anilist.co/anime/153339) (18:34 15 April 2025)
 -   📖 Completed [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (11:15 15 April 2025)
 -   📖 Read chapter 1 - 53 of [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (11:12 15 April 2025)
 -   📺 Completed [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (19:17 14 April 2025)
