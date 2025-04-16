@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [The Royal Tutor](https://anilist.co/anime/97932) (17:57 16 April 2025)
+-   📺 Watched episode 1 - 7 of [The Royal Tutor](https://anilist.co/anime/97932) (18:18 16 April 2025)
 -   📺 Plans to watch [The Royal Tutor](https://anilist.co/anime/97932) (15:08 16 April 2025)
 -   📖 Read chapter 1 - 13 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (09:09 16 April 2025)
 -   📺 Completed [Sweet Reincarnation](https://anilist.co/anime/153339) (19:53 15 April 2025)
