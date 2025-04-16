@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (06:14 16 April 2025)
 -   📺 Completed [Sweet Reincarnation](https://anilist.co/anime/153339) (19:53 15 April 2025)
 -   📺 Watched episode 3 - 11 of [Sweet Reincarnation](https://anilist.co/anime/153339) (19:32 15 April 2025)
 -   📖 Completed [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (11:15 15 April 2025)
 -   📖 Read chapter 1 - 53 of [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (11:12 15 April 2025)
--   📺 Completed [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (19:17 14 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
