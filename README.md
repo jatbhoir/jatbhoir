@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Royal Tutor](https://anilist.co/anime/97932) (15:08 16 April 2025)
 -   📖 Read chapter 1 - 13 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (09:09 16 April 2025)
 -   📺 Completed [Sweet Reincarnation](https://anilist.co/anime/153339) (19:53 15 April 2025)
 -   📺 Watched episode 3 - 11 of [Sweet Reincarnation](https://anilist.co/anime/153339) (19:32 15 April 2025)
 -   📖 Completed [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (11:15 15 April 2025)
--   📖 Read chapter 1 - 53 of [The Daughter of Duke Doesn't Want to Be Spoiled](https://anilist.co/manga/179622) (11:12 15 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
