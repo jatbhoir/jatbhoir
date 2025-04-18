@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 - 49 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (17:07 18 April 2025)
+-   📖 Read chapter 28 - 59 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (18:10 18 April 2025)
 -   📖 Read chapter 14 - 27 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (14:42 17 April 2025)
 -   📺 Watched episode 2 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:56 16 April 2025)
 -   📺 Completed [The Royal Tutor](https://anilist.co/anime/97932) (20:39 16 April 2025)
