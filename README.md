@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 169 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (19:07 20 April 2025)
+-   📖 Read chapter 258 of [Omniscient Reader](https://anilist.co/manga/119257) (19:02 20 April 2025)
 -   📖 Read chapter 68 - 86 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (15:26 20 April 2025)
 -   📺 Watched episode 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (09:34 20 April 2025)
 -   📖 Read chapter 28 - 67 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (19:02 18 April 2025)
--   📖 Read chapter 14 - 27 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (14:42 17 April 2025)
--   📺 Watched episode 2 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (21:56 16 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
