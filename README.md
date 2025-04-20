@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:53 20 April 2025)
+-   📖 Plans to read [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:43 20 April 2025)
+-   📖 Read chapter 133 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (19:22 20 April 2025)
 -   📖 Read chapter 169 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (19:07 20 April 2025)
 -   📖 Read chapter 258 of [Omniscient Reader](https://anilist.co/manga/119257) (19:02 20 April 2025)
--   📖 Read chapter 68 - 86 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (15:26 20 April 2025)
--   📺 Watched episode 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (09:34 20 April 2025)
--   📖 Read chapter 28 - 67 of [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (19:02 18 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
