@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [More Than a Married Couple, but Not Lovers.](https://anilist.co/manga/105011) (05:34 21 April 2025)
+-   📖 Read chapter 114 of [The Infinite Mage](https://anilist.co/manga/159930) (05:28 21 April 2025)
+-   📖 Read chapter 133 - 134 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (05:20 21 April 2025)
 -   📖 Read chapter 1 - 2 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:53 20 April 2025)
 -   📖 Plans to read [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:43 20 April 2025)
--   📖 Read chapter 133 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (19:22 20 April 2025)
--   📖 Read chapter 169 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (19:07 20 April 2025)
--   📖 Read chapter 258 of [Omniscient Reader](https://anilist.co/manga/119257) (19:02 20 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
