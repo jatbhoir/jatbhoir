@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (17:00 22 April 2025)
 -   📖 Read chapter 3 - 62 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:10 21 April 2025)
 -   📺 Watched episode 3 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:31 21 April 2025)
 -   📺 Watched episode 4 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:09 21 April 2025)
 -   📖 Paused reading [More Than a Married Couple, but Not Lovers.](https://anilist.co/manga/105011) (05:34 21 April 2025)
--   📖 Read chapter 114 of [The Infinite Mage](https://anilist.co/manga/159930) (05:28 21 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
