@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 169 - 177 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (17:08 30 April 2025)
+-   📖 Read chapter 169 - 187 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:13 30 April 2025)
 -   📺 Watched episode 5 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:01 28 April 2025)
 -   📺 Watched episode 4 of [WITCH WATCH](https://anilist.co/anime/180367) (16:40 28 April 2025)
 -   📖 Read chapter 133 - 168 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (22:57 27 April 2025)
