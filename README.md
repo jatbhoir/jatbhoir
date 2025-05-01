@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 189 - 197 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:06 01 May 2025)
+-   📖 Read chapter 1 - 6 of [I Shall Master this Family!](https://anilist.co/manga/130429) (20:08 01 May 2025)
+-   📖 Plans to read [I Shall Master this Family!](https://anilist.co/manga/130429) (19:30 01 May 2025)
+-   📖 Read chapter 189 - 200 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:20 01 May 2025)
 -   📖 Read chapter 260 of [Omniscient Reader](https://anilist.co/manga/119257) (18:15 01 May 2025)
 -   📖 Read chapter 116 of [The Infinite Mage](https://anilist.co/manga/159930) (18:04 01 May 2025)
--   📖 Read chapter 136 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (17:57 01 May 2025)
--   📖 Read chapter 169 - 188 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:19 30 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
