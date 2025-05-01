@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 260 of [Omniscient Reader](https://anilist.co/manga/119257) (18:15 01 May 2025)
+-   📖 Read chapter 116 of [The Infinite Mage](https://anilist.co/manga/159930) (18:04 01 May 2025)
+-   📖 Read chapter 136 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (17:57 01 May 2025)
 -   📖 Read chapter 169 - 188 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:19 30 April 2025)
 -   📺 Watched episode 5 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:01 28 April 2025)
--   📺 Watched episode 4 of [WITCH WATCH](https://anilist.co/anime/180367) (16:40 28 April 2025)
--   📖 Read chapter 133 - 168 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (22:57 27 April 2025)
--   📖 Read chapter 112 - 132 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:17 26 April 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
