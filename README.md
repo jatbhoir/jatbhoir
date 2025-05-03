@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 - 39 of [I Shall Master this Family!](https://anilist.co/manga/130429) (19:06 03 May 2025)
 -   📖 Read chapter 1 - 33 of [I Shall Master this Family!](https://anilist.co/manga/130429) (22:39 01 May 2025)
 -   📖 Plans to read [I Shall Master this Family!](https://anilist.co/manga/130429) (19:30 01 May 2025)
 -   📖 Read chapter 189 - 200 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:20 01 May 2025)
 -   📖 Read chapter 260 of [Omniscient Reader](https://anilist.co/manga/119257) (18:15 01 May 2025)
--   📖 Read chapter 116 of [The Infinite Mage](https://anilist.co/manga/159930) (18:04 01 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
