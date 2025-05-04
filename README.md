@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 78 - 117 of [I Shall Master this Family!](https://anilist.co/manga/130429) (15:09 04 May 2025)
+-   📖 Read chapter 78 - 122 of [I Shall Master this Family!](https://anilist.co/manga/130429) (16:04 04 May 2025)
 -   📺 Watched episode 3 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (08:20 04 May 2025)
 -   📖 Read chapter 34 - 77 of [I Shall Master this Family!](https://anilist.co/manga/130429) (23:12 03 May 2025)
 -   📖 Read chapter 1 - 33 of [I Shall Master this Family!](https://anilist.co/manga/130429) (22:39 01 May 2025)
