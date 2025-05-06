@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 137 - 141 of [I Shall Master this Family!](https://anilist.co/manga/130429) (19:04 06 May 2025)
 -   📺 Watched episode 6 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:09 05 May 2025)
 -   📖 Read chapter 78 - 136 of [I Shall Master this Family!](https://anilist.co/manga/130429) (17:52 04 May 2025)
 -   📺 Watched episode 3 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (08:20 04 May 2025)
 -   📖 Read chapter 34 - 77 of [I Shall Master this Family!](https://anilist.co/manga/130429) (23:12 03 May 2025)
--   📖 Read chapter 1 - 33 of [I Shall Master this Family!](https://anilist.co/manga/130429) (22:39 01 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
