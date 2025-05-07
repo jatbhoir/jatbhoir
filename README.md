@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Gargantia on the Verdurous Planet OVA (2014)](https://anilist.co/anime/20449) (18:17 07 May 2025)
+-   📺 Plans to watch [Gargantia on the Verdurous Planet OVA (2014)](https://anilist.co/anime/20449) (17:23 07 May 2025)
+-   📺 Completed [Gargantia on the Verdurous Planet](https://anilist.co/anime/16524) (17:19 07 May 2025)
 -   📺 Plans to watch [Gargantia on the Verdurous Planet](https://anilist.co/anime/16524) (10:59 07 May 2025)
 -   📖 Read chapter 141 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (23:41 06 May 2025)
--   📖 Read chapter 220 of [Shangri-La Frontier](https://anilist.co/manga/122063) (23:41 06 May 2025)
--   📖 Read chapter 137 - 182 of [I Shall Master this Family!](https://anilist.co/manga/130429) (23:14 06 May 2025)
--   📺 Watched episode 6 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:09 05 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
