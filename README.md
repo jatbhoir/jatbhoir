@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 - 11 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (08:03 08 May 2025)
+-   📺 Completed [Gargantia on the Verdurous Planet OVA (2014)](https://anilist.co/anime/20449) (07:12 08 May 2025)
 -   📺 Watched episode 1 of [Gargantia on the Verdurous Planet OVA (2014)](https://anilist.co/anime/20449) (18:17 07 May 2025)
 -   📺 Plans to watch [Gargantia on the Verdurous Planet OVA (2014)](https://anilist.co/anime/20449) (17:23 07 May 2025)
 -   📺 Completed [Gargantia on the Verdurous Planet](https://anilist.co/anime/16524) (17:19 07 May 2025)
--   📺 Plans to watch [Gargantia on the Verdurous Planet](https://anilist.co/anime/16524) (10:59 07 May 2025)
--   📖 Read chapter 141 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (23:41 06 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
