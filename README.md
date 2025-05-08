@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (15:56 08 May 2025)
+-   📺 Watched episode 1 - 8 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (17:02 08 May 2025)
 -   📺 Completed [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (13:39 08 May 2025)
 -   📺 Watched episode 10 - 24 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (13:12 08 May 2025)
 -   📺 Watched episode 10 - 23 of [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (12:49 08 May 2025)
