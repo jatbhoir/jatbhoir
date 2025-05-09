@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [WITCH WATCH](https://anilist.co/anime/180367) (15:14 09 May 2025)
 -   📖 Plans to read [The Greatest Estate Developer](https://anilist.co/manga/140407) (10:53 09 May 2025)
 -   📖 Read chapter 171 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:21 09 May 2025)
 -   📖 Read chapter 117 of [The Infinite Mage](https://anilist.co/manga/159930) (19:30 08 May 2025)
 -   📖 Read chapter 261 of [Omniscient Reader](https://anilist.co/manga/119257) (19:21 08 May 2025)
--   📺 Completed [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (18:31 08 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
