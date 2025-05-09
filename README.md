@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 171 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:21 09 May 2025)
 -   📖 Read chapter 117 of [The Infinite Mage](https://anilist.co/manga/159930) (19:30 08 May 2025)
 -   📖 Read chapter 261 of [Omniscient Reader](https://anilist.co/manga/119257) (19:21 08 May 2025)
 -   📺 Completed [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (18:31 08 May 2025)
 -   📺 Watched episode 1 - 11 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (18:09 08 May 2025)
--   📺 Completed [Orb: On the Movements of the Earth](https://anilist.co/anime/151514) (13:39 08 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
