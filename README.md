@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 of [OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying](https://anilist.co/anime/166699) (09:33 10 May 2025)
+-   📺 Watched episode 4 - 6 of [OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying](https://anilist.co/anime/166699) (11:51 10 May 2025)
 -   📺 Watched episode 5 of [WITCH WATCH](https://anilist.co/anime/180367) (15:14 09 May 2025)
 -   📖 Plans to read [The Greatest Estate Developer](https://anilist.co/manga/140407) (10:53 09 May 2025)
 -   📖 Read chapter 171 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:21 09 May 2025)
