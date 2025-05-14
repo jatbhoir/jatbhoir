@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (12:08 14 May 2025)
 -   📺 Watched episode 5 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (14:53 10 May 2025)
 -   📺 Completed [OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying](https://anilist.co/anime/166699) (14:34 10 May 2025)
 -   📺 Watched episode 4 - 11 of [OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying](https://anilist.co/anime/166699) (13:59 10 May 2025)
 -   📺 Watched episode 5 of [WITCH WATCH](https://anilist.co/anime/180367) (15:14 09 May 2025)
--   📖 Plans to read [The Greatest Estate Developer](https://anilist.co/manga/140407) (10:53 09 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
