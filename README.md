@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (15:59 14 May 2025)
+-   📺 Watched episode 1 - 8 of [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (17:06 14 May 2025)
 -   📺 Completed [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (13:49 14 May 2025)
 -   📺 Watched episode 10 - 12 of [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (13:28 14 May 2025)
 -   📺 Watched episode 5 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (14:53 10 May 2025)
