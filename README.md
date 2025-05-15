@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The Shiunji Family Children](https://anilist.co/anime/174802) (15:56 15 May 2025)
+-   📺 Plans to watch [The Shiunji Family Children](https://anilist.co/anime/174802) (15:25 15 May 2025)
 -   📖 Read chapter 118 of [The Infinite Mage](https://anilist.co/manga/159930) (15:04 15 May 2025)
 -   📺 Watched episode 5 - 6 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (13:51 15 May 2025)
 -   📺 Completed [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (10:03 15 May 2025)
--   📺 Watched episode 1 - 15 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (09:42 15 May 2025)
--   📺 Plans to watch [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (18:30 14 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
