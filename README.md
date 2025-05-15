@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:51 15 May 2025)
 -   📖 Read chapter 172 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (16:59 15 May 2025)
 -   📖 Read chapter 183 of [I Shall Master this Family!](https://anilist.co/manga/130429) (16:52 15 May 2025)
 -   📖 Read chapter 262 of [Omniscient Reader](https://anilist.co/manga/119257) (16:46 15 May 2025)
 -   📺 Watched episode 1 - 2 of [The Shiunji Family Children](https://anilist.co/anime/174802) (15:56 15 May 2025)
--   📺 Plans to watch [The Shiunji Family Children](https://anilist.co/anime/174802) (15:25 15 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
