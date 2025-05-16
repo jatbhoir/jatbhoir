@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:51 15 May 2025)
+-   📖 Read chapter 1 - 9 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (23:52 15 May 2025)
 -   📖 Read chapter 172 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (16:59 15 May 2025)
 -   📖 Read chapter 183 of [I Shall Master this Family!](https://anilist.co/manga/130429) (16:52 15 May 2025)
 -   📖 Read chapter 262 of [Omniscient Reader](https://anilist.co/manga/119257) (16:46 15 May 2025)
