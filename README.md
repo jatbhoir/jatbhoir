@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 10 - 14 of [Just for a Meowment](https://anilist.co/manga/125443) (11:09 17 May 2025)
+-   📖 Completed [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (10:48 17 May 2025)
+-   📖 Read chapter 71 - 82 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (10:47 17 May 2025)
 -   📺 Watched episode 3 - 6 of [The Shiunji Family Children](https://anilist.co/anime/174802) (08:50 17 May 2025)
 -   📖 Read chapter 10 - 13 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (15:46 16 May 2025)
--   📖 Read chapter 1 - 9 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (23:52 15 May 2025)
--   📖 Read chapter 172 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (16:59 15 May 2025)
--   📖 Read chapter 183 of [I Shall Master this Family!](https://anilist.co/manga/130429) (16:52 15 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
