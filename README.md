@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 - 71 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:07 18 May 2025)
+-   📖 Read chapter 14 - 81 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (18:13 18 May 2025)
 -   📖 Completed [Just for a Meowment](https://anilist.co/manga/125443) (18:34 17 May 2025)
 -   📖 Read chapter 10 - 100 of [Just for a Meowment](https://anilist.co/manga/125443) (18:22 17 May 2025)
 -   📖 Completed [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (10:48 17 May 2025)
