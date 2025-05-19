@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:07 19 May 2025)
 -   📖 Read chapter 14 - 111 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (20:44 18 May 2025)
 -   📖 Completed [Just for a Meowment](https://anilist.co/manga/125443) (18:34 17 May 2025)
 -   📖 Read chapter 10 - 100 of [Just for a Meowment](https://anilist.co/manga/125443) (18:22 17 May 2025)
 -   📖 Completed [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (10:48 17 May 2025)
--   📖 Read chapter 71 - 82 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (10:47 17 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
