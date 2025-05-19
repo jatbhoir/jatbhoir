@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 - 147 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:06 19 May 2025)
+-   📖 Read chapter 14 - 158 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (18:11 19 May 2025)
 -   📺 Watched episode 6 of [WITCH WATCH](https://anilist.co/anime/180367) (16:31 19 May 2025)
 -   📺 Watched episode 6 - 7 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (12:59 19 May 2025)
 -   📺 Watched episode 7 - 8 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:07 19 May 2025)
