@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 5 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:06 20 May 2025)
+-   📺 Watched episode 4 - 7 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:51 20 May 2025)
 -   📺 Watched episode 7 of [WITCH WATCH](https://anilist.co/anime/180367) (14:52 20 May 2025)
 -   📖 Plans to read [Author of My Own Destiny](https://anilist.co/manga/138655) (08:31 20 May 2025)
 -   📖 Read chapter 14 - 182 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (20:43 19 May 2025)
