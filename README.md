@@ -39,8 +39,8 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 17 of [Author of My Own Destiny](https://anilist.co/manga/138655) (18:14 21 May 2025)
 -   📺 Watched episode 3 - 5 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (16:15 21 May 2025)
--   📖 Read chapter 4 - 5 of [Author of My Own Destiny](https://anilist.co/manga/138655) (08:13 21 May 2025)
 -   📖 Read chapter 1 - 3 of [Author of My Own Destiny](https://anilist.co/manga/138655) (19:21 20 May 2025)
 -   📺 Watched episode 4 - 7 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:51 20 May 2025)
 -   📺 Watched episode 7 of [WITCH WATCH](https://anilist.co/anime/180367) (14:52 20 May 2025)
