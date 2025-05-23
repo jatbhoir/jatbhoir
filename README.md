@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 59 - 98 of [Author of My Own Destiny](https://anilist.co/manga/138655) (19:08 23 May 2025)
+-   📖 Read chapter 59 - 110 of [Author of My Own Destiny](https://anilist.co/manga/138655) (20:10 23 May 2025)
 -   📖 Read chapter 56 - 58 of [Author of My Own Destiny](https://anilist.co/manga/138655) (13:39 22 May 2025)
 -   📺 Watched episode 6 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (08:41 22 May 2025)
 -   📺 Watched episode 6 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (08:41 22 May 2025)
