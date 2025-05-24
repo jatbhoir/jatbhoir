@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 7 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (17:58 24 May 2025)
--   📖 Read chapter 126 of [Author of My Own Destiny](https://anilist.co/manga/138655) (09:35 24 May 2025)
+-   📖 Read chapter 126 - 131 of [Author of My Own Destiny](https://anilist.co/manga/138655) (19:07 24 May 2025)
+-   📺 Watched episode 7 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (18:44 24 May 2025)
+-   📺 Watched episode 7 - 8 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (18:20 24 May 2025)
 -   📖 Read chapter 59 - 125 of [Author of My Own Destiny](https://anilist.co/manga/138655) (21:34 23 May 2025)
 -   📖 Read chapter 56 - 58 of [Author of My Own Destiny](https://anilist.co/manga/138655) (13:39 22 May 2025)
--   📺 Watched episode 6 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (08:41 22 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
