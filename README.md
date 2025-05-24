@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Otaku ni Otoku na Gal Gurashi](https://anilist.co/manga/137520) (21:02 24 May 2025)
+-   📖 Read chapter 11 - 19 of [Otaku ni Otoku na Gal Gurashi](https://anilist.co/manga/137520) (20:58 24 May 2025)
 -   📖 Read chapter 119 of [The Infinite Mage](https://anilist.co/manga/159930) (19:37 24 May 2025)
 -   📖 Read chapter 263 of [Omniscient Reader](https://anilist.co/manga/119257) (19:28 24 May 2025)
 -   📖 Read chapter 173 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (19:21 24 May 2025)
--   📖 Completed [Author of My Own Destiny](https://anilist.co/manga/138655) (19:13 24 May 2025)
--   📖 Read chapter 126 - 131 of [Author of My Own Destiny](https://anilist.co/manga/138655) (19:07 24 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
