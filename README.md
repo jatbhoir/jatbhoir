@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Kimi to Picopico](https://anilist.co/manga/131287) (21:22 24 May 2025)
+-   📖 Read chapter 1 - 3 of [Kimi to Picopico](https://anilist.co/manga/131287) (06:14 25 May 2025)
 -   📖 Completed [Otaku ni Otoku na Gal Gurashi](https://anilist.co/manga/137520) (21:02 24 May 2025)
 -   📖 Read chapter 11 - 19 of [Otaku ni Otoku na Gal Gurashi](https://anilist.co/manga/137520) (20:58 24 May 2025)
 -   📖 Read chapter 119 of [The Infinite Mage](https://anilist.co/manga/159930) (19:37 24 May 2025)
