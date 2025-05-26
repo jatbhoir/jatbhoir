@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 - 23 of [Kimi to Picopico](https://anilist.co/manga/131287) (17:07 26 May 2025)
+-   📖 Read chapter 13 - 37 of [Kimi to Picopico](https://anilist.co/manga/131287) (18:07 26 May 2025)
 -   📺 Watched episode 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (12:49 26 May 2025)
 -   📺 Plans to watch [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (11:38 26 May 2025)
 -   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (11:16 26 May 2025)
