@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (11:38 26 May 2025)
+-   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (11:16 26 May 2025)
 -   📺 Watched episode 5 - 11 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (10:55 26 May 2025)
 -   📺 Watched episode 8 of [WITCH WATCH](https://anilist.co/anime/180367) (06:28 26 May 2025)
 -   📺 Watched episode 9 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:07 26 May 2025)
--   📺 Watched episode 8 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (05:50 26 May 2025)
--   📖 Read chapter 6 - 12 of [Kimi to Picopico](https://anilist.co/manga/131287) (20:15 25 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
