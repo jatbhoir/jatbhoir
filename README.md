@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 6 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (07:09 26 May 2025)
+-   📺 Watched episode 5 - 7 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (07:40 26 May 2025)
 -   📺 Watched episode 8 of [WITCH WATCH](https://anilist.co/anime/180367) (06:28 26 May 2025)
 -   📺 Watched episode 9 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:07 26 May 2025)
 -   📺 Watched episode 8 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (05:50 26 May 2025)
