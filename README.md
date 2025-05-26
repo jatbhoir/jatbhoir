@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:07 26 May 2025)
+-   📺 Watched episode 8 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (05:50 26 May 2025)
 -   📖 Read chapter 6 - 12 of [Kimi to Picopico](https://anilist.co/manga/131287) (20:15 25 May 2025)
 -   📖 Read chapter 1 - 5 of [Kimi to Picopico](https://anilist.co/manga/131287) (06:22 25 May 2025)
 -   📖 Completed [Otaku ni Otoku na Gal Gurashi](https://anilist.co/manga/137520) (21:02 24 May 2025)
--   📖 Read chapter 11 - 19 of [Otaku ni Otoku na Gal Gurashi](https://anilist.co/manga/137520) (20:58 24 May 2025)
--   📖 Read chapter 119 of [The Infinite Mage](https://anilist.co/manga/159930) (19:37 24 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
