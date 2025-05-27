@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [HAIKYU‼ TO THE TOP Part 2](https://anilist.co/anime/113538) (16:51 27 May 2025)
+-   📺 Watched episode 1 - 8 of [HAIKYU‼ TO THE TOP Part 2](https://anilist.co/anime/113538) (18:06 27 May 2025)
 -   📺 Plans to watch [HAIKYU‼ TO THE TOP Part 2](https://anilist.co/anime/113538) (15:23 27 May 2025)
 -   📺 Completed [HAIKYU!! TO THE TOP](https://anilist.co/anime/106625) (15:18 27 May 2025)
 -   📺 Watched episode 5 - 12 of [HAIKYU!! TO THE TOP](https://anilist.co/anime/106625) (14:52 27 May 2025)
