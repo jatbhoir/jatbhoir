@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [HAIKYU!! The Dumpster Battle](https://anilist.co/anime/153658) (07:20 28 May 2025)
 -   📖 Read chapter 38 - 43 of [Kimi to Picopico](https://anilist.co/manga/131287) (20:26 27 May 2025)
 -   📖 Read chapter 37 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (19:53 27 May 2025)
 -   📖 Read chapter 264 of [Omniscient Reader](https://anilist.co/manga/119257) (19:52 27 May 2025)
 -   📺 Plans to watch [HAIKYU!! The Dumpster Battle](https://anilist.co/anime/153658) (19:33 27 May 2025)
--   📺 Completed [HAIKYU‼ TO THE TOP Part 2](https://anilist.co/anime/113538) (19:29 27 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
