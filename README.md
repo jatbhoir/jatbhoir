@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 184 - 185 of [I Shall Master this Family!](https://anilist.co/manga/130429) (11:52 28 May 2025)
+-   📖 Read chapter 137 - 138 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (11:38 28 May 2025)
+-   📖 Read chapter 120 of [The Infinite Mage](https://anilist.co/manga/159930) (11:23 28 May 2025)
 -   📖 Completed [Kimi to Picopico](https://anilist.co/manga/131287) (10:38 28 May 2025)
 -   📖 Read chapter 44 - 56 of [Kimi to Picopico](https://anilist.co/manga/131287) (10:33 28 May 2025)
--   📺 Completed [HAIKYU!! The Dumpster Battle](https://anilist.co/anime/153658) (07:20 28 May 2025)
--   📖 Read chapter 38 - 43 of [Kimi to Picopico](https://anilist.co/manga/131287) (20:26 27 May 2025)
--   📖 Read chapter 37 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (19:53 27 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
