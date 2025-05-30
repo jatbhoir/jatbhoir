@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (21:37 29 May 2025)
+-   📖 Read chapter 1 - 11 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (09:11 30 May 2025)
 -   📖 Plans to read [The Villainess is a Marionette](https://anilist.co/manga/129758) (16:09 28 May 2025)
 -   📖 Read chapter 184 - 185 of [I Shall Master this Family!](https://anilist.co/manga/130429) (11:52 28 May 2025)
 -   📖 Read chapter 137 - 138 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (11:38 28 May 2025)
