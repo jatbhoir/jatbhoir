@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (07:42 03 June 2025)
 -   📖 Read chapter 22 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (14:52 02 June 2025)
 -   📖 Read chapter 18 - 21 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (12:21 01 June 2025)
 -   📖 Read chapter 1 - 17 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (09:52 30 May 2025)
 -   📖 Plans to read [The Villainess is a Marionette](https://anilist.co/manga/129758) (16:09 28 May 2025)
--   📖 Read chapter 184 - 185 of [I Shall Master this Family!](https://anilist.co/manga/130429) (11:52 28 May 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
