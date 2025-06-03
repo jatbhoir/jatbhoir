@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 23 - 70 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (16:35 03 June 2025)
+-   📖 Read chapter 23 - 84 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (18:16 03 June 2025)
 -   📖 Read chapter 22 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (14:52 02 June 2025)
 -   📖 Read chapter 18 - 21 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (12:21 01 June 2025)
 -   📖 Read chapter 1 - 17 of [The Villainess is a Marionette](https://anilist.co/manga/129758) (09:52 30 May 2025)
