@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 - 35 of [Castle Town Dandelion](https://anilist.co/manga/86376) (19:08 04 June 2025)
 -   📺 Completed [Castle Town Dandelion](https://anilist.co/anime/20951) (17:53 04 June 2025)
 -   📺 Watched episode 1 - 11 of [Castle Town Dandelion](https://anilist.co/anime/20951) (17:32 04 June 2025)
 -   📖 Read chapter 121 of [The Infinite Mage](https://anilist.co/manga/159930) (20:30 03 June 2025)
 -   📖 Read chapter 174 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (20:20 03 June 2025)
--   📖 Completed [The Villainess is a Marionette](https://anilist.co/manga/129758) (20:12 03 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
