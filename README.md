@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 35 of [Castle Town Dandelion](https://anilist.co/manga/86376) (19:08 04 June 2025)
+-   📖 Read chapter 30 - 40 of [Castle Town Dandelion](https://anilist.co/manga/86376) (19:43 04 June 2025)
 -   📺 Completed [Castle Town Dandelion](https://anilist.co/anime/20951) (17:53 04 June 2025)
 -   📺 Watched episode 1 - 11 of [Castle Town Dandelion](https://anilist.co/anime/20951) (17:32 04 June 2025)
 -   📖 Read chapter 121 of [The Infinite Mage](https://anilist.co/manga/159930) (20:30 03 June 2025)
