@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 23 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (16:15 05 June 2025)
+-   📖 Read chapter 1 - 28 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (17:08 05 June 2025)
 -   📖 Plans to read [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (08:48 05 June 2025)
 -   📖 Read chapter 30 - 40 of [Castle Town Dandelion](https://anilist.co/manga/86376) (19:43 04 June 2025)
 -   📺 Completed [Castle Town Dandelion](https://anilist.co/anime/20951) (17:53 04 June 2025)
