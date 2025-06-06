@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 265 of [Yona of the Dawn](https://anilist.co/manga/51525) (03:41 06 June 2025)
+-   📖 Read chapter 197 of [Blue Box](https://anilist.co/manga/132182) (03:36 06 June 2025)
+-   📖 Read chapter 175 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (03:35 06 June 2025)
 -   📖 Read chapter 1 - 43 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (19:09 05 June 2025)
 -   📖 Plans to read [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (08:48 05 June 2025)
--   📖 Read chapter 30 - 40 of [Castle Town Dandelion](https://anilist.co/manga/86376) (19:43 04 June 2025)
--   📺 Completed [Castle Town Dandelion](https://anilist.co/anime/20951) (17:53 04 June 2025)
--   📺 Watched episode 1 - 11 of [Castle Town Dandelion](https://anilist.co/anime/20951) (17:32 04 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
