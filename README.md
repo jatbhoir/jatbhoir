@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (14:45 09 June 2025)
+-   📖 Read chapter 97 - 98 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (15:32 09 June 2025)
 -   📖 Read chapter 1 - 96 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (16:14 07 June 2025)
 -   📖 Read chapter 265 of [Yona of the Dawn](https://anilist.co/manga/51525) (03:41 06 June 2025)
 -   📖 Read chapter 197 of [Blue Box](https://anilist.co/manga/132182) (03:36 06 June 2025)
