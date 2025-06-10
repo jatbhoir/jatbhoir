@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Lady Chef Royale](https://anilist.co/manga/124966) (17:56 10 June 2025)
+-   📖 Read chapter 122 of [The Infinite Mage](https://anilist.co/manga/159930) (17:47 10 June 2025)
 -   📖 Read chapter 97 - 98 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (15:32 09 June 2025)
 -   📖 Read chapter 1 - 96 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (16:14 07 June 2025)
 -   📖 Read chapter 265 of [Yona of the Dawn](https://anilist.co/manga/51525) (03:41 06 June 2025)
--   📖 Read chapter 197 of [Blue Box](https://anilist.co/manga/132182) (03:36 06 June 2025)
--   📖 Read chapter 175 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (03:35 06 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
