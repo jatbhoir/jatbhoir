@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Lady Chef Royale](https://anilist.co/manga/124966) (03:01 11 June 2025)
+-   📖 Read chapter 1 - 2 of [Lady Chef Royale](https://anilist.co/manga/124966) (12:33 11 June 2025)
 -   📖 Plans to read [Lady Chef Royale](https://anilist.co/manga/124966) (17:56 10 June 2025)
 -   📖 Read chapter 122 of [The Infinite Mage](https://anilist.co/manga/159930) (17:47 10 June 2025)
 -   📖 Read chapter 97 - 98 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (15:32 09 June 2025)
