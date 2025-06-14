@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (13:10 14 June 2025)
+-   📺 Watched episode 6 - 8 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (13:56 14 June 2025)
 -   📖 Completed [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (09:35 14 June 2025)
 -   📖 Read chapter 99 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (09:18 14 June 2025)
 -   📺 Watched episode 1 - 5 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (09:59 13 June 2025)
