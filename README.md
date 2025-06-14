@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (09:35 14 June 2025)
+-   📖 Read chapter 99 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (09:18 14 June 2025)
 -   📺 Watched episode 1 - 5 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (09:59 13 June 2025)
 -   📺 Completed [Rascal Does Not Dream of a Knapsack Kid](https://anilist.co/anime/161474) (14:07 11 June 2025)
 -   📖 Read chapter 1 - 2 of [Lady Chef Royale](https://anilist.co/manga/124966) (12:33 11 June 2025)
--   📖 Plans to read [Lady Chef Royale](https://anilist.co/manga/124966) (17:56 10 June 2025)
--   📖 Read chapter 122 of [The Infinite Mage](https://anilist.co/manga/159930) (17:47 10 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
