@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 179 of [Oroji Neoreul Igigo Sipeo](https://anilist.co/manga/135561) (13:38 17 June 2025)
 -   📖 Read chapter 3 - 103 of [Lady Chef Royale](https://anilist.co/manga/124966) (22:01 15 June 2025)
 -   📺 Watched episode 6 - 11 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (18:03 14 June 2025)
 -   📖 Completed [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (09:35 14 June 2025)
 -   📖 Read chapter 99 of [Not Your Typical Reincarnation Story](https://anilist.co/manga/164599) (09:18 14 June 2025)
--   📺 Watched episode 1 - 5 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (09:59 13 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
