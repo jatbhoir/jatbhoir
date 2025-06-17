@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (17:05 17 June 2025)
+-   📺 Watched episode 8 - 10 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (17:56 17 June 2025)
 -   📖 Read chapter 179 of [Oroji Neoreul Igigo Sipeo](https://anilist.co/manga/135561) (13:38 17 June 2025)
 -   📖 Read chapter 3 - 103 of [Lady Chef Royale](https://anilist.co/manga/124966) (22:01 15 June 2025)
 -   📺 Watched episode 6 - 11 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (18:03 14 June 2025)
