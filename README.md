@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 104 - 122 of [Lady Chef Royale](https://anilist.co/manga/124966) (18:17 18 June 2025)
+-   📖 Read chapter 104 - 136 of [Lady Chef Royale](https://anilist.co/manga/124966) (19:09 18 June 2025)
 -   📺 Watched episode 8 - 9 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:31 18 June 2025)
 -   📖 Plans to read [Myeolmanghan Segyeeseo On Geomsin](https://anilist.co/manga/194024) (16:26 18 June 2025)
 -   📺 Watched episode 8 - 10 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (17:56 17 June 2025)
