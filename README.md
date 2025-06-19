@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 18 of [Re:CREATORS](https://anilist.co/anime/97980) (16:48 19 June 2025)
+-   📺 Completed [Re:CREATORS](https://anilist.co/anime/97980) (18:17 19 June 2025)
+-   📺 Watched episode 1 - 21 of [Re:CREATORS](https://anilist.co/anime/97980) (17:53 19 June 2025)
 -   📺 Plans to watch [Re:CREATORS](https://anilist.co/anime/97980) (06:34 19 June 2025)
 -   📖 Plans to read [Boundless Ascension](https://anilist.co/manga/159439) (21:42 18 June 2025)
 -   📖 Plans to read [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (21:40 18 June 2025)
--   📖 Paused reading [Lady Chef Royale](https://anilist.co/manga/124966) (21:14 18 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
