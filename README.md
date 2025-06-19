@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 14 of [Re:CREATORS](https://anilist.co/anime/97980) (11:53 19 June 2025)
+-   📺 Watched episode 1 - 16 of [Re:CREATORS](https://anilist.co/anime/97980) (16:06 19 June 2025)
 -   📺 Plans to watch [Re:CREATORS](https://anilist.co/anime/97980) (06:34 19 June 2025)
 -   📖 Plans to read [Boundless Ascension](https://anilist.co/manga/159439) (21:42 18 June 2025)
 -   📖 Plans to read [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (21:40 18 June 2025)
