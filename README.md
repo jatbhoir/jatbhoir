@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Re:CREATORS](https://anilist.co/anime/97980) (06:56 19 June 2025)
+-   📺 Plans to watch [Re:CREATORS](https://anilist.co/anime/97980) (06:34 19 June 2025)
 -   📖 Plans to read [Boundless Ascension](https://anilist.co/manga/159439) (21:42 18 June 2025)
 -   📖 Plans to read [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (21:40 18 June 2025)
 -   📖 Paused reading [Lady Chef Royale](https://anilist.co/manga/124966) (21:14 18 June 2025)
--   📖 Read chapter 104 - 166 of [Lady Chef Royale](https://anilist.co/manga/124966) (21:11 18 June 2025)
--   📺 Watched episode 8 - 9 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:31 18 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
