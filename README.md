@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (08:51 20 June 2025)
 -   📖 Read chapter 265 - 267 of [Omniscient Reader](https://anilist.co/manga/119257) (19:46 19 June 2025)
 -   📖 Read chapter 176 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (19:26 19 June 2025)
 -   📖 Read chapter 123 of [The Infinite Mage](https://anilist.co/manga/159930) (19:18 19 June 2025)
 -   📺 Completed [Re:CREATORS](https://anilist.co/anime/97980) (18:17 19 June 2025)
--   📺 Watched episode 1 - 21 of [Re:CREATORS](https://anilist.co/anime/97980) (17:53 19 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
