@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:01 22 June 2025)
+-   📺 Watched episode 12 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (16:40 22 June 2025)
 -   📖 Read chapter 4 - 13 of [Boundless Ascension](https://anilist.co/manga/159439) (16:12 22 June 2025)
 -   📺 Completed [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (06:31 22 June 2025)
 -   📺 Watched episode 11 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (06:09 22 June 2025)
--   📖 Read chapter 2 - 3 of [Boundless Ascension](https://anilist.co/manga/159439) (18:05 21 June 2025)
--   📺 Watched episode 10 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (17:07 21 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
