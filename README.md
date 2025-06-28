@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Mechanical Marie](https://anilist.co/manga/123454) (05:33 28 June 2025)
 -   📺 Completed [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (18:45 27 June 2025)
 -   📺 Watched episode 13 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (09:25 27 June 2025)
 -   📖 Read chapter 19 - 43 of [Boundless Ascension](https://anilist.co/manga/159439) (19:58 23 June 2025)
 -   📺 Watched episode 3 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (16:21 23 June 2025)
--   📖 Read chapter 4 - 18 of [Boundless Ascension](https://anilist.co/manga/159439) (18:38 22 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
