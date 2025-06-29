@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 49 of [Boundless Ascension](https://anilist.co/manga/159439) (18:08 29 June 2025)
--   📺 Completed [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (17:52 29 June 2025)
--   📺 Watched episode 9 - 11 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (17:31 29 June 2025)
--   📺 Watched episode 15 - 23 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (16:13 29 June 2025)
--   📺 Plans to watch [Lord of Mysteries](https://anilist.co/anime/137667) (11:36 29 June 2025)
+-   📖 Read chapter 47 - 50 of [Boundless Ascension](https://anilist.co/manga/159439) (19:07 29 June 2025)
+-   📺 Plans to watch [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (18:36 29 June 2025)
+-   📺 Plans to watch [Call of the Night Season 2](https://anilist.co/anime/175914) (18:35 29 June 2025)
+-   📺 Plans to watch [DAN DA DAN Season 2](https://anilist.co/anime/185660) (18:35 29 June 2025)
+-   📺 Plans to watch [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (18:34 29 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
