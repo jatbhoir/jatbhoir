@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 15 - 17 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (13:54 29 June 2025)
+-   📺 Watched episode 15 - 20 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (14:57 29 June 2025)
 -   📺 Plans to watch [Lord of Mysteries](https://anilist.co/anime/137667) (11:36 29 June 2025)
 -   📖 Read chapter 47 - 48 of [Boundless Ascension](https://anilist.co/manga/159439) (09:39 29 June 2025)
 -   📖 Read chapter 44 - 46 of [Boundless Ascension](https://anilist.co/manga/159439) (20:14 28 June 2025)
