@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 - 10 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (10:12 01 July 2025)
+-   📺 Plans to watch [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (09:25 01 July 2025)
+-   📺 Plans to watch [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (09:24 01 July 2025)
 -   📖 Read chapter 56 - 58 of [Boundless Ascension](https://anilist.co/manga/159439) (10:15 30 June 2025)
 -   📖 Read chapter 47 - 54 of [Boundless Ascension](https://anilist.co/manga/159439) (19:39 29 June 2025)
--   📺 Plans to watch [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (18:36 29 June 2025)
--   📺 Plans to watch [Call of the Night Season 2](https://anilist.co/anime/175914) (18:35 29 June 2025)
--   📺 Plans to watch [DAN DA DAN Season 2](https://anilist.co/anime/185660) (18:35 29 June 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
