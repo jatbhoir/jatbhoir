@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Stranger by the Shore](https://anilist.co/anime/112788) (18:12 04 July 2025)
+-   📺 Completed [Psychic School Wars](https://anilist.co/anime/14293) (17:53 04 July 2025)
 -   📺 Plans to watch [Psychic School Wars](https://anilist.co/anime/14293) (16:22 04 July 2025)
 -   📖 Read chapter 82 - 84 of [Boundless Ascension](https://anilist.co/manga/159439) (10:47 03 July 2025)
 -   📖 Read chapter 59 - 81 of [Boundless Ascension](https://anilist.co/manga/159439) (18:35 01 July 2025)
--   📺 Completed [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (10:45 01 July 2025)
--   📺 Watched episode 9 - 11 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (10:27 01 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
