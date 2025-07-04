@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 - 87 of [Boundless Ascension](https://anilist.co/manga/159439) (20:13 04 July 2025)
+-   📖 Read chapter 269 of [Omniscient Reader](https://anilist.co/manga/119257) (19:55 04 July 2025)
+-   📖 Read chapter 125 of [The Infinite Mage](https://anilist.co/manga/159930) (19:44 04 July 2025)
 -   📺 Plans to watch [Orange: Future](https://anilist.co/anime/97669) (18:19 04 July 2025)
 -   📺 Plans to watch [The Stranger by the Shore](https://anilist.co/anime/112788) (18:12 04 July 2025)
--   📺 Completed [Psychic School Wars](https://anilist.co/anime/14293) (17:53 04 July 2025)
--   📺 Plans to watch [Psychic School Wars](https://anilist.co/anime/14293) (16:22 04 July 2025)
--   📖 Read chapter 82 - 84 of [Boundless Ascension](https://anilist.co/manga/159439) (10:47 03 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
