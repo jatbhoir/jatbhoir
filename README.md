@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (16:13 05 July 2025)
 -   📺 Completed [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (12:26 05 July 2025)
 -   📖 Read chapter 91 - 98 of [Boundless Ascension](https://anilist.co/manga/159439) (10:19 05 July 2025)
 -   📖 Read chapter 85 - 90 of [Boundless Ascension](https://anilist.co/manga/159439) (20:35 04 July 2025)
 -   📖 Read chapter 269 of [Omniscient Reader](https://anilist.co/manga/119257) (19:55 04 July 2025)
--   📖 Read chapter 125 of [The Infinite Mage](https://anilist.co/manga/159930) (19:44 04 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
