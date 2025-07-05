@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 91 - 99 of [Boundless Ascension](https://anilist.co/manga/159439) (18:06 05 July 2025)
+-   📺 Watched episode 1 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (17:49 05 July 2025)
+-   📺 Plans to watch [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (17:44 05 July 2025)
+-   📺 Watched episode 1 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (17:26 05 July 2025)
 -   📺 Watched episode 4 - 6 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (16:55 05 July 2025)
--   📺 Completed [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (12:26 05 July 2025)
--   📖 Read chapter 91 - 98 of [Boundless Ascension](https://anilist.co/manga/159439) (10:19 05 July 2025)
--   📖 Read chapter 85 - 90 of [Boundless Ascension](https://anilist.co/manga/159439) (20:35 04 July 2025)
--   📖 Read chapter 269 of [Omniscient Reader](https://anilist.co/manga/119257) (19:55 04 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
