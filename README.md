@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 29 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (19:07 06 July 2025)
+-   📖 Read chapter 1 - 38 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (19:45 06 July 2025)
 -   📺 Watched episode 1 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (14:16 06 July 2025)
 -   📺 Plans to watch [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (08:39 06 July 2025)
 -   📖 Read chapter 91 - 131 of [Boundless Ascension](https://anilist.co/manga/159439) (21:58 05 July 2025)
