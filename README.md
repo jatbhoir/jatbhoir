@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (08:39 06 July 2025)
 -   📖 Read chapter 91 - 131 of [Boundless Ascension](https://anilist.co/manga/159439) (21:58 05 July 2025)
 -   📺 Watched episode 1 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (17:49 05 July 2025)
 -   📺 Plans to watch [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (17:44 05 July 2025)
 -   📺 Watched episode 1 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (17:26 05 July 2025)
--   📺 Watched episode 4 - 6 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (16:55 05 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
