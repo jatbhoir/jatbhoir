@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (13:56 07 July 2025)
+-   📖 Paused reading [The Apothecary Diaries](https://anilist.co/manga/99022) (13:50 07 July 2025)
+-   📖 Read chapter 80 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:50 07 July 2025)
 -   📺 Watched episode 7 - 8 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (13:09 07 July 2025)
 -   📖 Read chapter 124 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (10:46 07 July 2025)
--   📖 Completed [Chou Onnagirai na Ore ga Isekai no Joshikou ni Ryuugakusuru Koto ni Natta.](https://anilist.co/manga/159979) (10:34 07 July 2025)
--   📖 Read chapter 1 - 15 of [Chou Onnagirai na Ore ga Isekai no Joshikou ni Ryuugakusuru Koto ni Natta.](https://anilist.co/manga/159979) (10:33 07 July 2025)
--   📖 Read chapter 178 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (09:40 07 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
