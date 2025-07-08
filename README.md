@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 48 - 60 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (12:25 08 July 2025)
 -   📖 Read chapter 1 - 47 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (23:00 07 July 2025)
 -   📖 Plans to read [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (13:56 07 July 2025)
 -   📖 Paused reading [The Apothecary Diaries](https://anilist.co/manga/99022) (13:50 07 July 2025)
 -   📖 Read chapter 80 of [The Apothecary Diaries](https://anilist.co/manga/99022) (13:50 07 July 2025)
--   📺 Watched episode 7 - 8 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (13:09 07 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
