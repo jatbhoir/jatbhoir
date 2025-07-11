@@ -39,8 +39,8 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (02:31 11 July 2025)
 -   📺 Watched episode 10 - 11 of [TONIKAWA: Over The Moon For You Season 2](https://anilist.co/anime/141208) (17:21 10 July 2025)
--   📖 Read chapter 1 - 6 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (15:19 10 July 2025)
 -   📖 Plans to read [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (04:08 10 July 2025)
 -   📖 Completed [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (19:45 09 July 2025)
 -   📖 Read chapter 94 - 111 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (19:23 09 July 2025)
