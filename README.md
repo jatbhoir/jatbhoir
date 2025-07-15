@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Mechanical Marie](https://anilist.co/manga/123454) (17:57 15 July 2025)
 -   📖 Completed [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (13:08 15 July 2025)
 -   📖 Read chapter 24 - 39 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (13:05 15 July 2025)
 -   📖 Read chapter 21 - 23 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (12:22 14 July 2025)
 -   📺 Watched episode 2 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:07 13 July 2025)
--   📺 Watched episode 2 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (05:50 13 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
