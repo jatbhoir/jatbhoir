@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 - 32 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (03:27 15 July 2025)
+-   📖 Read chapter 24 - 35 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (07:53 15 July 2025)
 -   📖 Read chapter 21 - 23 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (12:22 14 July 2025)
 -   📺 Watched episode 2 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:07 13 July 2025)
 -   📺 Watched episode 2 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (05:50 13 July 2025)
