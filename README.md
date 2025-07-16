@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (16:13 16 July 2025)
+-   📺 Watched episode 14 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (15:50 16 July 2025)
 -   📖 Read chapter 1 - 6 of [Mechanical Marie](https://anilist.co/manga/123454) (14:02 16 July 2025)
 -   📺 Plans to watch [OVERLORD: The Sacred Kingdom](https://anilist.co/anime/133845) (08:31 16 July 2025)
 -   📖 Completed [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (13:08 15 July 2025)
--   📖 Read chapter 24 - 39 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (13:05 15 July 2025)
--   📖 Read chapter 21 - 23 of [Kimi wa, Nina ja Nai](https://anilist.co/manga/150040) (12:22 14 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
