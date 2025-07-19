@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (11:04 19 July 2025)
+-   📺 Watched episode 7 - 9 of [The Shiunji Family Children](https://anilist.co/anime/174802) (12:18 19 July 2025)
+-   📺 Watched episode 1 - 3 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (11:25 19 July 2025)
 -   📖 Read chapter 12 - 19 of [Mechanical Marie](https://anilist.co/manga/123454) (13:43 18 July 2025)
 -   📖 Read chapter 1 - 11 of [Mechanical Marie](https://anilist.co/manga/123454) (13:27 17 July 2025)
 -   📺 Watched episode 1 - 2 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (16:34 16 July 2025)
--   📺 Watched episode 14 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (15:50 16 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
