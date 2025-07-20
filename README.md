@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 24 of [Mechanical Marie](https://anilist.co/manga/123454) (06:15 20 July 2025)
 -   📺 Completed [The Shiunji Family Children](https://anilist.co/anime/174802) (16:52 19 July 2025)
 -   📺 Watched episode 7 - 11 of [The Shiunji Family Children](https://anilist.co/anime/174802) (16:27 19 July 2025)
 -   📺 Watched episode 1 - 3 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (11:25 19 July 2025)
 -   📖 Read chapter 12 - 19 of [Mechanical Marie](https://anilist.co/manga/123454) (13:43 18 July 2025)
--   📖 Read chapter 1 - 11 of [Mechanical Marie](https://anilist.co/manga/123454) (13:27 17 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
