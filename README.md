@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (03:14 21 July 2025)
 -   📖 Completed [Mechanical Marie](https://anilist.co/manga/123454) (07:22 20 July 2025)
 -   📖 Read chapter 20 - 28 of [Mechanical Marie](https://anilist.co/manga/123454) (07:20 20 July 2025)
 -   📺 Completed [The Shiunji Family Children](https://anilist.co/anime/174802) (16:52 19 July 2025)
 -   📺 Watched episode 7 - 11 of [The Shiunji Family Children](https://anilist.co/anime/174802) (16:27 19 July 2025)
--   📺 Watched episode 1 - 3 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (11:25 19 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
