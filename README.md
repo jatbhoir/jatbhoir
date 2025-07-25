@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 - 46 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (19:08 25 July 2025)
 -   📖 Read chapter 21 - 43 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (19:59 24 July 2025)
 -   📖 Read chapter 11 - 20 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (13:31 22 July 2025)
 -   📖 Read chapter 1 - 10 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (13:21 21 July 2025)
 -   📖 Completed [Mechanical Marie](https://anilist.co/manga/123454) (07:22 20 July 2025)
--   📖 Read chapter 20 - 28 of [Mechanical Marie](https://anilist.co/manga/123454) (07:20 20 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
