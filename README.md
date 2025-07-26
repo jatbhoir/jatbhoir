@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [OVERLORD: The Sacred Kingdom](https://anilist.co/anime/133845) (09:32 26 July 2025)
 -   📺 Watched episode 4 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (08:25 26 July 2025)
 -   📺 Watched episode 3 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (07:59 26 July 2025)
 -   📺 Watched episode 3 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (07:35 26 July 2025)
 -   📺 Watched episode 3 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (07:06 26 July 2025)
--   📖 Read chapter 44 - 69 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (21:23 25 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
