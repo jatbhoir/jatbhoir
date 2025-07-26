@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (15:17 26 July 2025)
+-   📺 Watched episode 1 - 3 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (17:12 26 July 2025)
 -   📺 Plans to watch [Secrets of the Silent Witch](https://anilist.co/anime/179966) (14:15 26 July 2025)
 -   📺 Completed [OVERLORD: The Sacred Kingdom](https://anilist.co/anime/133845) (09:32 26 July 2025)
 -   📺 Watched episode 4 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (08:25 26 July 2025)
