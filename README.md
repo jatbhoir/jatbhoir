@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 70 - 83 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (19:05 26 July 2025)
+-   📖 Read chapter 130 of [Blue Box](https://anilist.co/manga/132182) (19:37 26 July 2025)
+-   📖 Plans to read [Ending Maker](https://anilist.co/manga/150170) (19:31 26 July 2025)
+-   📖 Read chapter 70 - 86 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (19:23 26 July 2025)
 -   📺 Watched episode 1 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (17:50 26 July 2025)
 -   📺 Watched episode 3 - 4 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (17:34 26 July 2025)
--   📺 Watched episode 1 - 3 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (17:12 26 July 2025)
--   📺 Plans to watch [Secrets of the Silent Witch](https://anilist.co/anime/179966) (14:15 26 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
