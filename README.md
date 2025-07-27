@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (06:54 27 July 2025)
 -   📖 Read chapter 130 of [Blue Box](https://anilist.co/manga/132182) (19:37 26 July 2025)
 -   📖 Plans to read [Ending Maker](https://anilist.co/manga/150170) (19:31 26 July 2025)
 -   📖 Read chapter 70 - 86 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (19:23 26 July 2025)
 -   📺 Watched episode 1 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (17:50 26 July 2025)
--   📺 Watched episode 3 - 4 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (17:34 26 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
