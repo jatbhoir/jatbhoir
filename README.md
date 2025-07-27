@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 11 of [KOWLOON GENERIC ROMANCE](https://anilist.co/anime/182814) (13:10 27 July 2025)
+-   📺 Completed [KOWLOON GENERIC ROMANCE](https://anilist.co/anime/182814) (13:57 27 July 2025)
+-   📺 Watched episode 3 - 12 of [KOWLOON GENERIC ROMANCE](https://anilist.co/anime/182814) (13:34 27 July 2025)
 -   📺 Watched episode 4 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (07:20 27 July 2025)
 -   📺 Watched episode 4 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (06:54 27 July 2025)
 -   📖 Read chapter 130 of [Blue Box](https://anilist.co/manga/132182) (19:37 26 July 2025)
--   📖 Plans to read [Ending Maker](https://anilist.co/manga/150170) (19:31 26 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
