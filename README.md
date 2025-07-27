@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [Kill the Villainess](https://anilist.co/manga/132165) (16:57 27 July 2025)
 -   📖 Plans to read [Kill the Villainess](https://anilist.co/manga/132165) (16:08 27 July 2025)
 -   📖 Completed [Kaiju No.8](https://anilist.co/manga/120760) (16:01 27 July 2025)
 -   📖 Read chapter 122 - 128 of [Kaiju No.8](https://anilist.co/manga/120760) (15:51 27 July 2025)
 -   📖 Paused reading [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/manga/152404) (15:30 27 July 2025)
--   📖 Paused reading [A Condition Called Love](https://anilist.co/manga/101700) (15:29 27 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
