@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 14 of [Kill the Villainess](https://anilist.co/manga/132165) (18:12 27 July 2025)
+-   📖 Read chapter 1 - 19 of [Kill the Villainess](https://anilist.co/manga/132165) (18:39 27 July 2025)
 -   📖 Plans to read [Kill the Villainess](https://anilist.co/manga/132165) (16:08 27 July 2025)
 -   📖 Completed [Kaiju No.8](https://anilist.co/manga/120760) (16:01 27 July 2025)
 -   📖 Read chapter 122 - 128 of [Kaiju No.8](https://anilist.co/manga/120760) (15:51 27 July 2025)
