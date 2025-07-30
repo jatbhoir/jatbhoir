@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 - 29 of [Kill the Villainess](https://anilist.co/manga/132165) (10:34 30 July 2025)
+-   📖 Read chapter 27 - 30 of [Kill the Villainess](https://anilist.co/manga/132165) (12:23 30 July 2025)
 -   📺 Watched episode 4 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (09:21 30 July 2025)
 -   📺 Watched episode 1 - 3 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (17:28 29 July 2025)
 -   📖 Read chapter 23 - 26 of [Kill the Villainess](https://anilist.co/manga/132165) (13:33 29 July 2025)
