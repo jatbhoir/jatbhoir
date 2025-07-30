@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 29 of [Kill the Villainess](https://anilist.co/manga/132165) (02:43 30 July 2025)
 -   📺 Watched episode 1 - 3 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (17:28 29 July 2025)
 -   📖 Read chapter 23 - 26 of [Kill the Villainess](https://anilist.co/manga/132165) (13:33 29 July 2025)
 -   📖 Read chapter 1 - 22 of [Kill the Villainess](https://anilist.co/manga/132165) (09:04 28 July 2025)
 -   📖 Plans to read [Kill the Villainess](https://anilist.co/manga/132165) (16:08 27 July 2025)
--   📖 Completed [Kaiju No.8](https://anilist.co/manga/120760) (16:01 27 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
