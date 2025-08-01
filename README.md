@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Ending Maker](https://anilist.co/manga/150170) (13:02 01 August 2025)
 -   📖 Read chapter 1 of [I Get the Feeling That Nobukuni-san Likes Me](https://anilist.co/manga/123920) (02:43 01 August 2025)
 -   📖 Completed [Kill the Villainess](https://anilist.co/manga/132165) (21:33 31 July 2025)
 -   📖 Read chapter 27 - 101 of [Kill the Villainess](https://anilist.co/manga/132165) (21:32 31 July 2025)
 -   📖 Read chapter 128 of [Beware the Villainess!](https://anilist.co/manga/117540) (12:07 31 July 2025)
--   📺 Watched episode 4 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (09:21 30 July 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
