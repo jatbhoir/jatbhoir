@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 of [Ending Maker](https://anilist.co/manga/150170) (06:16 02 August 2025)
+-   📖 Read chapter 4 - 5 of [Ending Maker](https://anilist.co/manga/150170) (13:19 02 August 2025)
 -   📖 Read chapter 1 - 3 of [Ending Maker](https://anilist.co/manga/150170) (13:02 01 August 2025)
 -   📖 Read chapter 1 of [I Get the Feeling That Nobukuni-san Likes Me](https://anilist.co/manga/123920) (02:43 01 August 2025)
 -   📖 Completed [Kill the Villainess](https://anilist.co/manga/132165) (21:33 31 July 2025)
