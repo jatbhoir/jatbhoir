@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (15:00 03 August 2025)
 -   📺 Watched episode 2 - 3 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (13:36 03 August 2025)
 -   📖 Paused reading [Oroji Neoreul Igigo Sipeo](https://anilist.co/manga/135561) (09:56 03 August 2025)
 -   📖 Paused reading [Hajimete no Gal](https://anilist.co/manga/87315) (09:56 03 August 2025)
 -   📖 Paused reading [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (09:55 03 August 2025)
--   📖 Paused reading [Lord Baby Runs a Romance Fantasy With Cash](https://anilist.co/manga/170541) (09:54 03 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
