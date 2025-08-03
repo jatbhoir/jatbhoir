@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (09:03 03 August 2025)
 -   📖 Read chapter 87 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (02:35 03 August 2025)
 -   📺 Watched episode 5 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (16:03 02 August 2025)
 -   📖 Read chapter 4 - 5 of [Ending Maker](https://anilist.co/manga/150170) (13:19 02 August 2025)
 -   📖 Read chapter 1 - 3 of [Ending Maker](https://anilist.co/manga/150170) (13:02 01 August 2025)
--   📖 Read chapter 1 of [I Get the Feeling That Nobukuni-san Likes Me](https://anilist.co/manga/123920) (02:43 01 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
