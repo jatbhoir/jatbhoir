@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (13:16 03 August 2025)
+-   📺 Watched episode 2 - 3 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (13:36 03 August 2025)
 -   📖 Paused reading [Oroji Neoreul Igigo Sipeo](https://anilist.co/manga/135561) (09:56 03 August 2025)
 -   📖 Paused reading [Hajimete no Gal](https://anilist.co/manga/87315) (09:56 03 August 2025)
 -   📖 Paused reading [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (09:55 03 August 2025)
