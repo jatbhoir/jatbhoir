@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 of [Ending Maker](https://anilist.co/manga/150170) (02:42 04 August 2025)
+-   📖 Read chapter 6 - 7 of [Ending Maker](https://anilist.co/manga/150170) (12:15 04 August 2025)
 -   📖 Read chapter 129 of [The Infinite Mage](https://anilist.co/manga/159930) (17:50 03 August 2025)
 -   📖 Paused reading [Ichizu Bitch-chan](https://anilist.co/manga/119121) (17:44 03 August 2025)
 -   📖 Plans to read [Ichizu Bitch-chan](https://anilist.co/manga/119121) (17:44 03 August 2025)
