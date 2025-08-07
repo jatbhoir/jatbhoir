@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 17 of [We're New at This](https://anilist.co/manga/104864) (09:23 07 August 2025)
 -   📖 Read chapter 16 - 30 of [Ending Maker](https://anilist.co/manga/150170) (03:17 07 August 2025)
 -   📺 Watched episode 1 - 3 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (03:52 06 August 2025)
 -   📖 Read chapter 6 - 15 of [Ending Maker](https://anilist.co/manga/150170) (13:19 05 August 2025)
 -   📖 Read chapter 129 of [The Infinite Mage](https://anilist.co/manga/159930) (17:50 03 August 2025)
--   📖 Paused reading [Ichizu Bitch-chan](https://anilist.co/manga/119121) (17:44 03 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
