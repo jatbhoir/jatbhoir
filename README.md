@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (03:42 09 August 2025)
 -   📖 Read chapter 31 - 34 of [Ending Maker](https://anilist.co/manga/150170) (13:14 08 August 2025)
 -   📖 Read chapter 34 - 36 of [We're New at This](https://anilist.co/manga/104864) (10:57 08 August 2025)
 -   📺 Watched episode 4 - 5 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (03:31 08 August 2025)
 -   📖 Read chapter 17 - 33 of [We're New at This](https://anilist.co/manga/104864) (13:32 07 August 2025)
--   📖 Read chapter 130 of [The Infinite Mage](https://anilist.co/manga/159930) (12:05 07 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
