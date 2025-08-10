@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (09:58 10 August 2025)
+-   📺 Watched episode 6 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (09:50 10 August 2025)
 -   📖 Read chapter 37 of [We're New at This](https://anilist.co/manga/104864) (17:38 09 August 2025)
 -   📺 Watched episode 1 - 2 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (17:24 09 August 2025)
 -   📺 Watched episode 6 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (17:18 09 August 2025)
--   📺 Watched episode 2 of [Watari-kun's ****** Is about to Collapse](https://anilist.co/anime/169420) (03:42 09 August 2025)
--   📖 Read chapter 31 - 34 of [Ending Maker](https://anilist.co/manga/150170) (13:14 08 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
