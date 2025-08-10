@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (09:58 10 August 2025)
+-   📺 Watched episode 3 - 5 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:03 10 August 2025)
 -   📺 Watched episode 6 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (09:50 10 August 2025)
 -   📖 Read chapter 37 of [We're New at This](https://anilist.co/manga/104864) (17:38 09 August 2025)
 -   📺 Watched episode 1 - 2 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (17:24 09 August 2025)
