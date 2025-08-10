@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (11:48 10 August 2025)
+-   📺 Watched episode 6 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (11:27 10 August 2025)
 -   📺 Watched episode 3 - 5 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:03 10 August 2025)
 -   📺 Watched episode 6 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (09:50 10 August 2025)
 -   📖 Read chapter 37 of [We're New at This](https://anilist.co/manga/104864) (17:38 09 August 2025)
--   📺 Watched episode 1 - 2 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (17:24 09 August 2025)
--   📺 Watched episode 6 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (17:18 09 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
