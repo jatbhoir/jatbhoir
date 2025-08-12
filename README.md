@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 - 44 of [Ending Maker](https://anilist.co/manga/150170) (03:07 12 August 2025)
 -   📺 Watched episode 6 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (15:52 11 August 2025)
 -   📖 Read chapter 35 - 39 of [Ending Maker](https://anilist.co/manga/150170) (13:19 11 August 2025)
 -   📺 Watched episode 6 of [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (11:48 10 August 2025)
 -   📺 Watched episode 6 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (11:27 10 August 2025)
--   📺 Watched episode 3 - 5 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (11:03 10 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
