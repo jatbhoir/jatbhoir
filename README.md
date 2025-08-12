@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (10:57 12 August 2025)
 -   📺 Watched episode 4 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (08:34 12 August 2025)
 -   📖 Read chapter 40 - 44 of [Ending Maker](https://anilist.co/manga/150170) (03:07 12 August 2025)
 -   📺 Watched episode 6 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (15:52 11 August 2025)
 -   📖 Read chapter 35 - 39 of [Ending Maker](https://anilist.co/manga/150170) (13:19 11 August 2025)
--   📺 Watched episode 6 of [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (11:48 10 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
