@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (15:18 14 August 2025)
 -   📖 Read chapter 58 - 63 of [Ending Maker](https://anilist.co/manga/150170) (02:52 14 August 2025)
 -   📖 Read chapter 49 - 57 of [Ending Maker](https://anilist.co/manga/150170) (13:09 13 August 2025)
 -   📖 Read chapter 40 - 48 of [Ending Maker](https://anilist.co/manga/150170) (13:24 12 August 2025)
 -   📺 Watched episode 6 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (10:57 12 August 2025)
--   📺 Watched episode 4 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (08:34 12 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
