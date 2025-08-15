@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Overgeared](https://anilist.co/manga/117460) (18:07 15 August 2025)
+-   📖 Paused reading [March Comes in Like a Lion](https://anilist.co/manga/31224) (18:05 15 August 2025)
+-   📖 Paused reading [Ending Maker](https://anilist.co/manga/150170) (18:01 15 August 2025)
+-   📖 Read chapter 64 - 67 of [Ending Maker](https://anilist.co/manga/150170) (17:51 15 August 2025)
 -   📺 Watched episode 6 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (15:18 14 August 2025)
--   📖 Read chapter 58 - 63 of [Ending Maker](https://anilist.co/manga/150170) (02:52 14 August 2025)
--   📖 Read chapter 49 - 57 of [Ending Maker](https://anilist.co/manga/150170) (13:09 13 August 2025)
--   📖 Read chapter 40 - 48 of [Ending Maker](https://anilist.co/manga/150170) (13:24 12 August 2025)
--   📺 Watched episode 6 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (10:57 12 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
