@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Overgeared](https://anilist.co/manga/117460) (14:37 16 August 2025)
 -   📖 Plans to read [Overgeared](https://anilist.co/manga/117460) (18:07 15 August 2025)
 -   📖 Paused reading [March Comes in Like a Lion](https://anilist.co/manga/31224) (18:05 15 August 2025)
 -   📖 Paused reading [Ending Maker](https://anilist.co/manga/150170) (18:01 15 August 2025)
 -   📖 Read chapter 64 - 67 of [Ending Maker](https://anilist.co/manga/150170) (17:51 15 August 2025)
--   📺 Watched episode 6 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (15:18 14 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
