@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 93 of [Revenge on the Real One](https://anilist.co/manga/153848) (19:09 17 August 2025)
+-   📖 Read chapter 2 - 95 of [Revenge on the Real One](https://anilist.co/manga/153848) (19:19 17 August 2025)
 -   📺 Watched episode 7 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (09:17 17 August 2025)
 -   📺 Watched episode 7 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (08:53 17 August 2025)
 -   📖 Read chapter 1 of [Overgeared](https://anilist.co/manga/117460) (14:37 16 August 2025)
