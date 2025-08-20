@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (07:21 20 August 2025)
 -   📺 Watched episode 5 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (08:20 19 August 2025)
 -   📖 Read chapter 38 - 40 of [We're New at This](https://anilist.co/manga/104864) (17:16 18 August 2025)
 -   📖 Read chapter 2 - 95 of [Revenge on the Real One](https://anilist.co/manga/153848) (19:19 17 August 2025)
 -   📺 Watched episode 7 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (09:17 17 August 2025)
--   📺 Watched episode 7 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (08:53 17 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
