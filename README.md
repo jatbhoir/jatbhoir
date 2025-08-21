@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 62 of [We're New at This](https://anilist.co/manga/104864) (13:22 21 August 2025)
+-   📖 Read chapter 41 - 64 of [We're New at This](https://anilist.co/manga/104864) (13:29 21 August 2025)
 -   📺 Watched episode 7 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (09:38 20 August 2025)
 -   📺 Watched episode 7 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (07:21 20 August 2025)
 -   📺 Watched episode 5 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (08:20 19 August 2025)
