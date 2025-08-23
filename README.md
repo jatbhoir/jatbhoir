@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 69 - 73 of [We're New at This](https://anilist.co/manga/104864) (22:09 23 August 2025)
+-   📖 Read chapter 69 - 76 of [We're New at This](https://anilist.co/manga/104864) (22:19 23 August 2025)
 -   📺 Completed [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (20:25 23 August 2025)
 -   📺 Watched episode 2 - 12 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (20:02 23 August 2025)
 -   📺 Plans to watch [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (15:43 23 August 2025)
