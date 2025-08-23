@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (20:25 23 August 2025)
 -   📺 Watched episode 2 - 12 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (20:02 23 August 2025)
 -   📺 Plans to watch [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (15:43 23 August 2025)
 -   📖 Read chapter 41 - 68 of [We're New at This](https://anilist.co/manga/104864) (19:24 21 August 2025)
 -   📺 Watched episode 7 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (09:38 20 August 2025)
--   📺 Watched episode 7 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (07:21 20 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
