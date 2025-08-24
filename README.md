@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 77 - 81 of [We're New at This](https://anilist.co/manga/104864) (17:07 24 August 2025)
+-   📖 Read chapter 77 - 84 of [We're New at This](https://anilist.co/manga/104864) (18:12 24 August 2025)
 -   📺 Watched episode 7 - 8 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (16:27 24 August 2025)
 -   📺 Watched episode 4 - 8 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (15:44 24 August 2025)
 -   📺 Watched episode 5 - 8 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (08:54 24 August 2025)
