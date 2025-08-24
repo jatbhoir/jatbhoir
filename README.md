@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 7 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (14:48 24 August 2025)
+-   📺 Watched episode 7 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (16:06 24 August 2025)
+-   📺 Watched episode 4 - 8 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (15:44 24 August 2025)
 -   📺 Watched episode 5 - 8 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (08:54 24 August 2025)
 -   📖 Read chapter 69 - 76 of [We're New at This](https://anilist.co/manga/104864) (22:19 23 August 2025)
 -   📺 Completed [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (20:25 23 August 2025)
--   📺 Watched episode 2 - 12 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (20:02 23 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
