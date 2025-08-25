@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 85 - 106 of [We're New at This](https://anilist.co/manga/104864) (12:19 25 August 2025)
+-   📖 Read chapter 85 - 113 of [We're New at This](https://anilist.co/manga/104864) (18:17 25 August 2025)
 -   📺 Watched episode 7 - 8 of [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (10:04 25 August 2025)
 -   📺 Watched episode 8 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (09:17 25 August 2025)
 -   📖 Read chapter 77 - 84 of [We're New at This](https://anilist.co/manga/104864) (18:12 24 August 2025)
