@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 131 of [We're New at This](https://anilist.co/manga/104864) (09:10 27 August 2025)
 -   📖 Read chapter 85 - 130 of [We're New at This](https://anilist.co/manga/104864) (20:05 26 August 2025)
 -   📺 Watched episode 7 - 8 of [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (10:04 25 August 2025)
 -   📺 Watched episode 8 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (09:17 25 August 2025)
 -   📖 Read chapter 77 - 84 of [We're New at This](https://anilist.co/manga/104864) (18:12 24 August 2025)
--   📺 Watched episode 7 - 8 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (16:27 24 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
