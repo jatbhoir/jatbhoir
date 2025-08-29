@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 99 - 108 of [Revenge on the Real One](https://anilist.co/manga/153848) (07:21 29 August 2025)
+-   📖 Read chapter 99 - 109 of [Revenge on the Real One](https://anilist.co/manga/153848) (09:00 29 August 2025)
 -   📖 Read chapter 96 - 98 of [Revenge on the Real One](https://anilist.co/manga/153848) (03:16 28 August 2025)
 -   📖 Completed [We're New at This](https://anilist.co/manga/104864) (02:25 28 August 2025)
 -   📖 Read chapter 131 - 146 of [We're New at This](https://anilist.co/manga/104864) (02:19 28 August 2025)
