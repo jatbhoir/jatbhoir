@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 99 of [Revenge on the Real One](https://anilist.co/manga/153848) (02:20 29 August 2025)
 -   📖 Read chapter 96 - 98 of [Revenge on the Real One](https://anilist.co/manga/153848) (03:16 28 August 2025)
 -   📖 Completed [We're New at This](https://anilist.co/manga/104864) (02:25 28 August 2025)
 -   📖 Read chapter 131 - 146 of [We're New at This](https://anilist.co/manga/104864) (02:19 28 August 2025)
 -   📖 Read chapter 85 - 130 of [We're New at This](https://anilist.co/manga/104864) (20:05 26 August 2025)
--   📺 Watched episode 7 - 8 of [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (10:04 25 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
