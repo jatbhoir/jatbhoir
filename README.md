@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 99 - 117 of [Revenge on the Real One](https://anilist.co/manga/153848) (16:12 29 August 2025)
+-   📖 Read chapter 99 - 126 of [Revenge on the Real One](https://anilist.co/manga/153848) (17:07 29 August 2025)
 -   📖 Completed [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (12:43 29 August 2025)
 -   📖 Read chapter 88 - 89 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (12:29 29 August 2025)
 -   📖 Read chapter 96 - 98 of [Revenge on the Real One](https://anilist.co/manga/153848) (03:16 28 August 2025)
