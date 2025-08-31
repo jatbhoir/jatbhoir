@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (11:26 31 August 2025)
 -   📺 Watched episode 9 of [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (11:00 31 August 2025)
 -   📺 Watched episode 8 - 9 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (10:32 31 August 2025)
 -   📺 Watched episode 8 - 9 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (09:45 31 August 2025)
 -   📖 Read chapter 99 - 131 of [Revenge on the Real One](https://anilist.co/manga/153848) (17:33 29 August 2025)
--   📖 Completed [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (12:43 29 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
