@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (10:11 31 August 2025)
+-   📺 Watched episode 8 - 9 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (09:45 31 August 2025)
 -   📖 Read chapter 99 - 131 of [Revenge on the Real One](https://anilist.co/manga/153848) (17:33 29 August 2025)
 -   📖 Completed [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (12:43 29 August 2025)
 -   📖 Read chapter 88 - 89 of [I Will Live the Life of a Villainess](https://anilist.co/manga/173485) (12:29 29 August 2025)
--   📖 Read chapter 96 - 98 of [Revenge on the Real One](https://anilist.co/manga/153848) (03:16 28 August 2025)
--   📖 Completed [We're New at This](https://anilist.co/manga/104864) (02:25 28 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
