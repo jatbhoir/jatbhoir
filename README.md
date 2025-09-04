@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 131 - 133 of [The Infinite Mage](https://anilist.co/manga/159930) (18:15 04 September 2025)
 -   📖 Read chapter 150 - 157 of [Revenge on the Real One](https://anilist.co/manga/153848) (13:17 04 September 2025)
 -   📖 Read chapter 2 of [I Get the Feeling That Nobukuni-san Likes Me](https://anilist.co/manga/123920) (13:03 04 September 2025)
 -   📖 Read chapter 133 - 149 of [Revenge on the Real One](https://anilist.co/manga/153848) (12:03 03 September 2025)
 -   📖 Read chapter 132 of [Revenge on the Real One](https://anilist.co/manga/153848) (10:09 02 September 2025)
--   📺 Watched episode 9 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (18:13 31 August 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
