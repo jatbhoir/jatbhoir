@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 158 of [Revenge on the Real One](https://anilist.co/manga/153848) (18:02 06 September 2025)
+-   📺 Watched episode 7 - 9 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (17:52 06 September 2025)
 -   📺 Watched episode 9 - 10 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (16:46 06 September 2025)
 -   📺 Watched episode 9 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (16:46 06 September 2025)
 -   📺 Completed [Arknights: RISE FROM EMBER](https://anilist.co/anime/177175) (16:45 06 September 2025)
--   📖 Paused reading [Welcome to the Ballroom](https://anilist.co/manga/78347) (18:23 04 September 2025)
--   📖 Read chapter 131 - 134 of [The Infinite Mage](https://anilist.co/manga/159930) (18:20 04 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
