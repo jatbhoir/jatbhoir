@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 59 - 95 of [My Boss's Special Request](https://anilist.co/manga/142353) (03:15 10 September 2025)
+-   📖 Read chapter 59 - 96 of [My Boss's Special Request](https://anilist.co/manga/142353) (03:23 10 September 2025)
 -   📖 Read chapter 4 - 58 of [My Boss's Special Request](https://anilist.co/manga/142353) (17:36 08 September 2025)
 -   📖 Read chapter 158 of [Revenge on the Real One](https://anilist.co/manga/153848) (18:02 06 September 2025)
 -   📺 Watched episode 7 - 9 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (17:52 06 September 2025)
