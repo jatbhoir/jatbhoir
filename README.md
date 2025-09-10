@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 59 - 109 of [My Boss's Special Request](https://anilist.co/manga/142353) (16:09 10 September 2025)
+-   📖 Read chapter 1 - 12 of [The Mortifying Ordeal of Being Seen](https://anilist.co/manga/177096) (17:09 10 September 2025)
+-   📖 Plans to read [The Mortifying Ordeal of Being Seen](https://anilist.co/manga/177096) (16:41 10 September 2025)
+-   📖 Completed [My Boss's Special Request](https://anilist.co/manga/142353) (16:30 10 September 2025)
+-   📖 Read chapter 59 - 110 of [My Boss's Special Request](https://anilist.co/manga/142353) (16:30 10 September 2025)
 -   📖 Read chapter 4 - 58 of [My Boss's Special Request](https://anilist.co/manga/142353) (17:36 08 September 2025)
--   📖 Read chapter 158 of [Revenge on the Real One](https://anilist.co/manga/153848) (18:02 06 September 2025)
--   📺 Watched episode 7 - 9 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (17:52 06 September 2025)
--   📺 Watched episode 9 - 10 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (16:46 06 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
