@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 39 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:18 11 September 2025)
+-   📖 Read chapter 39 - 43 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (03:16 11 September 2025)
 -   📖 Read chapter 1 - 34 of [The Mortifying Ordeal of Being Seen](https://anilist.co/manga/177096) (17:52 10 September 2025)
 -   📖 Plans to read [The Mortifying Ordeal of Being Seen](https://anilist.co/manga/177096) (16:41 10 September 2025)
 -   📖 Completed [My Boss's Special Request](https://anilist.co/manga/142353) (16:30 10 September 2025)
