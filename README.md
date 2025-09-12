@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (03:26 12 September 2025)
 -   📺 Watched episode 10 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (02:39 12 September 2025)
 -   📺 Watched episode 10 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (02:17 12 September 2025)
 -   📖 Read chapter 39 - 44 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (12:24 11 September 2025)
 -   📖 Read chapter 1 - 34 of [The Mortifying Ordeal of Being Seen](https://anilist.co/manga/177096) (17:52 10 September 2025)
--   📖 Plans to read [The Mortifying Ordeal of Being Seen](https://anilist.co/manga/177096) (16:41 10 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
