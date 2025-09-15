@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 69 - 72 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:12 15 September 2025)
+-   📖 Read chapter 69 - 79 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (17:00 15 September 2025)
 -   📺 Watched episode 11 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:12 15 September 2025)
 -   📺 Watched episode 11 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (12:49 15 September 2025)
 -   📖 Read chapter 68 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:39 13 September 2025)
