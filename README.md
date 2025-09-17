@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 40 of [The Unstoppable](https://anilist.co/manga/142773) (13:09 17 September 2025)
+-   📖 Read chapter 26 - 41 of [The Unstoppable](https://anilist.co/manga/142773) (13:21 17 September 2025)
 -   📖 Read chapter 9 - 25 of [The Unstoppable](https://anilist.co/manga/142773) (13:19 16 September 2025)
 -   📖 Read chapter 69 - 80 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (04:56 16 September 2025)
 -   📺 Watched episode 11 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:12 15 September 2025)
