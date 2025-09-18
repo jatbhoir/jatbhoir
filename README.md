@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 of [The Unstoppable](https://anilist.co/manga/142773) (02:33 18 September 2025)
+-   📖 Read chapter 42 - 43 of [The Unstoppable](https://anilist.co/manga/142773) (13:13 18 September 2025)
+-   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (13:09 18 September 2025)
+-   📺 Watched episode 10 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (12:33 18 September 2025)
 -   📖 Read chapter 26 - 41 of [The Unstoppable](https://anilist.co/manga/142773) (13:21 17 September 2025)
 -   📖 Read chapter 9 - 25 of [The Unstoppable](https://anilist.co/manga/142773) (13:19 16 September 2025)
--   📖 Read chapter 69 - 80 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (04:56 16 September 2025)
--   📺 Watched episode 11 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:12 15 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
