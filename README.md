@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 - 43 of [The Unstoppable](https://anilist.co/manga/142773) (13:13 18 September 2025)
+-   📖 Read chapter 42 - 45 of [The Unstoppable](https://anilist.co/manga/142773) (13:26 18 September 2025)
 -   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (13:09 18 September 2025)
 -   📺 Watched episode 10 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (12:33 18 September 2025)
 -   📖 Read chapter 26 - 41 of [The Unstoppable](https://anilist.co/manga/142773) (13:21 17 September 2025)
