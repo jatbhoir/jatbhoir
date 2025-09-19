@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (12:17 19 September 2025)
 -   📺 Watched episode 11 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (02:35 19 September 2025)
 -   📖 Read chapter 42 - 48 of [The Unstoppable](https://anilist.co/manga/142773) (16:04 18 September 2025)
 -   📺 Completed [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (13:09 18 September 2025)
 -   📺 Watched episode 10 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (12:33 18 September 2025)
--   📖 Read chapter 26 - 41 of [The Unstoppable](https://anilist.co/manga/142773) (13:21 17 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
