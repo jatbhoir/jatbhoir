@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 - 11 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (17:57 21 September 2025)
+-   📺 Watched episode 9 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (17:40 21 September 2025)
 -   📖 Read chapter 49 - 54 of [The Unstoppable](https://anilist.co/manga/142773) (16:04 19 September 2025)
 -   📺 Completed [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (15:34 19 September 2025)
 -   📺 Watched episode 10 - 11 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (15:14 19 September 2025)
--   📺 Completed [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (12:38 19 September 2025)
--   📺 Watched episode 11 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (12:17 19 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
