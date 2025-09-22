@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 55 - 64 of [The Unstoppable](https://anilist.co/manga/142773) (03:13 22 September 2025)
+-   📖 Read chapter 55 - 69 of [The Unstoppable](https://anilist.co/manga/142773) (13:19 22 September 2025)
+-   📺 Completed [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (12:36 22 September 2025)
 -   📺 Watched episode 9 - 11 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (17:57 21 September 2025)
 -   📺 Watched episode 9 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (17:40 21 September 2025)
 -   📖 Read chapter 49 - 54 of [The Unstoppable](https://anilist.co/manga/142773) (16:04 19 September 2025)
--   📺 Completed [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (15:34 19 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
