@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 of [The Unstoppable](https://anilist.co/manga/142773) (13:21 23 September 2025)
+-   📖 Read chapter 74 - 78 of [The Unstoppable](https://anilist.co/manga/142773) (13:37 23 September 2025)
 -   📖 Read chapter 55 - 73 of [The Unstoppable](https://anilist.co/manga/142773) (13:37 22 September 2025)
 -   📺 Completed [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (12:36 22 September 2025)
 -   📺 Watched episode 9 - 11 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (17:57 21 September 2025)
