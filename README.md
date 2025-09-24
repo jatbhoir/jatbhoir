@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (03:04 24 September 2025)
+-   📺 Completed [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (02:23 24 September 2025)
 -   📖 Read chapter 74 - 78 of [The Unstoppable](https://anilist.co/manga/142773) (13:37 23 September 2025)
 -   📖 Read chapter 55 - 73 of [The Unstoppable](https://anilist.co/manga/142773) (13:37 22 September 2025)
 -   📺 Completed [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (12:36 22 September 2025)
--   📺 Watched episode 9 - 11 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (17:57 21 September 2025)
--   📺 Watched episode 9 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (17:40 21 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
