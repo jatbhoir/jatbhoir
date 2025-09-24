@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 - 85 of [The Unstoppable](https://anilist.co/manga/142773) (16:44 24 September 2025)
 -   📺 Watched episode 11 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (03:04 24 September 2025)
 -   📺 Completed [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (02:23 24 September 2025)
 -   📖 Read chapter 74 - 78 of [The Unstoppable](https://anilist.co/manga/142773) (13:37 23 September 2025)
 -   📖 Read chapter 55 - 73 of [The Unstoppable](https://anilist.co/manga/142773) (13:37 22 September 2025)
--   📺 Completed [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (12:36 22 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
