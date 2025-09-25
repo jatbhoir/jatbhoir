@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 135 - 137 of [The Infinite Mage](https://anilist.co/manga/159930) (13:21 25 September 2025)
 -   📺 Watched episode 12 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (12:20 25 September 2025)
 -   📖 Dropped [The Unstoppable](https://anilist.co/manga/142773) (09:30 25 September 2025)
 -   📖 Read chapter 86 of [The Unstoppable](https://anilist.co/manga/142773) (09:25 25 September 2025)
 -   📖 Read chapter 79 - 85 of [The Unstoppable](https://anilist.co/manga/142773) (16:44 24 September 2025)
--   📺 Watched episode 11 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (03:04 24 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
