@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [To Be Hero X](https://anilist.co/anime/156092) (03:21 26 September 2025)
+-   📺 Plans to watch [To Be Hero X](https://anilist.co/anime/156092) (02:26 26 September 2025)
 -   📺 Completed [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (19:38 25 September 2025)
 -   📖 Read chapter 135 - 137 of [The Infinite Mage](https://anilist.co/manga/159930) (13:21 25 September 2025)
 -   📺 Watched episode 12 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (12:20 25 September 2025)
--   📖 Dropped [The Unstoppable](https://anilist.co/manga/142773) (09:30 25 September 2025)
--   📖 Read chapter 86 of [The Unstoppable](https://anilist.co/manga/142773) (09:25 25 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
