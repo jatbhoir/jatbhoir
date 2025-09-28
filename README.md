@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [To Be Hero X](https://anilist.co/anime/156092) (12:55 28 September 2025)
 -   📺 Watched episode 6 - 11 of [To Be Hero X](https://anilist.co/anime/156092) (22:14 27 September 2025)
 -   📺 Watched episode 2 - 4 of [To Be Hero X](https://anilist.co/anime/156092) (13:59 26 September 2025)
 -   📺 Plans to watch [To Be Hero X](https://anilist.co/anime/156092) (02:26 26 September 2025)
 -   📺 Completed [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (19:38 25 September 2025)
--   📖 Read chapter 135 - 137 of [The Infinite Mage](https://anilist.co/manga/159930) (13:21 25 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
