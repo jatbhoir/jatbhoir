@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 - 16 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (15:06 29 September 2025)
 -   📺 Completed [DAN DA DAN Season 2](https://anilist.co/anime/185660) (14:02 29 September 2025)
 -   📺 Watched episode 9 - 11 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (13:43 29 September 2025)
 -   📺 Completed [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (12:39 29 September 2025)
 -   📺 Completed [To Be Hero X](https://anilist.co/anime/156092) (11:48 29 September 2025)
--   📺 Watched episode 22 - 23 of [To Be Hero X](https://anilist.co/anime/156092) (11:17 29 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
