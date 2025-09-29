@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 - 10 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (13:22 29 September 2025)
+-   📺 Completed [DAN DA DAN Season 2](https://anilist.co/anime/185660) (14:02 29 September 2025)
+-   📺 Watched episode 9 - 11 of [DAN DA DAN Season 2](https://anilist.co/anime/185660) (13:43 29 September 2025)
 -   📺 Completed [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (12:39 29 September 2025)
 -   📺 Completed [To Be Hero X](https://anilist.co/anime/156092) (11:48 29 September 2025)
 -   📺 Watched episode 22 - 23 of [To Be Hero X](https://anilist.co/anime/156092) (11:17 29 September 2025)
--   📺 Watched episode 12 - 21 of [To Be Hero X](https://anilist.co/anime/156092) (17:17 28 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
