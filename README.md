@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 22 of [To Be Hero X](https://anilist.co/anime/156092) (10:55 29 September 2025)
 -   📺 Watched episode 12 - 21 of [To Be Hero X](https://anilist.co/anime/156092) (17:17 28 September 2025)
 -   📺 Watched episode 12 - 19 of [To Be Hero X](https://anilist.co/anime/156092) (16:33 28 September 2025)
 -   📺 Watched episode 6 - 11 of [To Be Hero X](https://anilist.co/anime/156092) (22:14 27 September 2025)
 -   📺 Watched episode 2 - 4 of [To Be Hero X](https://anilist.co/anime/156092) (13:59 26 September 2025)
--   📺 Plans to watch [To Be Hero X](https://anilist.co/anime/156092) (02:26 26 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
