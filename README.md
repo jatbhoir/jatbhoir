@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 192 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (02:47 01 October 2025)
+-   📖 Read chapter 192 - 199 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (13:19 01 October 2025)
 -   📺 Completed [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:19 30 September 2025)
 -   📺 Watched episode 12 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (12:37 30 September 2025)
 -   📖 Read chapter 183 - 191 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (08:08 30 September 2025)
