@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://anilist.co/manga/104503) (18:56 02 October 2025)
+-   📖 Read chapter 159 of [Revenge on the Real One](https://anilist.co/manga/153848) (18:49 02 October 2025)
 -   📖 Read chapter 138 of [The Infinite Mage](https://anilist.co/manga/159930) (17:25 02 October 2025)
 -   📺 Watched episode 1 of [Call of the Night Season 2](https://anilist.co/anime/175914) (10:54 02 October 2025)
 -   📖 Completed [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:43 01 October 2025)
--   📖 Read chapter 192 - 210 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:42 01 October 2025)
--   📺 Completed [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:19 30 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
