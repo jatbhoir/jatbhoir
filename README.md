@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Call of the Night Season 2](https://anilist.co/anime/175914) (10:54 02 October 2025)
 -   📖 Completed [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:43 01 October 2025)
 -   📖 Read chapter 192 - 210 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:42 01 October 2025)
 -   📺 Completed [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:19 30 September 2025)
 -   📺 Watched episode 12 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (12:37 30 September 2025)
--   📖 Read chapter 183 - 191 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (08:08 30 September 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
