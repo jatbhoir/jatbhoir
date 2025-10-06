@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 270 of [Omniscient Reader](https://anilist.co/manga/119257) (03:06 06 October 2025)
+-   📖 Read chapter 270 - 281 of [Omniscient Reader](https://anilist.co/manga/119257) (03:45 06 October 2025)
 -   📖 Completed [Revenge on the Real One](https://anilist.co/manga/153848) (02:39 06 October 2025)
 -   📖 Read chapter 160 - 161 of [Revenge on the Real One](https://anilist.co/manga/153848) (02:33 06 October 2025)
 -   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (19:10 05 October 2025)
