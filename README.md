@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 139 - 141 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (03:12 07 October 2025)
+-   📖 Read chapter 282 of [Omniscient Reader](https://anilist.co/manga/119257) (02:25 07 October 2025)
 -   📖 Read chapter 270 - 281 of [Omniscient Reader](https://anilist.co/manga/119257) (03:45 06 October 2025)
 -   📖 Completed [Revenge on the Real One](https://anilist.co/manga/153848) (02:39 06 October 2025)
 -   📖 Read chapter 160 - 161 of [Revenge on the Real One](https://anilist.co/manga/153848) (02:33 06 October 2025)
--   📺 Completed [Secrets of the Silent Witch](https://anilist.co/anime/179966) (19:10 05 October 2025)
--   📖 Completed [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs](https://anilist.co/manga/104503) (18:56 02 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
