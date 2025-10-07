@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Mechanical Marie](https://anilist.co/anime/179992) (11:04 07 October 2025)
 -   📖 Read chapter 139 - 143 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (03:42 07 October 2025)
 -   📖 Read chapter 282 of [Omniscient Reader](https://anilist.co/manga/119257) (02:25 07 October 2025)
 -   📖 Read chapter 270 - 281 of [Omniscient Reader](https://anilist.co/manga/119257) (03:45 06 October 2025)
 -   📖 Completed [Revenge on the Real One](https://anilist.co/manga/153848) (02:39 06 October 2025)
--   📖 Read chapter 160 - 161 of [Revenge on the Real One](https://anilist.co/manga/153848) (02:33 06 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
