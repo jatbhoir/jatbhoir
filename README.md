@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 139 - 147 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (13:30 07 October 2025)
+-   📖 Read chapter 139 - 150 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (16:10 07 October 2025)
+-   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (15:43 07 October 2025)
 -   📺 Plans to watch [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (12:03 07 October 2025)
 -   📺 Plans to watch [Mechanical Marie](https://anilist.co/anime/179992) (11:04 07 October 2025)
 -   📖 Read chapter 282 of [Omniscient Reader](https://anilist.co/manga/119257) (02:25 07 October 2025)
--   📖 Read chapter 270 - 281 of [Omniscient Reader](https://anilist.co/manga/119257) (03:45 06 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
