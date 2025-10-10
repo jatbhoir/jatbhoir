@@ -39,8 +39,8 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 12 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (18:09 10 October 2025)
 -   📖 Read chapter 186 - 187 of [I Shall Master this Family!](https://anilist.co/manga/130429) (12:57 10 October 2025)
--   📖 Read chapter 2 - 10 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (12:31 10 October 2025)
 -   📺 Watched episode 6 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:31 09 October 2025)
 -   📖 Read chapter 139 - 151 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (16:18 07 October 2025)
 -   📺 Watched episode 1 - 2 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (15:43 07 October 2025)
