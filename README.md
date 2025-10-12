@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:01 12 October 2025)
+-   📺 Watched episode 2 - 3 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:24 12 October 2025)
 -   📺 Watched episode 1 - 3 of [A Wild Last Boss Appeared!](https://anilist.co/anime/180523) (06:11 12 October 2025)
 -   📺 Completed [Orange: Future](https://anilist.co/anime/97669) (06:09 12 October 2025)
 -   📺 Watched episode 1 of [Mechanical Marie](https://anilist.co/anime/179992) (03:07 12 October 2025)
