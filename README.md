@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 195 - 196 of [I Shall Master this Family!](https://anilist.co/manga/130429) (02:21 14 October 2025)
 -   📖 Read chapter 188 - 194 of [I Shall Master this Family!](https://anilist.co/manga/130429) (12:37 13 October 2025)
 -   📖 Read chapter 283 of [Omniscient Reader](https://anilist.co/manga/119257) (02:43 13 October 2025)
 -   📖 Read chapter 139 of [The Infinite Mage](https://anilist.co/manga/159930) (02:35 13 October 2025)
 -   📺 Watched episode 2 - 3 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:24 12 October 2025)
--   📺 Watched episode 1 - 3 of [A Wild Last Boss Appeared!](https://anilist.co/anime/180523) (06:11 12 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
