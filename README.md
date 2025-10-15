@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 81 - 85 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (12:37 15 October 2025)
+-   📖 Read chapter 81 - 86 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:37 15 October 2025)
 -   📖 Read chapter 204 of [I Shall Master this Family!](https://anilist.co/manga/130429) (02:27 15 October 2025)
 -   📺 Watched episode 2 - 5 of [The Fated Magical Princess: Who Made Me a Princess](https://anilist.co/anime/165530) (17:15 14 October 2025)
 -   📖 Read chapter 195 - 203 of [I Shall Master this Family!](https://anilist.co/manga/130429) (13:03 14 October 2025)
