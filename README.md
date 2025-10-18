@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 13 - 19 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (18:12 18 October 2025)
 -   📺 Watched episode 4 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (14:26 18 October 2025)
 -   📖 Read chapter 87 - 95 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (15:13 16 October 2025)
 -   📖 Read chapter 81 - 86 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:37 15 October 2025)
 -   📖 Read chapter 204 of [I Shall Master this Family!](https://anilist.co/manga/130429) (02:27 15 October 2025)
--   📺 Watched episode 2 - 5 of [The Fated Magical Princess: Who Made Me a Princess](https://anilist.co/anime/165530) (17:15 14 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
