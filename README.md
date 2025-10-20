@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Call of the Night Season 2](https://anilist.co/anime/175914) (07:47 20 October 2025)
 -   📖 Read chapter 284 of [Omniscient Reader](https://anilist.co/manga/119257) (21:25 19 October 2025)
 -   📖 Read chapter 140 of [The Infinite Mage](https://anilist.co/manga/159930) (21:18 19 October 2025)
 -   📖 Read chapter 13 - 87 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (21:10 19 October 2025)
 -   📺 Watched episode 4 - 5 of [Call of the Night Season 2](https://anilist.co/anime/175914) (18:11 19 October 2025)
--   📺 Watched episode 2 of [Mechanical Marie](https://anilist.co/anime/179992) (09:36 19 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
