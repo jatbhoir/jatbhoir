@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 96 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:09 21 October 2025)
+-   📖 Read chapter 96 - 97 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:17 21 October 2025)
 -   📺 Watched episode 1 - 3 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (13:55 21 October 2025)
 -   📺 Watched episode 1 - 2 of [Ao no Orchestra Season 2](https://anilist.co/anime/170018) (12:19 21 October 2025)
 -   📺 Watched episode 1 of [Inexpressive Kashiwada and Expressive Oota](https://anilist.co/anime/187940) (11:47 21 October 2025)
