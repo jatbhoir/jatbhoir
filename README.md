@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (13:17 21 October 2025)
+-   📺 Watched episode 1 - 3 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (13:55 21 October 2025)
 -   📺 Watched episode 1 - 2 of [Ao no Orchestra Season 2](https://anilist.co/anime/170018) (12:19 21 October 2025)
 -   📺 Watched episode 1 of [Inexpressive Kashiwada and Expressive Oota](https://anilist.co/anime/187940) (11:47 21 October 2025)
 -   📺 Completed [Call of the Night Season 2](https://anilist.co/anime/175914) (15:52 20 October 2025)
