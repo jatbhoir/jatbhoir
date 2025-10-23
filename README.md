@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 88 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (13:16 23 October 2025)
+-   📖 Read chapter 88 - 92 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (13:50 23 October 2025)
 -   📖 Read chapter 285 of [Omniscient Reader](https://anilist.co/manga/119257) (12:31 23 October 2025)
 -   📖 Read chapter 141 of [The Infinite Mage](https://anilist.co/manga/159930) (12:22 23 October 2025)
 -   📖 Read chapter 96 - 97 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:17 21 October 2025)
