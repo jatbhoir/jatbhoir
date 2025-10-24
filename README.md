@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (10:19 24 October 2025)
 -   📖 Read chapter 98 - 101 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:41 24 October 2025)
 -   📖 Read chapter 93 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (02:19 24 October 2025)
 -   📖 Read chapter 88 - 92 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (13:50 23 October 2025)
 -   📖 Read chapter 285 of [Omniscient Reader](https://anilist.co/manga/119257) (12:31 23 October 2025)
--   📖 Read chapter 141 of [The Infinite Mage](https://anilist.co/manga/159930) (12:22 23 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
