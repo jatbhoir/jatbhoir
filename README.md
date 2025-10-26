@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (14:26 26 October 2025)
 -   📺 Completed [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (10:01 26 October 2025)
 -   📺 Watched episode 10 - 12 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (09:37 26 October 2025)
 -   📺 Watched episode 1 - 9 of [Rascal Does Not Dream of Santa Claus](https://anilist.co/anime/171046) (16:18 24 October 2025)
 -   📖 Read chapter 98 - 101 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:41 24 October 2025)
--   📖 Read chapter 93 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (02:19 24 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
