@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 102 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (03:03 28 October 2025)
+-   📖 Read chapter 102 - 104 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:04 28 October 2025)
 -   📺 Watched episode 4 of [A Wild Last Boss Appeared!](https://anilist.co/anime/180523) (17:00 26 October 2025)
 -   📺 Watched episode 3 - 4 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (16:35 26 October 2025)
 -   📺 Watched episode 4 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (14:26 26 October 2025)
