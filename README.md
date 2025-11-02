@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Pass the Monster Meat, Milady!](https://anilist.co/anime/183291) (08:13 02 November 2025)
+-   📺 Watched episode 1 - 3 of [Pass the Monster Meat, Milady!](https://anilist.co/anime/183291) (08:56 02 November 2025)
 -   📖 Read chapter 110 - 112 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:21 30 October 2025)
 -   📖 Read chapter 105 - 109 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:47 29 October 2025)
 -   📖 Read chapter 102 - 104 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:04 28 October 2025)
