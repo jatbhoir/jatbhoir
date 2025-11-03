@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 113 - 115 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:44 03 November 2025)
 -   📺 Watched episode 1 - 5 of [Pass the Monster Meat, Milady!](https://anilist.co/anime/183291) (09:42 02 November 2025)
 -   📖 Read chapter 110 - 112 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:21 30 October 2025)
 -   📖 Read chapter 105 - 109 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:47 29 October 2025)
 -   📖 Read chapter 102 - 104 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:04 28 October 2025)
--   📺 Watched episode 4 of [A Wild Last Boss Appeared!](https://anilist.co/anime/180523) (17:00 26 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
