@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 116 - 119 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:53 03 November 2025)
 -   📺 Watched episode 3 - 4 of [Ao no Orchestra Season 2](https://anilist.co/anime/170018) (13:38 03 November 2025)
 -   📺 Watched episode 5 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (06:53 03 November 2025)
 -   📖 Read chapter 113 - 115 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:44 03 November 2025)
 -   📺 Watched episode 1 - 5 of [Pass the Monster Meat, Milady!](https://anilist.co/anime/183291) (09:42 02 November 2025)
--   📖 Read chapter 110 - 112 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:21 30 October 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
