@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 125 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:35 09 November 2025)
 -   📺 Watched episode 3 of [Mechanical Marie](https://anilist.co/anime/179992) (08:42 09 November 2025)
 -   📺 Watched episode 5 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (16:59 06 November 2025)
 -   📺 Watched episode 4 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (13:08 05 November 2025)
 -   📖 Read chapter 121 - 124 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (02:56 05 November 2025)
--   📖 Read chapter 120 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:24 04 November 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
