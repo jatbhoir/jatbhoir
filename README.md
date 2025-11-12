@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 149 - 150 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:23 12 November 2025)
+-   📖 Read chapter 149 - 162 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:44 12 November 2025)
 -   📖 Read chapter 143 - 148 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:35 11 November 2025)
 -   📺 Watched episode 5 - 6 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (01:30 11 November 2025)
 -   📺 Watched episode 4 of [Mechanical Marie](https://anilist.co/anime/179992) (16:52 10 November 2025)
