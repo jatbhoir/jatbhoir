@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (15:54 16 November 2025)
+-   📺 Watched episode 1 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (17:08 16 November 2025)
+-   📺 Plans to watch [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (16:48 16 November 2025)
+-   📺 Watched episode 6 - 8 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (16:40 16 November 2025)
 -   📺 Watched episode 7 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (15:13 16 November 2025)
 -   📺 Watched episode 7 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (15:11 16 November 2025)
--   📖 Read chapter 149 - 162 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:44 12 November 2025)
--   📖 Read chapter 143 - 148 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (13:35 11 November 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
