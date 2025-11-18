@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 163 - 165 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:13 18 November 2025)
+-   📖 Read chapter 163 - 169 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (16:30 18 November 2025)
 -   📺 Watched episode 1 - 2 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (17:29 16 November 2025)
 -   📺 Plans to watch [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (16:48 16 November 2025)
 -   📺 Watched episode 6 - 8 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (16:40 16 November 2025)
