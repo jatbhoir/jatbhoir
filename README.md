@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 51 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (00:57 26 November 2025)
 -   📖 Read chapter 170 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (05:32 23 November 2025)
 -   📖 Read chapter 188 - 189 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (04:36 23 November 2025)
 -   📖 Read chapter 144 - 145 of [The Infinite Mage](https://anilist.co/manga/159930) (04:25 23 November 2025)
 -   📺 Watched episode 6 of [Mechanical Marie](https://anilist.co/anime/179992) (11:17 22 November 2025)
--   📖 Read chapter 181 - 187 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (13:41 20 November 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
