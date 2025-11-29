@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Lord of Mysteries](https://anilist.co/anime/137667) (07:59 29 November 2025)
+-   📺 Watched episode 7 - 8 of [Mechanical Marie](https://anilist.co/anime/179992) (07:39 29 November 2025)
 -   📺 Watched episode 9 - 10 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (06:53 29 November 2025)
 -   📺 Watched episode 8 - 9 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (06:11 29 November 2025)
 -   📺 Watched episode 8 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (05:26 29 November 2025)
--   📺 Watched episode 8 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (04:58 29 November 2025)
--   📖 Read chapter 63 - 69 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (16:42 28 November 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
