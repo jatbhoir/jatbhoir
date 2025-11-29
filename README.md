@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (04:58 29 November 2025)
 -   📖 Read chapter 63 - 69 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (16:42 28 November 2025)
 -   📖 Read chapter 146 of [The Infinite Mage](https://anilist.co/manga/159930) (08:42 28 November 2025)
 -   📺 Watched episode 1 of [Lord of Mysteries](https://anilist.co/anime/137667) (03:17 28 November 2025)
 -   📖 Read chapter 54 - 62 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (12:33 27 November 2025)
--   📖 Read chapter 1 - 53 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (03:12 26 November 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
