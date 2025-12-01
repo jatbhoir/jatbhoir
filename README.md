@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 of [Lord of Mysteries](https://anilist.co/anime/137667) (02:44 01 December 2025)
+-   📺 Watched episode 5 - 6 of [Lord of Mysteries](https://anilist.co/anime/137667) (13:29 01 December 2025)
 -   📺 Watched episode 3 - 4 of [Lord of Mysteries](https://anilist.co/anime/137667) (21:06 29 November 2025)
 -   📺 Watched episode 2 of [Lord of Mysteries](https://anilist.co/anime/137667) (07:59 29 November 2025)
 -   📺 Watched episode 7 - 8 of [Mechanical Marie](https://anilist.co/anime/179992) (07:39 29 November 2025)
