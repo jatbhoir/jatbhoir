@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Lord of Mysteries](https://anilist.co/anime/137667) (02:44 01 December 2025)
 -   📺 Watched episode 3 - 4 of [Lord of Mysteries](https://anilist.co/anime/137667) (21:06 29 November 2025)
 -   📺 Watched episode 2 of [Lord of Mysteries](https://anilist.co/anime/137667) (07:59 29 November 2025)
 -   📺 Watched episode 7 - 8 of [Mechanical Marie](https://anilist.co/anime/179992) (07:39 29 November 2025)
 -   📺 Watched episode 9 - 10 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (06:53 29 November 2025)
--   📺 Watched episode 8 - 9 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (06:11 29 November 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
