@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Lord of Mysteries](https://anilist.co/anime/137667) (14:36 03 December 2025)
 -   📺 Watched episode 8 - 12 of [Lord of Mysteries](https://anilist.co/anime/137667) (13:28 03 December 2025)
 -   📺 Watched episode 7 of [Lord of Mysteries](https://anilist.co/anime/137667) (03:12 02 December 2025)
 -   📺 Watched episode 5 - 6 of [Lord of Mysteries](https://anilist.co/anime/137667) (13:29 01 December 2025)
 -   📺 Watched episode 3 - 4 of [Lord of Mysteries](https://anilist.co/anime/137667) (21:06 29 November 2025)
--   📺 Watched episode 2 of [Lord of Mysteries](https://anilist.co/anime/137667) (07:59 29 November 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
