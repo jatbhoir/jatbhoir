@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 190 - 192 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (02:56 12 December 2025)
 -   📺 Watched episode 10 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (08:55 07 December 2025)
 -   📺 Watched episode 10 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (17:07 05 December 2025)
 -   📺 Watched episode 9 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (16:44 05 December 2025)
 -   📺 Watched episode 9 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (01:15 04 December 2025)
--   📺 Completed [Lord of Mysteries](https://anilist.co/anime/137667) (14:36 03 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
