@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 286 - 287 of [Omniscient Reader](https://anilist.co/manga/119257) (13:11 12 December 2025)
+-   📖 Read chapter 147 of [The Infinite Mage](https://anilist.co/manga/159930) (14:10 12 December 2025)
+-   📖 Read chapter 286 - 292 of [Omniscient Reader](https://anilist.co/manga/119257) (14:03 12 December 2025)
 -   📖 Read chapter 190 - 192 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (02:56 12 December 2025)
 -   📺 Watched episode 10 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (08:55 07 December 2025)
 -   📺 Watched episode 10 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (17:07 05 December 2025)
--   📺 Watched episode 9 of [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (16:44 05 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
