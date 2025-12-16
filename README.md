@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 80 - 92 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (13:26 16 December 2025)
+-   📖 Read chapter 80 - 104 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (15:10 16 December 2025)
 -   📖 Read chapter 74 - 79 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (13:31 15 December 2025)
 -   📖 Read chapter 71 - 73 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (14:32 12 December 2025)
 -   📖 Read chapter 147 - 148 of [The Infinite Mage](https://anilist.co/manga/159930) (14:17 12 December 2025)
