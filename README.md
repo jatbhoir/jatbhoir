@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 84 - 89 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (17:13 16 December 2025)
 -   📖 Read chapter 80 - 109 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (15:41 16 December 2025)
 -   📖 Read chapter 74 - 79 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (13:31 15 December 2025)
 -   📖 Read chapter 71 - 73 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (14:32 12 December 2025)
 -   📖 Read chapter 147 - 148 of [The Infinite Mage](https://anilist.co/manga/159930) (14:17 12 December 2025)
--   📖 Read chapter 286 - 292 of [Omniscient Reader](https://anilist.co/manga/119257) (14:03 12 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
