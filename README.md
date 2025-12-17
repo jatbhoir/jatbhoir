@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 142 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (03:03 17 December 2025)
 -   📖 Read chapter 84 - 90 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (17:19 16 December 2025)
 -   📖 Read chapter 80 - 109 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (15:41 16 December 2025)
 -   📖 Read chapter 74 - 79 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (13:31 15 December 2025)
 -   📖 Read chapter 71 - 73 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (14:32 12 December 2025)
--   📖 Read chapter 147 - 148 of [The Infinite Mage](https://anilist.co/manga/159930) (14:17 12 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
