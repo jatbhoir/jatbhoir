@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 96 - 100 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (04:25 19 December 2025)
 -   📖 Read chapter 91 - 95 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (15:29 17 December 2025)
 -   📖 Read chapter 142 - 147 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (14:53 17 December 2025)
 -   📖 Read chapter 84 - 90 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (17:19 16 December 2025)
 -   📖 Read chapter 80 - 109 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (15:41 16 December 2025)
--   📖 Read chapter 74 - 79 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (13:31 15 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
