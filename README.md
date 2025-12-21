@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 211 - 212 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (15:29 21 December 2025)
+-   📖 Read chapter 293 of [Omniscient Reader](https://anilist.co/manga/119257) (15:16 21 December 2025)
 -   📖 Read chapter 96 - 101 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (16:00 19 December 2025)
 -   📖 Read chapter 91 - 95 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (15:29 17 December 2025)
 -   📖 Read chapter 142 - 147 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (14:53 17 December 2025)
--   📖 Read chapter 84 - 90 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (17:19 16 December 2025)
--   📖 Read chapter 80 - 109 of [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (15:41 16 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
