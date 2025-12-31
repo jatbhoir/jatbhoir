@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 149 of [The Infinite Mage](https://anilist.co/manga/159930) (08:43 31 December 2025)
+-   📖 Paused reading [I Shall Master this Family!](https://anilist.co/manga/130429) (08:35 31 December 2025)
+-   📖 Paused reading [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (08:34 31 December 2025)
+-   📺 Completed [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/anime/186794) (08:31 31 December 2025)
 -   📺 Completed [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (08:07 31 December 2025)
--   📺 Watched episode 11 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (07:46 31 December 2025)
--   📖 Read chapter 217 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (08:18 26 December 2025)
--   📖 Read chapter 216 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (12:25 24 December 2025)
--   📖 Read chapter 211 - 215 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (03:07 22 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
