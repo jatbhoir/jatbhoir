@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 102 - 106 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (17:11 31 December 2025)
+-   📖 Read chapter 102 - 110 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (18:19 31 December 2025)
 -   📖 Read chapter 193 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (15:31 31 December 2025)
 -   📖 Paused reading [The Infinite Mage](https://anilist.co/manga/159930) (15:09 31 December 2025)
 -   📖 Read chapter 149 - 150 of [The Infinite Mage](https://anilist.co/manga/159930) (15:08 31 December 2025)
