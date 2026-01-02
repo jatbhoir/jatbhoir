@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Kaguya-sama: Love Is War -Stairway to Adulthood-](https://anilist.co/anime/194884) (16:02 02 January 2026)
+-   📺 Watched episode 1 of [Kaguya-sama: Love Is War -Stairway to Adulthood-](https://anilist.co/anime/194884) (15:38 02 January 2026)
 -   📺 Plans to watch [Kaguya-sama: Love Is War -Stairway to Adulthood-](https://anilist.co/anime/194884) (01:56 02 January 2026)
 -   📖 Read chapter 102 - 110 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (18:19 31 December 2025)
 -   📖 Read chapter 193 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (15:31 31 December 2025)
--   📖 Paused reading [The Infinite Mage](https://anilist.co/manga/159930) (15:09 31 December 2025)
--   📖 Read chapter 149 - 150 of [The Infinite Mage](https://anilist.co/manga/159930) (15:08 31 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
