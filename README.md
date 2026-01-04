@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 5 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (16:03 04 January 2026)
+-   📺 Watched episode 3 - 6 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (16:26 04 January 2026)
 -   📺 Completed [Pass the Monster Meat, Milady!](https://anilist.co/anime/183291) (15:12 04 January 2026)
 -   📺 Completed [Mechanical Marie](https://anilist.co/anime/179992) (15:10 04 January 2026)
 -   📺 Completed [WITCH WATCH](https://anilist.co/anime/180367) (15:10 04 January 2026)
