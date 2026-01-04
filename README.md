@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 - 12 of [May I Ask for One Final Thing?](https://anilist.co/anime/181447) (14:07 04 January 2026)
 -   📖 Read chapter 111 - 114 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (18:31 02 January 2026)
 -   📺 Completed [Kaguya-sama: Love Is War -Stairway to Adulthood-](https://anilist.co/anime/194884) (16:02 02 January 2026)
 -   📺 Watched episode 1 of [Kaguya-sama: Love Is War -Stairway to Adulthood-](https://anilist.co/anime/194884) (15:38 02 January 2026)
 -   📺 Plans to watch [Kaguya-sama: Love Is War -Stairway to Adulthood-](https://anilist.co/anime/194884) (01:56 02 January 2026)
--   📖 Read chapter 102 - 110 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (18:19 31 December 2025)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
