@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 131 - 132 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (13:55 10 January 2026)
 -   📖 Read chapter 129 - 130 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (02:34 08 January 2026)
 -   📺 Watched episode 7 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (16:11 06 January 2026)
 -   📖 Read chapter 115 - 128 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (12:22 06 January 2026)
 -   📺 Watched episode 3 - 6 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (16:26 04 January 2026)
--   📺 Completed [Pass the Monster Meat, Milady!](https://anilist.co/anime/183291) (15:12 04 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
