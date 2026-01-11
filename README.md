@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 - 10 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (14:59 11 January 2026)
 -   📺 Watched episode 2 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (05:58 11 January 2026)
 -   📺 Plans to watch [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (05:13 11 January 2026)
 -   📖 Read chapter 155 of [Shangri-La Frontier](https://anilist.co/manga/122063) (05:07 11 January 2026)
 -   📖 Read chapter 131 - 132 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (13:55 10 January 2026)
--   📖 Read chapter 129 - 130 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (02:34 08 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
