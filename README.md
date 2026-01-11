@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (16:26 11 January 2026)
 -   📺 Completed [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (15:43 11 January 2026)
 -   📺 Watched episode 8 - 11 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (15:21 11 January 2026)
 -   📺 Watched episode 2 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (05:58 11 January 2026)
 -   📺 Plans to watch [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (05:13 11 January 2026)
--   📖 Read chapter 155 of [Shangri-La Frontier](https://anilist.co/manga/122063) (05:07 11 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
