@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (13:16 12 January 2026)
+-   📺 Watched episode 1 - 11 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (15:12 12 January 2026)
 -   📺 Completed [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (15:43 11 January 2026)
 -   📺 Watched episode 8 - 11 of [Li'l Miss Vampire Can't Suck Right](https://anilist.co/anime/186524) (15:21 11 January 2026)
 -   📺 Watched episode 2 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (05:58 11 January 2026)
