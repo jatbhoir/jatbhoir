@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (18:15 17 January 2026)
+-   📺 Plans to watch [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (17:16 17 January 2026)
+-   📺 Completed [The Daily Life of the Immortal King Season 4](https://anilist.co/anime/156110) (17:13 17 January 2026)
 -   📺 Watched episode 5 - 11 of [The Daily Life of the Immortal King Season 4](https://anilist.co/anime/156110) (16:57 17 January 2026)
 -   📺 Plans to watch [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (14:40 17 January 2026)
--   📺 Plans to watch [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (18:57 15 January 2026)
--   📺 Plans to watch [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (18:56 15 January 2026)
--   📺 Plans to watch [The Daily Life of the Immortal King Season 4](https://anilist.co/anime/156110) (15:47 12 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
