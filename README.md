@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 8 of [The Daily Life of the Immortal King Season 4](https://anilist.co/anime/156110) (16:08 17 January 2026)
 -   📺 Plans to watch [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (14:40 17 January 2026)
 -   📺 Plans to watch [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (18:57 15 January 2026)
 -   📺 Plans to watch [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (18:56 15 January 2026)
 -   📺 Plans to watch [The Daily Life of the Immortal King Season 4](https://anilist.co/anime/156110) (15:47 12 January 2026)
--   📺 Completed [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (15:36 12 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
