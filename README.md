@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 of [Inexpressive Kashiwada and Expressive Oota](https://anilist.co/anime/187940) (10:51 18 January 2026)
+-   📺 Watched episode 4 - 8 of [Inexpressive Kashiwada and Expressive Oota](https://anilist.co/anime/187940) (12:14 18 January 2026)
 -   📖 Read chapter 133 - 136 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (08:01 18 January 2026)
 -   📺 Watched episode 1 - 6 of [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (18:50 17 January 2026)
 -   📺 Plans to watch [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (17:16 17 January 2026)
