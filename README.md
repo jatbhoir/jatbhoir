@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 133 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (04:43 18 January 2026)
 -   📺 Watched episode 1 - 6 of [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (18:50 17 January 2026)
 -   📺 Plans to watch [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (17:16 17 January 2026)
 -   📺 Completed [The Daily Life of the Immortal King Season 4](https://anilist.co/anime/156110) (17:13 17 January 2026)
 -   📺 Watched episode 5 - 11 of [The Daily Life of the Immortal King Season 4](https://anilist.co/anime/156110) (16:57 17 January 2026)
--   📺 Plans to watch [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (14:40 17 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
