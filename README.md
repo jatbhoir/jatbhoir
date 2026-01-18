@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 194 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (14:47 18 January 2026)
+-   📖 Read chapter 194 - 196 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (15:40 18 January 2026)
 -   📺 Completed [Inexpressive Kashiwada and Expressive Oota](https://anilist.co/anime/187940) (13:42 18 January 2026)
 -   📺 Watched episode 4 - 11 of [Inexpressive Kashiwada and Expressive Oota](https://anilist.co/anime/187940) (13:22 18 January 2026)
 -   📖 Read chapter 133 - 136 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (08:01 18 January 2026)
