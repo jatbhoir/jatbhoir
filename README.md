@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:19 20 January 2026)
 -   📺 Watched episode 1 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (13:18 19 January 2026)
 -   📺 Watched episode 1 - 3 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (03:32 19 January 2026)
 -   📺 Plans to watch [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (01:00 19 January 2026)
 -   📖 Read chapter 194 - 196 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (15:40 18 January 2026)
--   📺 Completed [Inexpressive Kashiwada and Expressive Oota](https://anilist.co/anime/187940) (13:42 18 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
