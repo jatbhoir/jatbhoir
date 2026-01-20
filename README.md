@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 137 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (12:32 20 January 2026)
+-   📖 Read chapter 137 - 140 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (13:36 20 January 2026)
 -   📺 Watched episode 1 - 2 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:19 20 January 2026)
 -   📺 Watched episode 1 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (13:18 19 January 2026)
 -   📺 Watched episode 1 - 3 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (03:32 19 January 2026)
