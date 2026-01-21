@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 147 - 148 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (03:04 21 January 2026)
 -   📖 Read chapter 137 - 146 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (14:30 20 January 2026)
 -   📖 Read chapter 294 - 297 of [Omniscient Reader](https://anilist.co/manga/119257) (14:17 20 January 2026)
 -   📺 Watched episode 1 - 2 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:19 20 January 2026)
 -   📺 Watched episode 1 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (13:18 19 January 2026)
--   📺 Watched episode 1 - 3 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (03:32 19 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
