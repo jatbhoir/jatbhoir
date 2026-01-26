@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 153 - 188 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (07:13 26 January 2026)
+-   📖 Completed [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (10:13 26 January 2026)
+-   📖 Read chapter 153 - 193 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (10:10 26 January 2026)
 -   📖 Read chapter 147 - 152 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (12:54 21 January 2026)
 -   📖 Read chapter 137 - 146 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (14:30 20 January 2026)
 -   📖 Read chapter 294 - 297 of [Omniscient Reader](https://anilist.co/manga/119257) (14:17 20 January 2026)
--   📺 Watched episode 1 - 2 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:19 20 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
