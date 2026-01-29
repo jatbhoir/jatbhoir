@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (16:17 29 January 2026)
 -   📖 Read chapter 1 - 25 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (02:44 29 January 2026)
 -   📖 Plans to read [The Stellar Swordmaster](https://anilist.co/manga/170400) (02:15 28 January 2026)
 -   📖 Read chapter 155 of [Shangri-La Frontier](https://anilist.co/manga/122063) (22:47 26 January 2026)
 -   📖 Completed [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (10:13 26 January 2026)
--   📖 Read chapter 153 - 193 of [Tying the Knot with an Amagami Sister](https://anilist.co/manga/128160) (10:10 26 January 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
