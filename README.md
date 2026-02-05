@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 63 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:26 05 February 2026)
+-   📖 Read chapter 151 - 154 of [The Infinite Mage](https://anilist.co/manga/159930) (13:17 05 February 2026)
 -   📖 Read chapter 298 of [Omniscient Reader](https://anilist.co/manga/119257) (12:34 05 February 2026)
--   📖 Read chapter 56 - 62 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (12:28 05 February 2026)
 -   📖 Read chapter 46 - 55 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:21 03 February 2026)
 -   📖 Read chapter 29 - 45 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:47 02 February 2026)
--   📺 Watched episode 9 of [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (15:21 01 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
