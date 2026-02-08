@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 64 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (05:28 08 February 2026)
+-   📖 Read chapter 64 - 66 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (08:05 08 February 2026)
 -   📺 Watched episode 6 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (14:56 05 February 2026)
 -   📖 Read chapter 56 - 63 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:26 05 February 2026)
 -   📖 Read chapter 151 - 154 of [The Infinite Mage](https://anilist.co/manga/159930) (13:17 05 February 2026)
