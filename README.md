@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 - 69 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (03:20 09 February 2026)
+-   📖 Read chapter 197 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (02:46 09 February 2026)
 -   📺 Watched episode 10 of [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (14:12 08 February 2026)
 -   📺 Watched episode 6 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (13:54 08 February 2026)
 -   📖 Read chapter 64 - 66 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (08:05 08 February 2026)
--   📺 Watched episode 6 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (14:56 05 February 2026)
--   📖 Read chapter 56 - 63 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:26 05 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
