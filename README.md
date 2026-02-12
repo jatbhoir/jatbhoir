@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 79 - 88 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:29 12 February 2026)
+-   📖 Read chapter 79 - 96 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (17:51 12 February 2026)
 -   📖 Read chapter 72 - 78 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (03:34 11 February 2026)
 -   📺 Watched episode 5 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:30 11 February 2026)
 -   📺 Watched episode 3 - 4 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:29 10 February 2026)
