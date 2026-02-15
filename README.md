@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (08:04 15 February 2026)
 -   📖 Read chapter 79 - 99 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (18:08 12 February 2026)
 -   📖 Read chapter 72 - 78 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (03:34 11 February 2026)
 -   📺 Watched episode 5 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:30 11 February 2026)
 -   📺 Watched episode 3 - 4 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:29 10 February 2026)
--   📖 Read chapter 67 - 71 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:16 09 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
