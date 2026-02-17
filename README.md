@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Campfire Cooking in Another World with my Absurd Skill Season 2](https://anilist.co/anime/170577) (15:21 17 February 2026)
+-   📺 Watched episode 8 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (14:58 17 February 2026)
 -   📺 Watched episode 1 - 8 of [Campfire Cooking in Another World with my Absurd Skill Season 2](https://anilist.co/anime/170577) (17:20 15 February 2026)
 -   📺 Watched episode 11 of [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (08:25 15 February 2026)
 -   📺 Watched episode 7 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (08:04 15 February 2026)
--   📖 Read chapter 79 - 99 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (18:08 12 February 2026)
--   📖 Read chapter 72 - 78 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (03:34 11 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
