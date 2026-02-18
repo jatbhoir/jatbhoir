@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 155 of [The Infinite Mage](https://anilist.co/manga/159930) (13:13 18 February 2026)
 -   📺 Watched episode 7 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:31 18 February 2026)
 -   📺 Watched episode 9 - 11 of [Campfire Cooking in Another World with my Absurd Skill Season 2](https://anilist.co/anime/170577) (02:10 18 February 2026)
 -   📺 Watched episode 8 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (14:58 17 February 2026)
 -   📺 Watched episode 1 - 8 of [Campfire Cooking in Another World with my Absurd Skill Season 2](https://anilist.co/anime/170577) (17:20 15 February 2026)
--   📺 Watched episode 11 of [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (08:25 15 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
