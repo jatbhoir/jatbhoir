@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 - 102 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:15 19 February 2026)
 -   📺 Watched episode 5 - 6 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (03:00 19 February 2026)
 -   📺 Watched episode 6 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:34 19 February 2026)
 -   📺 Completed [Campfire Cooking in Another World with my Absurd Skill Season 2](https://anilist.co/anime/170577) (16:12 18 February 2026)
 -   📖 Read chapter 155 of [The Infinite Mage](https://anilist.co/manga/159930) (13:13 18 February 2026)
--   📺 Watched episode 7 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:31 18 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
