@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 - 16 of [[Rouhou] Ore no Iinazuke ni Natta Jimiko, Ie dewa Kawaii Shikanai.](https://anilist.co/manga/139323) (04:05 22 February 2026)
+-   📖 Completed [[Rouhou] Ore no Iinazuke ni Natta Jimiko, Ie dewa Kawaii Shikanai.](https://anilist.co/manga/139323) (04:29 22 February 2026)
+-   📖 Read chapter 10 - 20 of [[Rouhou] Ore no Iinazuke ni Natta Jimiko, Ie dewa Kawaii Shikanai.](https://anilist.co/manga/139323) (04:23 22 February 2026)
 -   📖 Read chapter 222 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:01 21 February 2026)
 -   📖 Read chapter 100 - 102 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:15 19 February 2026)
 -   📺 Watched episode 5 - 6 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (03:00 19 February 2026)
--   📺 Watched episode 6 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:34 19 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
