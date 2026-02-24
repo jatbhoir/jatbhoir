@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 - 104 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (04:07 24 February 2026)
+-   📖 Read chapter 198 - 200 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (03:10 24 February 2026)
+-   📖 Read chapter 299 - 301 of [Omniscient Reader](https://anilist.co/manga/119257) (02:37 24 February 2026)
+-   📖 Read chapter 156 of [The Infinite Mage](https://anilist.co/manga/159930) (02:07 24 February 2026)
 -   📺 Completed [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (15:56 22 February 2026)
--   📖 Completed [[Rouhou] Ore no Iinazuke ni Natta Jimiko, Ie dewa Kawaii Shikanai.](https://anilist.co/manga/139323) (04:29 22 February 2026)
--   📖 Read chapter 10 - 20 of [[Rouhou] Ore no Iinazuke ni Natta Jimiko, Ie dewa Kawaii Shikanai.](https://anilist.co/manga/139323) (04:23 22 February 2026)
--   📖 Read chapter 222 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:01 21 February 2026)
--   📖 Read chapter 100 - 102 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:15 19 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
