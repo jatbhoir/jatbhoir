@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (16:54 25 February 2026)
+-   📺 Watched episode 9 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (16:47 25 February 2026)
 -   📖 Read chapter 103 - 109 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:08 24 February 2026)
 -   📖 Read chapter 198 - 200 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (03:10 24 February 2026)
 -   📖 Read chapter 299 - 301 of [Omniscient Reader](https://anilist.co/manga/119257) (02:37 24 February 2026)
--   📖 Read chapter 156 of [The Infinite Mage](https://anilist.co/manga/159930) (02:07 24 February 2026)
--   📺 Completed [The Daily Life of the Immortal King Season 5](https://anilist.co/anime/185857) (15:56 22 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
