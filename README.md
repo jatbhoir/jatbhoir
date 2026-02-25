@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:10 25 February 2026)
+-   📖 Read chapter 302 of [Omniscient Reader](https://anilist.co/manga/119257) (17:08 25 February 2026)
+-   📖 Read chapter 157 of [The Infinite Mage](https://anilist.co/manga/159930) (17:01 25 February 2026)
 -   📖 Read chapter 110 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (16:54 25 February 2026)
 -   📺 Watched episode 9 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (16:47 25 February 2026)
--   📖 Read chapter 103 - 109 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:08 24 February 2026)
--   📖 Read chapter 198 - 200 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (03:10 24 February 2026)
--   📖 Read chapter 299 - 301 of [Omniscient Reader](https://anilist.co/manga/119257) (02:37 24 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
