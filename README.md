@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (02:51 26 February 2026)
+-   📺 Watched episode 7 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:47 26 February 2026)
+-   📺 Watched episode 7 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:47 26 February 2026)
 -   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:10 25 February 2026)
 -   📖 Read chapter 302 of [Omniscient Reader](https://anilist.co/manga/119257) (17:08 25 February 2026)
--   📖 Read chapter 157 of [The Infinite Mage](https://anilist.co/manga/159930) (17:01 25 February 2026)
--   📖 Read chapter 110 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (16:54 25 February 2026)
--   📺 Watched episode 9 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (16:47 25 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
