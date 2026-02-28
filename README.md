@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 9 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (16:12 28 February 2026)
 -   📖 Read chapter 1 - 3 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:18 26 February 2026)
 -   📖 Plans to read [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (02:51 26 February 2026)
 -   📺 Watched episode 7 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:47 26 February 2026)
 -   📺 Watched episode 7 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:47 26 February 2026)
--   📖 Paused reading [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (17:10 25 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
