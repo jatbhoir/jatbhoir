@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 31 - 38 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (03:49 02 March 2026)
+-   📖 Read chapter 31 - 40 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:31 02 March 2026)
 -   📖 Read chapter 4 - 30 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (19:04 28 February 2026)
 -   📖 Read chapter 111 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (17:04 28 February 2026)
 -   📖 Read chapter 1 - 3 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:18 26 February 2026)
