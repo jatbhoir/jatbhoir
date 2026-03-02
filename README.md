@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 - 38 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (03:49 02 March 2026)
 -   📖 Read chapter 4 - 30 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (19:04 28 February 2026)
 -   📖 Read chapter 111 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (17:04 28 February 2026)
 -   📖 Read chapter 1 - 3 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:18 26 February 2026)
 -   📖 Plans to read [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (02:51 26 February 2026)
--   📺 Watched episode 7 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (02:47 26 February 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
