@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 - 47 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (03:54 04 March 2026)
+-   📖 Read chapter 44 - 51 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:27 04 March 2026)
 -   📖 Read chapter 303 of [Omniscient Reader](https://anilist.co/manga/119257) (03:05 04 March 2026)
 -   📖 Read chapter 158 of [The Infinite Mage](https://anilist.co/manga/159930) (02:55 04 March 2026)
 -   📖 Read chapter 31 - 43 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (14:29 02 March 2026)
