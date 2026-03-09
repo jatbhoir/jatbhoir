@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 161 - 162 of [Shangri-La Frontier](https://anilist.co/manga/122063) (02:39 09 March 2026)
 -   📖 Read chapter 59 - 63 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (14:59 08 March 2026)
 -   📖 Paused reading [Tower of God](https://anilist.co/manga/85143) (21:34 05 March 2026)
 -   📖 Paused reading [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (21:33 05 March 2026)
 -   📖 Paused reading [The Perks of Being an S-Class Heroine](https://anilist.co/manga/147586) (21:32 05 March 2026)
--   📖 Read chapter 94 - 95 of [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (21:16 05 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
