@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 of [I Get the Feeling That Nobukuni-san Likes Me](https://anilist.co/manga/123920) (15:29 09 March 2026)
 -   📖 Read chapter 64 - 65 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:15 09 March 2026)
 -   📖 Read chapter 161 - 162 of [Shangri-La Frontier](https://anilist.co/manga/122063) (02:39 09 March 2026)
 -   📖 Read chapter 59 - 63 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (14:59 08 March 2026)
 -   📖 Paused reading [Tower of God](https://anilist.co/manga/85143) (21:34 05 March 2026)
--   📖 Paused reading [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (21:33 05 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
