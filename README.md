@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 159 of [The Infinite Mage](https://anilist.co/manga/159930) (03:21 12 March 2026)
+-   📖 Read chapter 304 of [Omniscient Reader](https://anilist.co/manga/119257) (03:11 12 March 2026)
 -   📺 Watched episode 8 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:30 11 March 2026)
 -   📺 Watched episode 8 - 9 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (03:07 11 March 2026)
 -   📖 Read chapter 201 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (12:37 10 March 2026)
--   📖 Read chapter 3 of [I Get the Feeling That Nobukuni-san Likes Me](https://anilist.co/manga/123920) (15:29 09 March 2026)
--   📖 Read chapter 64 - 65 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:15 09 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
