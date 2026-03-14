@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 11 - 14 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (14:10 14 March 2026)
+-   📖 Read chapter 11 - 18 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (16:17 14 March 2026)
 -   📺 Watched episode 10 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (12:03 14 March 2026)
 -   📖 Read chapter 1 - 10 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (13:49 12 March 2026)
 -   📖 Read chapter 159 of [The Infinite Mage](https://anilist.co/manga/159930) (03:21 12 March 2026)
