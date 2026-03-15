@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 187 of [The Dangers in My Heart](https://anilist.co/manga/101557) (15:18 15 March 2026)
 -   📖 Read chapter 11 - 30 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (17:18 14 March 2026)
 -   📺 Watched episode 10 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (12:03 14 March 2026)
 -   📖 Read chapter 1 - 10 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (13:49 12 March 2026)
 -   📖 Read chapter 159 of [The Infinite Mage](https://anilist.co/manga/159930) (03:21 12 March 2026)
--   📖 Read chapter 304 of [Omniscient Reader](https://anilist.co/manga/119257) (03:11 12 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
