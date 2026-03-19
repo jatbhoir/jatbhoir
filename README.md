@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (16:25 19 March 2026)
+-   📺 Watched episode 11 of [The Demon King's Daughter is Too Kind!!](https://anilist.co/anime/194742) (16:03 19 March 2026)
 -   📖 Read chapter 35 - 60 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (13:26 18 March 2026)
 -   📺 Watched episode 9 - 10 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (03:32 17 March 2026)
 -   📺 Watched episode 10 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (02:36 17 March 2026)
--   📖 Read chapter 31 - 34 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (19:57 15 March 2026)
--   📖 Paused reading [The Stellar Swordmaster](https://anilist.co/manga/170400) (19:31 15 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
