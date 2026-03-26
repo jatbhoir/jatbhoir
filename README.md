@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 18 of [Foam of the Sea](https://anilist.co/manga/173329) (03:00 26 March 2026)
 -   📖 Read chapter 1 - 11 of [Foam of the Sea](https://anilist.co/manga/173329) (14:14 24 March 2026)
 -   📖 Read chapter 160 of [The Infinite Mage](https://anilist.co/manga/159930) (02:23 24 March 2026)
 -   📖 Read chapter 77 - 157 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (17:44 23 March 2026)
 -   📖 Read chapter 61 - 76 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (15:27 20 March 2026)
--   📺 Watched episode 11 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (11:21 20 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
