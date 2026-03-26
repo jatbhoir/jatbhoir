@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 12 - 22 of [Foam of the Sea](https://anilist.co/manga/173329) (12:53 26 March 2026)
+-   📖 Read chapter 12 - 31 of [Foam of the Sea](https://anilist.co/manga/173329) (13:23 26 March 2026)
 -   📖 Read chapter 1 - 11 of [Foam of the Sea](https://anilist.co/manga/173329) (14:14 24 March 2026)
 -   📖 Read chapter 160 of [The Infinite Mage](https://anilist.co/manga/159930) (02:23 24 March 2026)
 -   📖 Read chapter 77 - 157 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (17:44 23 March 2026)
