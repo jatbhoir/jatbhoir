@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:19 27 March 2026)
 -   📖 Plans to read [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (12:20 27 March 2026)
 -   📺 Completed [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (10:33 27 March 2026)
 -   📖 Read chapter 161 of [The Infinite Mage](https://anilist.co/manga/159930) (09:14 27 March 2026)
 -   📖 Read chapter 305 of [Omniscient Reader](https://anilist.co/manga/119257) (04:17 27 March 2026)
--   📖 Completed [Foam of the Sea](https://anilist.co/manga/173329) (04:16 27 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
