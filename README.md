@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 305 of [Omniscient Reader](https://anilist.co/manga/119257) (04:17 27 March 2026)
+-   📖 Completed [Foam of the Sea](https://anilist.co/manga/173329) (04:16 27 March 2026)
+-   📖 Read chapter 32 - 58 of [Foam of the Sea](https://anilist.co/manga/173329) (04:06 27 March 2026)
 -   📖 Read chapter 12 - 31 of [Foam of the Sea](https://anilist.co/manga/173329) (13:23 26 March 2026)
 -   📖 Read chapter 1 - 11 of [Foam of the Sea](https://anilist.co/manga/173329) (14:14 24 March 2026)
--   📖 Read chapter 160 of [The Infinite Mage](https://anilist.co/manga/159930) (02:23 24 March 2026)
--   📖 Read chapter 77 - 157 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (17:44 23 March 2026)
--   📖 Read chapter 61 - 76 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (15:27 20 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
