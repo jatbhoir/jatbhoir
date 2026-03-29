@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 7 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (15:21 29 March 2026)
+-   📺 Watched episode 7 - 9 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (16:03 29 March 2026)
 -   📖 Read chapter 1 - 2 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:19 27 March 2026)
 -   📖 Plans to read [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (12:20 27 March 2026)
 -   📺 Completed [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (10:33 27 March 2026)
