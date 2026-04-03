@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (05:46 03 April 2026)
 -   📺 Watched episode 11 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (15:52 01 April 2026)
 -   📺 Completed [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (15:39 01 April 2026)
 -   📖 Read chapter 3 - 10 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:23 01 April 2026)
 -   📺 Watched episode 11 of [Hell’s Paradise Season 2](https://anilist.co/anime/166613) (13:15 30 March 2026)
--   📺 Watched episode 7 - 9 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (16:03 29 March 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
