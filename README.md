@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 13 - 15 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (09:20 04 April 2026)
 -   📺 Watched episode 1 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (08:21 04 April 2026)
 -   📺 Watched episode 1 of [The Angel Next Door Spoils Me Rotten 2](https://anilist.co/anime/170019) (07:55 04 April 2026)
 -   📺 Plans to watch [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (18:17 03 April 2026)
 -   📺 Plans to watch [The Angel Next Door Spoils Me Rotten 2](https://anilist.co/anime/170019) (18:17 03 April 2026)
--   📺 Watched episode 12 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (05:46 03 April 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
