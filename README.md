@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 - 20 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (04:12 05 April 2026)
 -   📺 Plans to watch [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (16:24 04 April 2026)
 -   📺 Plans to watch [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (16:23 04 April 2026)
 -   📺 Completed [Blue Orchestra Season 2](https://anilist.co/anime/170018) (16:06 04 April 2026)
 -   📺 Watched episode 13 - 20 of [Blue Orchestra Season 2](https://anilist.co/anime/170018) (15:42 04 April 2026)
--   📺 Watched episode 1 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (08:21 04 April 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
