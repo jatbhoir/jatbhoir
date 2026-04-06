@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 22 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (12:43 06 April 2026)
+-   📖 Read chapter 22 - 25 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:59 06 April 2026)
 -   📖 Read chapter 11 - 21 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (08:41 05 April 2026)
 -   📺 Plans to watch [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (16:24 04 April 2026)
 -   📺 Plans to watch [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (16:23 04 April 2026)
