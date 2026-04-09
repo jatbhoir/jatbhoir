@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 29 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (02:50 09 April 2026)
+-   📖 Read chapter 26 - 30 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (12:58 09 April 2026)
 -   📖 Read chapter 22 - 25 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:59 06 April 2026)
 -   📖 Read chapter 11 - 21 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (08:41 05 April 2026)
 -   📺 Plans to watch [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (16:24 04 April 2026)
