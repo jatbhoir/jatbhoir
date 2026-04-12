@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 33 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:25 09 April 2026)
--   📖 Read chapter 22 - 25 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:59 06 April 2026)
--   📖 Read chapter 11 - 21 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (08:41 05 April 2026)
--   📺 Plans to watch [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (16:24 04 April 2026)
--   📺 Plans to watch [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (16:23 04 April 2026)
+-   📖 Read chapter 34 - 39 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (19:31 12 April 2026)
+-   📖 Read chapter 43 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (18:56 12 April 2026)
+-   📺 Watched episode 1 - 2 of [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (18:51 12 April 2026)
+-   📺 Watched episode 1 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (18:49 12 April 2026)
+-   📺 Plans to watch [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (18:48 12 April 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
