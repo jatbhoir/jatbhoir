@@ -42,7 +42,7 @@
 -   📖 Read chapter 163 - 167 of [Shangri-La Frontier](https://anilist.co/manga/122063) (03:23 14 April 2026)
 -   📺 Watched episode 2 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (02:34 14 April 2026)
 -   📺 Plans to watch [Gals Can't Be Kind to Otaku!?](https://anilist.co/anime/199588) (06:00 13 April 2026)
--   📺 Watched episode 2 of [The Angel Next Door Spoils Me Rotten 2](https://anilist.co/anime/170019) (05:56 13 April 2026)
+-   📺 Watched episode 2 of [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (05:56 13 April 2026)
 -   📖 Read chapter 34 - 59 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (21:06 12 April 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
