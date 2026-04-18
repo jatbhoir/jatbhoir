@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 78 - 95 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (14:39 18 April 2026)
+-   📖 Read chapter 78 - 99 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (16:28 18 April 2026)
 -   📖 Read chapter 76 - 77 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (17:44 17 April 2026)
 -   📖 Read chapter 69 - 75 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:28 16 April 2026)
 -   📺 Watched episode 1 - 2 of [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (15:42 15 April 2026)
