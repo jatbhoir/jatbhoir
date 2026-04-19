@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (14:29 19 April 2026)
 -   📖 Read chapter 108 - 112 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (08:04 19 April 2026)
 -   📖 Read chapter 78 - 107 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (17:16 18 April 2026)
 -   📖 Read chapter 76 - 77 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (17:44 17 April 2026)
 -   📖 Read chapter 69 - 75 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:28 16 April 2026)
--   📺 Watched episode 1 - 2 of [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (15:42 15 April 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
