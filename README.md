@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 113 - 124 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:11 20 April 2026)
+-   📖 Read chapter 113 - 128 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (13:28 20 April 2026)
 -   📺 Watched episode 3 of [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (14:53 19 April 2026)
 -   📺 Watched episode 2 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (14:29 19 April 2026)
 -   📖 Read chapter 108 - 112 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (08:04 19 April 2026)
