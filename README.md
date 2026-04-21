@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (03:10 21 April 2026)
+-   📖 Read chapter 1 - 2 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:03 21 April 2026)
 -   📖 Plans to read [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (19:17 20 April 2026)
 -   📖 Completed [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (16:41 20 April 2026)
 -   📖 Read chapter 113 - 135 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (16:40 20 April 2026)
