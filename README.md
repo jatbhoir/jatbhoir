@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (20:53 25 April 2026)
 -   📖 Read chapter 6 - 20 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (03:18 23 April 2026)
 -   📖 Read chapter 1 - 5 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (18:38 21 April 2026)
 -   📖 Plans to read [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (19:17 20 April 2026)
 -   📖 Completed [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (16:41 20 April 2026)
--   📖 Read chapter 113 - 135 of [The Little Lady Behind the Scenes](https://anilist.co/manga/141579) (16:40 20 April 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
