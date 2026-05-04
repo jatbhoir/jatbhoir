@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 - 25 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (02:50 04 May 2026)
+-   📖 Read chapter 24 - 31 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:21 04 May 2026)
 -   📖 Read chapter 22 - 23 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (07:14 30 April 2026)
 -   📖 Read chapter 21 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (15:53 29 April 2026)
 -   📺 Watched episode 5 of [Witch Hat Atelier](https://anilist.co/anime/147105) (18:43 28 April 2026)
