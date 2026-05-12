@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (02:12 12 May 2026)
+-   📖 Read chapter 48 - 50 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (03:01 12 May 2026)
 -   📖 Read chapter 42 - 47 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:17 11 May 2026)
 -   📖 Read chapter 35 - 41 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:57 07 May 2026)
 -   📖 Read chapter 32 - 34 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (03:19 05 May 2026)
