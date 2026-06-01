@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 - 100 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (18:05 01 June 2026)
 -   📖 Read chapter 87 - 97 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (03:22 01 June 2026)
 -   📖 Read chapter 86 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:23 19 May 2026)
 -   📖 Read chapter 83 - 84 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:17 18 May 2026)
 -   📖 Read chapter 75 - 82 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:31 14 May 2026)
--   📖 Read chapter 55 - 74 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (15:45 13 May 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
