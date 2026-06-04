@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 309 - 310 of [Omniscient Reader](https://anilist.co/manga/119257) (02:41 04 June 2026)
 -   📖 Read chapter 306 - 308 of [Omniscient Reader](https://anilist.co/manga/119257) (13:21 03 June 2026)
 -   📖 Plans to read [Seducing the Monster Duke](https://anilist.co/manga/154905) (02:31 02 June 2026)
 -   📖 Read chapter 98 - 100 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (18:05 01 June 2026)
 -   📖 Read chapter 87 - 97 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (03:22 01 June 2026)
--   📖 Read chapter 86 of [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (13:23 19 May 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
