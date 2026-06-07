@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 6 of [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (17:45 07 June 2026)
 -   📖 Read chapter 202 - 210 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (06:28 06 June 2026)
 -   📖 Read chapter 167 - 171 of [The Infinite Mage](https://anilist.co/manga/159930) (18:49 05 June 2026)
 -   📖 Read chapter 162 - 166 of [The Infinite Mage](https://anilist.co/manga/159930) (13:24 04 June 2026)
 -   📖 Read chapter 309 - 311 of [Omniscient Reader](https://anilist.co/manga/119257) (03:01 04 June 2026)
--   📖 Read chapter 306 - 308 of [Omniscient Reader](https://anilist.co/manga/119257) (13:21 03 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
