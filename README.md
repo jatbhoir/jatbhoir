@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 7 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (10:13 08 June 2026)
+-   📺 Watched episode 5 - 9 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (14:30 08 June 2026)
+-   📺 Watched episode 3 - 9 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (10:58 08 June 2026)
 -   📺 Watched episode 1 of [You and I Are Polar Opposites](https://anilist.co/anime/184951) (19:17 07 June 2026)
 -   📺 Plans to watch [You and I Are Polar Opposites](https://anilist.co/anime/184951) (18:53 07 June 2026)
 -   📺 Watched episode 5 - 9 of [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (18:48 07 June 2026)
--   📖 Read chapter 202 - 210 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (06:28 06 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
