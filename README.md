@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [KILL BLUE](https://anilist.co/anime/198113) (07:09 14 June 2026)
 -   📺 Watched episode 10 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (05:26 13 June 2026)
 -   📺 Watched episode 10 of [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (16:08 11 June 2026)
 -   📺 Watched episode 9 of [KILL BLUE](https://anilist.co/anime/198113) (15:46 11 June 2026)
 -   📖 Read chapter 1 - 3 of [Seducing the Monster Duke](https://anilist.co/manga/154905) (13:33 10 June 2026)
--   📺 Watched episode 8 of [KILL BLUE](https://anilist.co/anime/198113) (16:23 09 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
