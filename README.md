@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 17 - 21 of [Seducing the Monster Duke](https://anilist.co/manga/154905) (13:18 19 June 2026)
 -   📖 Read chapter 16 of [Seducing the Monster Duke](https://anilist.co/manga/154905) (13:19 18 June 2026)
 -   📺 Watched episode 8 of [Witch Hat Atelier](https://anilist.co/anime/147105) (13:30 17 June 2026)
 -   📖 Read chapter 12 - 15 of [Seducing the Monster Duke](https://anilist.co/manga/154905) (13:15 16 June 2026)
 -   📖 Read chapter 4 - 11 of [Seducing the Monster Duke](https://anilist.co/manga/154905) (13:29 15 June 2026)
--   📺 Watched episode 10 of [KILL BLUE](https://anilist.co/anime/198113) (07:09 14 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
