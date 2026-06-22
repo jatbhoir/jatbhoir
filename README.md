@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 of [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (18:12 21 June 2026)
+-   📺 Watched episode 4 - 6 of [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (03:37 22 June 2026)
 -   📺 Watched episode 11 of [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (17:12 21 June 2026)
 -   📺 Watched episode 11 of [KILL BLUE](https://anilist.co/anime/198113) (15:51 21 June 2026)
 -   📺 Watched episode 11 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (15:20 21 June 2026)
