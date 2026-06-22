@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (16:26 22 June 2026)
+-   📺 Watched episode 4 - 11 of [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (16:06 22 June 2026)
 -   📖 Read chapter 172 of [The Infinite Mage](https://anilist.co/manga/159930) (13:49 22 June 2026)
 -   📖 Read chapter 22 - 23 of [Seducing the Monster Duke](https://anilist.co/manga/154905) (12:58 22 June 2026)
--   📺 Watched episode 4 - 7 of [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (12:20 22 June 2026)
 -   📺 Watched episode 11 of [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (17:12 21 June 2026)
--   📺 Watched episode 11 of [KILL BLUE](https://anilist.co/anime/198113) (15:51 21 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
