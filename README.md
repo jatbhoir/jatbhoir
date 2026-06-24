@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 260 of [Loner Life in Another World](https://anilist.co/manga/107540) (13:18 24 June 2026)
 -   📖 Read chapter 173 - 174 of [The Infinite Mage](https://anilist.co/manga/159930) (13:06 24 June 2026)
 -   📖 Read chapter 148 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (12:42 24 June 2026)
 -   📺 Completed [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (16:26 22 June 2026)
 -   📺 Watched episode 4 - 11 of [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (16:06 22 June 2026)
--   📖 Read chapter 172 of [The Infinite Mage](https://anilist.co/manga/159930) (13:49 22 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
