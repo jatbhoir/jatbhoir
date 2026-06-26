@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (15:26 26 June 2026)
+-   📺 Watched episode 10 - 11 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (14:15 26 June 2026)
+-   📺 Completed [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (13:05 26 June 2026)
 -   📖 Read chapter 81 - 82 of [Into the Light, Once Again](https://anilist.co/manga/139339) (02:32 25 June 2026)
 -   📖 Read chapter 260 of [Loner Life in Another World](https://anilist.co/manga/107540) (13:18 24 June 2026)
--   📖 Read chapter 173 - 174 of [The Infinite Mage](https://anilist.co/manga/159930) (13:06 24 June 2026)
--   📖 Read chapter 148 of [Kono Oto Tomare!](https://anilist.co/manga/75143) (12:42 24 June 2026)
--   📺 Completed [The Angel Next Door Spoils Me Rotten2](https://anilist.co/anime/170019) (16:26 22 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
