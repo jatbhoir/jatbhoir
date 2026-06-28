@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (18:39 28 June 2026)
+-   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (18:17 28 June 2026)
+-   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (18:17 28 June 2026)
 -   📺 Watched episode 1 - 11 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (18:11 26 June 2026)
 -   📺 Watched episode 10 - 11 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (14:15 26 June 2026)
--   📺 Completed [I Made Friends with the Second Prettiest Girl in My Class](https://anilist.co/anime/169580) (13:05 26 June 2026)
--   📖 Read chapter 81 - 82 of [Into the Light, Once Again](https://anilist.co/manga/139339) (02:32 25 June 2026)
--   📖 Read chapter 260 of [Loner Life in Another World](https://anilist.co/manga/107540) (13:18 24 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
