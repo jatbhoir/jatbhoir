@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 66 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:29 01 July 2026)
+-   📖 Read chapter 175 of [The Infinite Mage](https://anilist.co/manga/159930) (13:21 01 July 2026)
 -   📺 Completed [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (18:39 28 June 2026)
 -   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (18:17 28 June 2026)
 -   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (18:17 28 June 2026)
--   📺 Watched episode 1 - 11 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (18:11 26 June 2026)
--   📺 Watched episode 10 - 11 of [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (14:15 26 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
