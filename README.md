@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 70 - 72 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:22 03 July 2026)
 -   📖 Read chapter 67 - 69 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:27 02 July 2026)
 -   📖 Read chapter 66 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:29 01 July 2026)
 -   📖 Read chapter 175 of [The Infinite Mage](https://anilist.co/manga/159930) (13:21 01 July 2026)
 -   📺 Completed [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (18:39 28 June 2026)
--   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (18:17 28 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
