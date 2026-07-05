@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Farming Life in Another World 2](https://anilist.co/anime/197824) (11:10 05 July 2026)
+-   📺 Watched episode 2 of [The Villager of Level 999](https://anilist.co/anime/197715) (10:46 05 July 2026)
 -   📖 Read chapter 70 - 72 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:22 03 July 2026)
 -   📖 Read chapter 67 - 69 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:27 02 July 2026)
 -   📖 Read chapter 66 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (13:29 01 July 2026)
--   📖 Read chapter 175 of [The Infinite Mage](https://anilist.co/manga/159930) (13:21 01 July 2026)
--   📺 Completed [Wistoria: Wand and Sword Season 2](https://anilist.co/anime/182300) (18:39 28 June 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
