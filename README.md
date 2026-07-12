@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (19:55 12 July 2026)
 -   📺 Completed [Mission: Yozakura Family Season 2](https://anilist.co/anime/182578) (17:10 12 July 2026)
 -   📺 Watched episode 7 - 11 of [Mission: Yozakura Family Season 2](https://anilist.co/anime/182578) (16:44 12 July 2026)
 -   📖 Read chapter 38 - 131 of [Gimme That Pacifier!](https://anilist.co/manga/143915) (13:18 09 July 2026)
 -   📺 Watched episode 3 - 6 of [Mission: Yozakura Family Season 2](https://anilist.co/anime/182578) (01:45 09 July 2026)
--   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (15:44 08 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
