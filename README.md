@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [Mission: Yozakura Family Season 2](https://anilist.co/anime/182578) (13:33 12 July 2026)
 -   📖 Read chapter 38 - 131 of [Gimme That Pacifier!](https://anilist.co/manga/143915) (13:18 09 July 2026)
 -   📺 Watched episode 3 - 6 of [Mission: Yozakura Family Season 2](https://anilist.co/anime/182578) (01:45 09 July 2026)
 -   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (15:44 08 July 2026)
 -   📺 Completed [Witch Hat Atelier](https://anilist.co/anime/147105) (15:37 08 July 2026)
--   📺 Watched episode 11 - 12 of [Witch Hat Atelier](https://anilist.co/anime/147105) (15:15 08 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
