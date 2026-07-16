@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School](https://anilist.co/anime/201514) (03:22 16 July 2026)
 -   📺 Watched episode 7 - 10 of [Farming Life in Another World 2](https://anilist.co/anime/197824) (13:00 13 July 2026)
 -   📖 Completed [Reborn as a Character That Never Existed](https://anilist.co/manga/170858) (20:06 12 July 2026)
 -   📖 Paused reading [The Secret Bedroom of the Abandoned Princess](https://anilist.co/manga/152609) (19:55 12 July 2026)
 -   📺 Completed [Mission: Yozakura Family Season 2](https://anilist.co/anime/182578) (17:10 12 July 2026)
--   📺 Watched episode 7 - 11 of [Mission: Yozakura Family Season 2](https://anilist.co/anime/182578) (16:44 12 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
