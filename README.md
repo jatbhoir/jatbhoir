@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [I Want to End this Love Game](https://anilist.co/anime/194393) (14:21 19 July 2026)
+-   📺 Watched episode 1 - 7 of [I Want to End this Love Game](https://anilist.co/anime/194393) (14:42 19 July 2026)
 -   📺 Plans to watch [I Want to End this Love Game](https://anilist.co/anime/194393) (11:44 19 July 2026)
 -   📺 Watched episode 3 - 4 of [The Villager of Level 999](https://anilist.co/anime/197715) (11:20 19 July 2026)
 -   📺 Watched episode 3 - 4 of [The Villager of Level 999](https://anilist.co/anime/197715) (11:20 19 July 2026)
