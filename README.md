@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [I Want to End this Love Game](https://anilist.co/anime/194393) (12:47 19 July 2026)
 -   📺 Plans to watch [I Want to End this Love Game](https://anilist.co/anime/194393) (11:44 19 July 2026)
 -   📺 Watched episode 3 - 4 of [The Villager of Level 999](https://anilist.co/anime/197715) (11:20 19 July 2026)
 -   📺 Watched episode 3 - 4 of [The Villager of Level 999](https://anilist.co/anime/197715) (11:20 19 July 2026)
 -   📺 Watched episode 11 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (10:55 19 July 2026)
--   📺 Watched episode 1 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (06:12 18 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
