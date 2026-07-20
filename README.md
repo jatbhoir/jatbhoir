@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 10 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (14:44 20 July 2026)
+-   📺 Completed [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (15:43 20 July 2026)
+-   📺 Watched episode 1 - 12 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (15:22 20 July 2026)
 -   📺 Watched episode 3 - 9 of [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (08:59 20 July 2026)
 -   📺 Watched episode 3 of [Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School](https://anilist.co/anime/201514) (17:58 19 July 2026)
 -   📺 Completed [I Want to End this Love Game](https://anilist.co/anime/194393) (17:38 19 July 2026)
--   📺 Watched episode 1 - 11 of [I Want to End this Love Game](https://anilist.co/anime/194393) (17:00 19 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
