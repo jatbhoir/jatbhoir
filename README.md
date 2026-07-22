@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (14:48 22 July 2026)
+-   📺 Watched episode 1 - 2 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (17:27 22 July 2026)
+-   📺 Plans to watch [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (16:47 22 July 2026)
+-   📺 Watched episode 1 - 4 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (16:34 22 July 2026)
 -   📺 Plans to watch [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (09:19 22 July 2026)
 -   📺 Completed [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (15:43 20 July 2026)
--   📺 Watched episode 1 - 12 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (15:22 20 July 2026)
--   📺 Watched episode 3 - 9 of [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (08:59 20 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
