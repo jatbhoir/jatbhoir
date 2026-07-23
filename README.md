@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Medalist Season 2](https://anilist.co/anime/189275) (16:58 23 July 2026)
+-   📺 Watched episode 5 of [The Villager of Level 999](https://anilist.co/anime/197715) (18:14 23 July 2026)
+-   📖 Read chapter 28 of [Medalist](https://anilist.co/manga/118371) (17:47 23 July 2026)
+-   📺 Completed [Medalist Season 2](https://anilist.co/anime/189275) (17:41 23 July 2026)
+-   📺 Watched episode 1 - 8 of [Medalist Season 2](https://anilist.co/anime/189275) (17:19 23 July 2026)
 -   📺 Plans to watch [Medalist Season 2](https://anilist.co/anime/189275) (14:03 23 July 2026)
--   📺 Watched episode 3 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (14:00 23 July 2026)
--   📺 Watched episode 1 - 2 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (17:27 22 July 2026)
--   📺 Plans to watch [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (16:47 22 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
