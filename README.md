@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Medalist Season 2](https://anilist.co/anime/189275) (15:30 23 July 2026)
+-   📺 Plans to watch [Medalist Season 2](https://anilist.co/anime/189275) (14:03 23 July 2026)
+-   📺 Watched episode 3 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (14:00 23 July 2026)
 -   📺 Watched episode 1 - 2 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (17:27 22 July 2026)
 -   📺 Plans to watch [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (16:47 22 July 2026)
--   📺 Watched episode 1 - 4 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (16:34 22 July 2026)
--   📺 Plans to watch [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (09:19 22 July 2026)
--   📺 Completed [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (15:43 20 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
