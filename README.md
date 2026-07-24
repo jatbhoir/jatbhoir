@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 132 - 133 of [Gimme That Pacifier!](https://anilist.co/manga/143915) (18:40 24 July 2026)
 -   📺 Watched episode 5 of [The Villager of Level 999](https://anilist.co/anime/197715) (18:14 23 July 2026)
 -   📖 Read chapter 28 of [Medalist](https://anilist.co/manga/118371) (17:47 23 July 2026)
 -   📺 Completed [Medalist Season 2](https://anilist.co/anime/189275) (17:41 23 July 2026)
 -   📺 Watched episode 1 - 8 of [Medalist Season 2](https://anilist.co/anime/189275) (17:19 23 July 2026)
--   📺 Plans to watch [Medalist Season 2](https://anilist.co/anime/189275) (14:03 23 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
