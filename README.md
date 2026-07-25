@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 83 - 112 of [Into the Light, Once Again](https://anilist.co/manga/139339) (14:31 25 July 2026)
+-   📖 Completed [Into the Light, Once Again](https://anilist.co/manga/139339) (15:39 25 July 2026)
+-   📖 Read chapter 83 - 113 of [Into the Light, Once Again](https://anilist.co/manga/139339) (15:29 25 July 2026)
 -   📖 Read chapter 176 - 178 of [The Infinite Mage](https://anilist.co/manga/159930) (12:06 25 July 2026)
 -   📖 Read chapter 132 - 133 of [Gimme That Pacifier!](https://anilist.co/manga/143915) (18:40 24 July 2026)
 -   📺 Watched episode 5 of [The Villager of Level 999](https://anilist.co/anime/197715) (18:14 23 July 2026)
--   📖 Read chapter 28 of [Medalist](https://anilist.co/manga/118371) (17:47 23 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
