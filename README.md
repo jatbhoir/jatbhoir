@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 54 of [The Regressed Empress’s Abduction Marriage](https://anilist.co/manga/186723) (20:11 25 July 2026)
+-   📖 Completed [The Regressed Empress’s Abduction Marriage](https://anilist.co/manga/186723) (20:20 25 July 2026)
+-   📖 Read chapter 1 - 56 of [The Regressed Empress’s Abduction Marriage](https://anilist.co/manga/186723) (20:19 25 July 2026)
 -   📖 Completed [Into the Light, Once Again](https://anilist.co/manga/139339) (15:39 25 July 2026)
 -   📖 Read chapter 83 - 113 of [Into the Light, Once Again](https://anilist.co/manga/139339) (15:29 25 July 2026)
 -   📖 Read chapter 176 - 178 of [The Infinite Mage](https://anilist.co/manga/159930) (12:06 25 July 2026)
--   📖 Read chapter 132 - 133 of [Gimme That Pacifier!](https://anilist.co/manga/143915) (18:40 24 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
