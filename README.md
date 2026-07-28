@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (17:16 28 July 2026)
+-   📺 Watched episode 1 - 4 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (18:51 28 July 2026)
 -   📺 Plans to watch [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (16:55 28 July 2026)
 -   📺 Completed [You and I Are Polar Opposites](https://anilist.co/anime/184951) (16:51 28 July 2026)
 -   📺 Watched episode 2 - 11 of [You and I Are Polar Opposites](https://anilist.co/anime/184951) (16:28 28 July 2026)
