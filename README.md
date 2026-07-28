@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 9 of [You and I Are Polar Opposites](https://anilist.co/anime/184951) (15:15 28 July 2026)
+-   📺 Watched episode 1 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (17:16 28 July 2026)
+-   📺 Plans to watch [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (16:55 28 July 2026)
+-   📺 Completed [You and I Are Polar Opposites](https://anilist.co/anime/184951) (16:51 28 July 2026)
+-   📺 Watched episode 2 - 11 of [You and I Are Polar Opposites](https://anilist.co/anime/184951) (16:28 28 July 2026)
 -   📺 Watched episode 5 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (10:15 28 July 2026)
--   📺 Plans to watch [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (06:44 28 July 2026)
--   📺 Watched episode 4 of [Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School](https://anilist.co/anime/201514) (09:00 26 July 2026)
--   📖 Completed [The Regressed Empress’s Abduction Marriage](https://anilist.co/manga/186723) (20:20 25 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
