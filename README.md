@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 - 74 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (04:06 30 July 2026)
+-   📖 Read chapter 166 - 171 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (03:31 30 July 2026)
 -   📺 Completed [Demon Slayer: Kimetsu no Yaiba Infinity Castle](https://anilist.co/anime/178788) (15:43 29 July 2026)
 -   📖 Read chapter 158 - 165 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (08:57 29 July 2026)
 -   📺 Watched episode 1 - 4 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (18:51 28 July 2026)
--   📺 Plans to watch [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (16:55 28 July 2026)
--   📺 Completed [You and I Are Polar Opposites](https://anilist.co/anime/184951) (16:51 28 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
