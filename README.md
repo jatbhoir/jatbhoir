@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 73 - 74 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (04:06 30 July 2026)
+-   📖 Read chapter 73 - 78 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (14:58 30 July 2026)
+-   📺 Watched episode 1 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (14:22 30 July 2026)
+-   📺 Plans to watch [Unanswered//butterfly: Sword Art Online](https://anilist.co/anime/208754) (14:15 30 July 2026)
 -   📖 Read chapter 166 - 171 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (03:31 30 July 2026)
 -   📺 Completed [Demon Slayer: Kimetsu no Yaiba Infinity Castle](https://anilist.co/anime/178788) (15:43 29 July 2026)
--   📖 Read chapter 158 - 165 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (08:57 29 July 2026)
--   📺 Watched episode 1 - 4 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (18:51 28 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
