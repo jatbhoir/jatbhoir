@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (09:08 02 August 2026)
 -   📖 Read chapter 211 - 213 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:14 02 August 2026)
 -   📖 Read chapter 82 - 89 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (06:56 02 August 2026)
 -   📺 Watched episode 6 of [The Villager of Level 999](https://anilist.co/anime/197715) (09:29 01 August 2026)
 -   📖 Read chapter 73 - 81 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (15:55 30 July 2026)
--   📺 Watched episode 1 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (14:22 30 July 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
