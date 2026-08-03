@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 - 68 of [High School Queen](https://anilist.co/manga/182401) (18:38 03 August 2026)
 -   📺 Watched episode 2 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (18:08 02 August 2026)
 -   📖 Completed [Die Melusine](https://anilist.co/manga/180563) (17:44 02 August 2026)
 -   📖 Read chapter 1 - 67 of [Die Melusine](https://anilist.co/manga/180563) (17:43 02 August 2026)
 -   📖 Plans to read [Die Melusine](https://anilist.co/manga/180563) (14:02 02 August 2026)
--   📖 Read chapter 172 of [The Male Lead's Little Lion Daughter](https://anilist.co/manga/138363) (13:38 02 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
