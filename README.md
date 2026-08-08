@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 179 - 180 of [The Infinite Mage](https://anilist.co/manga/159930) (17:47 08 August 2026)
 -   📖 Read chapter 31 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (16:23 08 August 2026)
 -   📖 Read chapter 26 - 30 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (14:35 06 August 2026)
 -   📖 Read chapter 22 - 25 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (13:33 05 August 2026)
 -   📖 Read chapter 1 - 21 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (15:18 04 August 2026)
--   📖 Plans to read [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (03:22 04 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
