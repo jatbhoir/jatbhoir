@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 - 13 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (07:57 11 August 2026)
 -   📺 Watched episode 7 of [The Villager of Level 999](https://anilist.co/anime/197715) (05:33 11 August 2026)
 -   📖 Read chapter 32 - 63 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (17:01 10 August 2026)
 -   📖 Read chapter 179 - 180 of [The Infinite Mage](https://anilist.co/manga/159930) (17:47 08 August 2026)
 -   📖 Read chapter 31 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (16:23 08 August 2026)
--   📖 Read chapter 26 - 30 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (14:35 06 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
