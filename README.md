@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (11:53 16 August 2026)
+-   📺 Watched episode 3 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (11:53 16 August 2026)
+-   📺 Watched episode 18 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (11:25 16 August 2026)
 -   📺 Watched episode 5 of [Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School](https://anilist.co/anime/201514) (16:56 15 August 2026)
 -   📺 Watched episode 5 - 6 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (16:25 15 August 2026)
--   📖 Read chapter 1 - 3 of [Ctrl+Alt+Resign](https://anilist.co/manga/188781) (13:37 14 August 2026)
--   📖 Plans to read [Ctrl+Alt+Resign](https://anilist.co/manga/188781) (13:06 14 August 2026)
--   📖 Read chapter 64 - 67 of [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (03:15 14 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
