@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 6 of [Ctrl+Alt+Resign](https://anilist.co/manga/188781) (13:19 17 August 2026)
 -   📖 Completed [His Recovery Magic Worked Too Well!](https://anilist.co/manga/199039) (16:23 16 August 2026)
 -   📺 Watched episode 7 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) (15:51 16 August 2026)
 -   📺 Watched episode 4 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (11:53 16 August 2026)
 -   📺 Watched episode 3 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (11:53 16 August 2026)
--   📺 Watched episode 18 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (11:25 16 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
