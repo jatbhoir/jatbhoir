@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (15:53 23 August 2026)
+-   📺 Watched episode 8 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) (15:51 23 August 2026)
+-   📺 Watched episode 19 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (15:24 23 August 2026)
 -   📺 Watched episode 8 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (14:02 23 August 2026)
 -   📺 Watched episode 5 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (13:04 23 August 2026)
--   📺 Watched episode 7 - 8 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (12:35 23 August 2026)
--   📖 Read chapter 7 of [Ctrl+Alt+Resign](https://anilist.co/manga/188781) (14:26 18 August 2026)
--   📖 Read chapter 4 - 6 of [Ctrl+Alt+Resign](https://anilist.co/manga/188781) (13:19 17 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
