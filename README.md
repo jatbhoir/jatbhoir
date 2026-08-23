@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 12 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (15:53 23 August 2026)
+-   📺 Watched episode 12 - 13 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (16:21 23 August 2026)
 -   📺 Watched episode 8 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) (15:51 23 August 2026)
 -   📺 Watched episode 19 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (15:24 23 August 2026)
 -   📺 Watched episode 8 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (14:02 23 August 2026)
