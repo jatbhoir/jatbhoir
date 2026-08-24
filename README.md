@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 14 - 19 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (20:16 23 August 2026)
 -   📺 Watched episode 12 - 13 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (16:21 23 August 2026)
 -   📺 Watched episode 8 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) (15:51 23 August 2026)
 -   📺 Watched episode 19 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (15:24 23 August 2026)
 -   📺 Watched episode 8 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (14:02 23 August 2026)
--   📺 Watched episode 5 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (13:04 23 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
