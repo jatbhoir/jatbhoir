@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 145 - 247 of [Blue Box](https://anilist.co/manga/132182) (13:24 27 August 2026)
+-   📖 Completed [Blue Box](https://anilist.co/manga/132182) (13:33 27 August 2026)
+-   📖 Read chapter 145 - 249 of [Blue Box](https://anilist.co/manga/132182) (13:30 27 August 2026)
 -   📖 Read chapter 131 - 144 of [Blue Box](https://anilist.co/manga/132182) (13:24 24 August 2026)
 -   📺 Watched episode 14 - 19 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (20:16 23 August 2026)
 -   📺 Watched episode 12 - 13 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (16:21 23 August 2026)
--   📺 Watched episode 8 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) (15:51 23 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
