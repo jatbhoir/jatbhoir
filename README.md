@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Blue Box](https://anilist.co/manga/132182) (13:33 27 August 2026)
--   📖 Read chapter 145 - 249 of [Blue Box](https://anilist.co/manga/132182) (13:30 27 August 2026)
--   📖 Read chapter 131 - 144 of [Blue Box](https://anilist.co/manga/132182) (13:24 24 August 2026)
--   📺 Watched episode 14 - 19 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (20:16 23 August 2026)
--   📺 Watched episode 12 - 13 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (16:21 23 August 2026)
+-   📺 Watched episode 6 of [Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School](https://anilist.co/anime/201514) (08:25 30 August 2026)
+-   📺 Watched episode 8 - 10 of [The Villager of Level 999](https://anilist.co/anime/197715) (07:24 30 August 2026)
+-   📺 Watched episode 9 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (06:24 30 August 2026)
+-   📺 Watched episode 20 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (05:59 30 August 2026)
+-   📺 Watched episode 14 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (05:34 30 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
