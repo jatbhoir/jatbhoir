@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 211 of [The Devil Butler](https://anilist.co/manga/116353) (03:20 02 September 2026)
+-   📖 Read chapter 211 - 218 of [The Devil Butler](https://anilist.co/manga/116353) (13:35 02 September 2026)
 -   📖 Read chapter 177 - 210 of [The Devil Butler](https://anilist.co/manga/116353) (14:24 01 September 2026)
 -   📖 Read chapter 1 - 176 of [The Devil Butler](https://anilist.co/manga/116353) (22:18 31 August 2026)
 -   📖 Plans to read [The Devil Butler](https://anilist.co/manga/116353) (11:34 30 August 2026)
