@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 219 - 230 of [The Devil Butler](https://anilist.co/manga/116353) (16:46 03 September 2026)
 -   📖 Read chapter 211 - 218 of [The Devil Butler](https://anilist.co/manga/116353) (13:35 02 September 2026)
 -   📖 Read chapter 177 - 210 of [The Devil Butler](https://anilist.co/manga/116353) (14:24 01 September 2026)
 -   📖 Read chapter 1 - 176 of [The Devil Butler](https://anilist.co/manga/116353) (22:18 31 August 2026)
 -   📖 Plans to read [The Devil Butler](https://anilist.co/manga/116353) (11:34 30 August 2026)
--   📺 Watched episode 6 of [Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School](https://anilist.co/anime/201514) (08:25 30 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
