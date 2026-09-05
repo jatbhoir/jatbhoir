@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (05:03 05 September 2026)
 -   📖 Read chapter 219 - 235 of [The Devil Butler](https://anilist.co/manga/116353) (17:09 03 September 2026)
 -   📖 Read chapter 211 - 218 of [The Devil Butler](https://anilist.co/manga/116353) (13:35 02 September 2026)
 -   📖 Read chapter 177 - 210 of [The Devil Butler](https://anilist.co/manga/116353) (14:24 01 September 2026)
 -   📖 Read chapter 1 - 176 of [The Devil Butler](https://anilist.co/manga/116353) (22:18 31 August 2026)
--   📖 Plans to read [The Devil Butler](https://anilist.co/manga/116353) (11:34 30 August 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
