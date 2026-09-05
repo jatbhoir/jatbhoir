@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (05:03 05 September 2026)
--   📖 Read chapter 219 - 235 of [The Devil Butler](https://anilist.co/manga/116353) (17:09 03 September 2026)
--   📖 Read chapter 211 - 218 of [The Devil Butler](https://anilist.co/manga/116353) (13:35 02 September 2026)
--   📖 Read chapter 177 - 210 of [The Devil Butler](https://anilist.co/manga/116353) (14:24 01 September 2026)
--   📖 Read chapter 1 - 176 of [The Devil Butler](https://anilist.co/manga/116353) (22:18 31 August 2026)
+-   📖 Read chapter 236 - 240 of [The Devil Butler](https://anilist.co/manga/116353) (09:38 05 September 2026)
+-   📺 Watched episode 21 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (08:51 05 September 2026)
+-   📺 Watched episode 10 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (08:26 05 September 2026)
+-   📺 Watched episode 15 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (07:58 05 September 2026)
+-   📺 Watched episode 6 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (07:29 05 September 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
