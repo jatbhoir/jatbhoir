@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 236 - 451 of [The Devil Butler](https://anilist.co/manga/116353) (16:31 06 September 2026)
--   📺 Watched episode 21 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (08:51 05 September 2026)
--   📺 Watched episode 10 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (08:26 05 September 2026)
--   📺 Watched episode 15 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (07:58 05 September 2026)
--   📺 Watched episode 6 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (07:29 05 September 2026)
+-   📖 Read chapter 533 - 551 of [The Devil Butler](https://anilist.co/manga/116353) (07:15 12 September 2026)
+-   📖 Read chapter 523 - 532 of [The Devil Butler](https://anilist.co/manga/116353) (13:25 10 September 2026)
+-   📖 Read chapter 485 - 522 of [The Devil Butler](https://anilist.co/manga/116353) (17:01 09 September 2026)
+-   📺 Watched episode 15 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (03:06 09 September 2026)
+-   📖 Read chapter 460 - 484 of [The Devil Butler](https://anilist.co/manga/116353) (14:11 08 September 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
