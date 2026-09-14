@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 533 - 623 of [The Devil Butler](https://anilist.co/manga/116353) (10:10 13 September 2026)
--   📖 Read chapter 523 - 532 of [The Devil Butler](https://anilist.co/manga/116353) (13:25 10 September 2026)
--   📖 Read chapter 485 - 522 of [The Devil Butler](https://anilist.co/manga/116353) (17:01 09 September 2026)
--   📺 Watched episode 15 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (03:06 09 September 2026)
--   📖 Read chapter 460 - 484 of [The Devil Butler](https://anilist.co/manga/116353) (14:11 08 September 2026)
+-   📺 Watched episode 16 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (07:37 14 September 2026)
+-   📺 Watched episode 22 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (07:09 14 September 2026)
+-   📺 Watched episode 9 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (06:34 14 September 2026)
+-   📺 Watched episode 11 - 12 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (06:28 14 September 2026)
+-   📖 Read chapter 624 of [The Devil Butler](https://anilist.co/manga/116353) (02:57 14 September 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
