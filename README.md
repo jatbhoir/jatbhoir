@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 813 - 815 of [The Devil Butler](https://anilist.co/manga/116353) (13:17 17 September 2026)
 -   📖 Read chapter 709 - 812 of [The Devil Butler](https://anilist.co/manga/116353) (14:24 16 September 2026)
 -   📖 Read chapter 624 - 708 of [The Devil Butler](https://anilist.co/manga/116353) (17:33 14 September 2026)
 -   📺 Watched episode 16 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (07:37 14 September 2026)
 -   📺 Watched episode 22 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (07:09 14 September 2026)
--   📺 Watched episode 9 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (06:34 14 September 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
