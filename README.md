@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (13:17 22 September 2026)
 -   📺 Watched episode 12 - 13 of [Mushoku Tensei: Jobless Reincarnation Season 3](https://anilist.co/anime/178789) (12:32 21 September 2026)
 -   📖 Read chapter 820 of [The Devil Butler](https://anilist.co/manga/116353) (03:55 21 September 2026)
 -   📺 Watched episode 11 - 12 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) (18:19 19 September 2026)
 -   📺 Watched episode 16 - 17 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (17:53 19 September 2026)
--   📺 Watched episode 23 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (17:23 19 September 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
