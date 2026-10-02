@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 824 - 845 of [The Devil Butler](https://anilist.co/manga/116353) (13:34 02 October 2026)
+-   📺 Completed [Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School](https://anilist.co/anime/201514) (10:22 02 October 2026)
 -   📺 Completed [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (09:18 02 October 2026)
 -   📺 Watched episode 11 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (08:56 02 October 2026)
 -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (08:23 02 October 2026)
--   📺 Watched episode 5 - 10 of [Love Unseen Beneath the Clear Night Sky](https://anilist.co/anime/202269) (13:27 30 September 2026)
--   📖 Read chapter 823 of [The Devil Butler](https://anilist.co/manga/116353) (11:49 29 September 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
