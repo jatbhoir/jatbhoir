@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 846 of [The Devil Butler](https://anilist.co/manga/116353) (03:00 06 October 2026)
 -   📺 Watched episode 12 of [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (15:55 04 October 2026)
 -   📺 Watched episode 1 of [Reincarnated as a Sword Season 2](https://anilist.co/anime/159042) (15:16 03 October 2026)
 -   📺 Plans to watch [Reincarnated as a Sword Season 2](https://anilist.co/anime/159042) (15:16 03 October 2026)
 -   📺 Watched episode 1 of [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) (14:15 03 October 2026)
--   📺 Plans to watch [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) (14:15 03 October 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
