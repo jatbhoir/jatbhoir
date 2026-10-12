@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 867 of [The Devil Butler](https://anilist.co/manga/116353) (03:16 12 October 2026)
+-   📖 Read chapter 867 - 868 of [The Devil Butler](https://anilist.co/manga/116353) (12:31 12 October 2026)
 -   📺 Completed [You and I Are Polar Opposites Season 2](https://anilist.co/anime/210031) (02:38 12 October 2026)
 -   📖 Read chapter 852 - 866 of [The Devil Butler](https://anilist.co/manga/116353) (16:41 07 October 2026)
 -   📺 Plans to watch [Black Clover Season 2](https://anilist.co/anime/195604) (02:07 07 October 2026)
