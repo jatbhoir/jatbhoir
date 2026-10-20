@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 22 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (09:33 20 October 2026)
 -   📺 Watched episode 20 - 21 of [Ascendance of a Bookworm: Adopted Daughter of an Archduke](https://anilist.co/anime/171110) (12:50 17 October 2026)
 -   📖 Read chapter 886 - 895 of [The Devil Butler](https://anilist.co/manga/116353) (13:30 15 October 2026)
 -   📖 Read chapter 880 - 885 of [The Devil Butler](https://anilist.co/manga/116353) (14:14 14 October 2026)
 -   📖 Read chapter 869 - 879 of [The Devil Butler](https://anilist.co/manga/116353) (13:28 13 October 2026)
--   📖 Read chapter 867 - 868 of [The Devil Butler](https://anilist.co/manga/116353) (12:31 12 October 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
