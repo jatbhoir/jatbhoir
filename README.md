@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 901 - 903 of [The Devil Butler](https://anilist.co/manga/116353) (13:29 29 October 2026)
 -   📺 Completed [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (03:59 28 October 2026)
 -   📖 Read chapter 896 - 900 of [The Devil Butler](https://anilist.co/manga/116353) (13:32 26 October 2026)
 -   📺 Completed [Clevatess Season 2](https://anilist.co/anime/198946) (18:55 25 October 2026)
 -   📺 Watched episode 1 - 12 of [Clevatess Season 2](https://anilist.co/anime/198946) (18:32 25 October 2026)
--   📺 Plans to watch [Clevatess Season 2](https://anilist.co/anime/198946) (13:54 25 October 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
