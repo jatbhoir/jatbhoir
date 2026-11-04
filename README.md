@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 907 of [The Devil Butler](https://anilist.co/manga/116353) (12:31 04 November 2026)
 -   📖 Read chapter 904 - 906 of [The Devil Butler](https://anilist.co/manga/116353) (13:05 03 November 2026)
 -   📺 Watched episode 2 of [Cyberpunk: Edgerunners 2](https://anilist.co/anime/195539) (03:04 03 November 2026)
 -   📖 Read chapter 901 - 903 of [The Devil Butler](https://anilist.co/manga/116353) (13:29 29 October 2026)
 -   📺 Completed [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (03:59 28 October 2026)
--   📖 Read chapter 896 - 900 of [The Devil Butler](https://anilist.co/manga/116353) (13:32 26 October 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
