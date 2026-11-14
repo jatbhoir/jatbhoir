@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Yona of the Dawn](https://anilist.co/manga/51525) (18:23 14 November 2026)
+-   📖 Read chapter 266 - 276 of [Yona of the Dawn](https://anilist.co/manga/51525) (18:09 14 November 2026)
+-   📖 Completed [The Dangers in My Heart](https://anilist.co/manga/101557) (17:02 14 November 2026)
+-   📖 Read chapter 188 - 198 of [The Dangers in My Heart](https://anilist.co/manga/101557) (16:57 14 November 2026)
 -   📖 Paused reading [Castle Town Dandelion](https://anilist.co/manga/86376) (15:21 14 November 2026)
--   📺 Watched episode 2 of [Frieren: Beyond Journey’s End Season 2](https://anilist.co/anime/182255) (15:10 14 November 2026)
--   📖 Plans to read [Otomege Sekai wa Mob ni Kibishii Sekai desu: Kyouwakoku-hen](https://anilist.co/manga/201244) (15:05 14 November 2026)
--   📺 Completed [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2](https://anilist.co/anime/159309) (14:40 14 November 2026)
--   📺 Watched episode 1 - 11 of [Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2](https://anilist.co/anime/159309) (13:59 14 November 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
