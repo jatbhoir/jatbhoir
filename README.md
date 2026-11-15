@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 - 14 of [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (07:10 15 November 2026)
 -   📖 Completed [Yona of the Dawn](https://anilist.co/manga/51525) (18:23 14 November 2026)
 -   📖 Read chapter 266 - 276 of [Yona of the Dawn](https://anilist.co/manga/51525) (18:09 14 November 2026)
 -   📖 Completed [The Dangers in My Heart](https://anilist.co/manga/101557) (17:02 14 November 2026)
 -   📖 Read chapter 188 - 198 of [The Dangers in My Heart](https://anilist.co/manga/101557) (16:57 14 November 2026)
--   📖 Paused reading [Castle Town Dandelion](https://anilist.co/manga/86376) (15:21 14 November 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
