@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 3 of [Pick Me Up](https://anilist.co/manga/159441) (03:10 16 November 2026)
+-   📺 Watched episode 3 - 4 of [Oh Boy, Was I Wrong About Her](https://anilist.co/anime/169583) (01:37 16 November 2026)
 -   📖 Read chapter 90 - 91 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (15:03 15 November 2026)
 -   📺 Completed [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (11:00 15 November 2026)
 -   📺 Watched episode 10 - 23 of [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (10:38 15 November 2026)
--   📺 Watched episode 10 - 18 of [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (08:33 15 November 2026)
--   📺 Watched episode 10 - 18 of [Welcome to Demon School! Iruma-kun Season 4](https://anilist.co/anime/184492) (08:33 15 November 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
