@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 - 11 of [Pick Me Up](https://anilist.co/manga/159441) (02:34 18 November 2026)
 -   📖 Read chapter 5 - 8 of [Pick Me Up](https://anilist.co/manga/159441) (13:21 17 November 2026)
 -   📺 Completed [Oh Boy, Was I Wrong About Her](https://anilist.co/anime/169583) (17:19 16 November 2026)
 -   📺 Watched episode 3 - 11 of [Oh Boy, Was I Wrong About Her](https://anilist.co/anime/169583) (16:56 16 November 2026)
 -   📖 Read chapter 2 - 4 of [Pick Me Up](https://anilist.co/manga/159441) (13:26 16 November 2026)
--   📖 Read chapter 90 - 91 of [My Bias Gets on the Last Train](https://anilist.co/manga/187944) (15:03 15 November 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
