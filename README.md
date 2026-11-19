@@ -39,11 +39,11 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 47 - 59 of [Overgeared](https://anilist.co/manga/117460) (17:51 19 November 2026)
+-   📺 Watched episode 1 - 8 of [Overgeared](https://anilist.co/anime/212888) (15:51 19 November 2026)
+-   📖 Plans to read [Overgeared](https://anilist.co/manga/117460) (14:44 19 November 2026)
 -   📖 Read chapter 9 - 15 of [Pick Me Up](https://anilist.co/manga/159441) (13:26 18 November 2026)
 -   📖 Read chapter 5 - 8 of [Pick Me Up](https://anilist.co/manga/159441) (13:21 17 November 2026)
--   📺 Completed [Oh Boy, Was I Wrong About Her](https://anilist.co/anime/169583) (17:19 16 November 2026)
--   📺 Watched episode 3 - 11 of [Oh Boy, Was I Wrong About Her](https://anilist.co/anime/169583) (16:56 16 November 2026)
--   📖 Read chapter 2 - 4 of [Pick Me Up](https://anilist.co/manga/159441) (13:26 16 November 2026)
 
  <!-- ANILIST_ACTIVITY:end -->
 </div>
