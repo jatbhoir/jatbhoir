@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 59 of [Overgeared](https://anilist.co/manga/117460) (17:51 19 November 2026)
+-   📖 Read chapter 47 - 76 of [Overgeared](https://anilist.co/manga/117460) (19:54 19 November 2026)
 -   📺 Watched episode 1 - 8 of [Overgeared](https://anilist.co/anime/212888) (15:51 19 November 2026)
 -   📖 Plans to read [Overgeared](https://anilist.co/manga/117460) (14:44 19 November 2026)
 -   📖 Read chapter 9 - 15 of [Pick Me Up](https://anilist.co/manga/159441) (13:26 18 November 2026)
