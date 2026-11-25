@@ -39,7 +39,7 @@
  
  <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 42 of [Pick Me Up](https://anilist.co/manga/159441) (03:13 25 November 2026)
+-   📖 Read chapter 41 - 50 of [Pick Me Up](https://anilist.co/manga/159441) (13:21 25 November 2026)
 -   📖 Read chapter 34 - 40 of [Pick Me Up](https://anilist.co/manga/159441) (13:30 24 November 2026)
 -   📖 Read chapter 18 - 33 of [Pick Me Up](https://anilist.co/manga/159441) (13:33 23 November 2026)
 -   📺 Watched episode 2 - 8 of [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) (17:05 22 November 2026)
